@@ -1,0 +1,151 @@
+1990 - 2000
+Dektop based application
+
+1994
+Web based application
+
+COM Framework: Component Object Model
+------------------------------------------------
+Visual Studio 6.0 - Editor
+Data Aceess: ADO (ActiveX Data Object), DAO (Data Access Object), RDO (Remote Data Object)
+Web App: ASP (Active Server Pages)
+
+Languages:
+VB 6.0: Object Based
+VC++: OOP (system s/w)
+Visual Foxpro
+etc....
+
+apps:
+Desktop
+Web 
+
+Sun Microsystem
+Java: Open source, create app in one and run in another machine
+Java language: OOP langauge 
+JVM -- JIT -- 
+JDBC
+JSP-Servelet etc.
+
+Visual J++ (Java + C++) -- obsolete
+
+Microsoft (2002)
+.NET Framework (Net Enabled Technologies)
+- development facility
+- writing code facility
+- compiling the code
+- running the code
+- deploying the code
+- testing the code
+
+
+Web App: ASP.NET
+Data Access Tech. : ADO.NET (ActiveX Data Object .NET)
+Runtime Environment: Common Language Runtime (CLR) -- Just-in-Time (JIT) compiler
+Common Library: built-in everything (classes, interfaces etc.)
+
+
+				.NET Framework Components
+-------------------------------------------------------------------------------------
+1. Base Class Library (FCL/BCL)
+2. CLR
+3. ASP.NET
+4. ADO.NET
+5. UI
+
+
+Editor: 
+-------------------------
+Visual Studio .NET (2002/2003/2005....2019)
+Visual Studio Code
+
+Languages supported in .NET Framework:
+------------------------------------------
+VB.NET
+VC++.NET
+VJ#
+Visual C#
+.... (34 langauges)
+
+Execution Cycle of any application:
+---------------------------------------------------
+1. Source Code (C#/ VB/ VC++...)--> (Compiler - CSC,VBC,VCC...)-->IL [Intermediate Language] Code (will be present in either .exe or .dll file, known as Assembly, which is a standard Portable, Executable file - PE32/64 file)
+2. IL Code -->CLR (Common Language Runtime -> JIT (Just-in-Time compiler, a runtime compiler))--> Machine Level code--> Execute
+
+Built-in Libraries:
+C:\Windows\Microsoft.NET\Framework64\v4.0.30319
+
+Tools and other things:
+C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools
+
+Console:
+ Visual Studio 2019 Developer Command Prompt (configured with environment variables for .NET Framework)
+
+Type of apps/output files:
+EXECUTABLE and LIBRARIES (.exe and .dll)
+
+command to compile C# app from VS command prompt:
+>csc /target:exe Program.cs
+
+view IL code and others:
+tool: ILDASM --> Intermediate Language Disassembler
+
+.NET Framework Version History:
+https://www.guru99.com/c-sharp-dot-net-version-history.html
+
+C# version history
+https://www.tutorialsteacher.com/csharp/csharp-version-history
+
+.NET Roadmap:
+https://devblogs.microsoft.com/dotnet/introducing-net-5/
+
+Type of applications that can be created in .NET Core
+------------------------------------------------------------
+https://docs.microsoft.com/en-us/dotnet/core/tools/dotnet-new
+
+2017:
+.NET Core --> subset of .NET legacy Framework (1.0. 2.0. 2.1, 2.2, 3.0, 3.1.12,...)
+-- cross platform technique to create applications, open source
+
+.net core library
+Core CLR
+ado.net core
+asp.net core
+
+
+language: C# core
+compiler: Roslyn
+Mono--> wrapper for .NET Framework
+
+			.NET Standard (guideline for creating portable applications)
+			list of libraries common between both frameworks
+------------------------------------------------------------------------------------
+
+.net legacy framework (4.8)   			.net core framework--> ST & LTS
+legacy C# (7.0 supported)      			C# core (C# 8.0 features)
+			       			asp.net core
+
+.NET 5 (vNext of Core)
+.NET Core applications can be created using CLI tool (Command Line Interface) -- dotnet
+
+				 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
