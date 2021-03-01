@@ -1,0 +1,15 @@
+.NET Framework/.NET Core
+C# (language)
+Data Access from .NET applications
+
+Web:
+HTML, CSS, JS, (jQuery)
+Web with .NET:
+ASp.NET Core (MVC)
+ASP.NET WEB Api
+
+S/W:
+Visual Studio 2019 (Professional)
+Visual Studio Code
+IIS (Internet Information Services)
+SQL Server >2016 (Professional Edition/Enterprise Edition)
