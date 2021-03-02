@@ -1,0 +1,31 @@
+.NET Framework				.NET Core
+-----------------------------------------------------------
+BCL/FCL					Core Library
+CLR					Core CLR
+					a. .NET Core Runtime
+					b. ASP.NET Core Rutime
+					c. .NET Desktop Runtime
+ASP.NET					ASP.NET Core
+ADO.NET					-----
+
+No CLI support to create app		CLI support to crete app
+VS 2019					VS Code/VS 2019
+
+>dotnet new console --name testapp -f netcoreapp3.1
+>dotnet build (inside project directory)
+>dotnet run (...)
+
+C#: Language
+1. OOP language
+2. Case sensitive
+3. type-safe
+
+
+
+
+
+
+
+
+
+
