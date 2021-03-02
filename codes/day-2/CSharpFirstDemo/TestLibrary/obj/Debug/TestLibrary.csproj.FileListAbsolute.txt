@@ -1,0 +1,6 @@
+E:\epsilon-dotnet\codes\day-2\CSharpFirstDemo\TestLibrary\bin\Debug\TestLibrary.pdb
+E:\epsilon-dotnet\codes\day-2\CSharpFirstDemo\TestLibrary\obj\Debug\TestLibrary.csprojAssemblyReference.cache
+E:\epsilon-dotnet\codes\day-2\CSharpFirstDemo\TestLibrary\obj\Debug\TestLibrary.csproj.CoreCompileInputs.cache
+E:\epsilon-dotnet\codes\day-2\CSharpFirstDemo\TestLibrary\obj\Debug\TestLibrary.pdb
+E:\epsilon-dotnet\codes\day-2\CSharpFirstDemo\TestLibrary\bin\Debug\TestLibrary.dll
+E:\epsilon-dotnet\codes\day-2\CSharpFirstDemo\TestLibrary\obj\Debug\TestLibrary.dll

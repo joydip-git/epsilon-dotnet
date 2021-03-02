@@ -20,6 +20,15 @@ C#: Language
 2. Case sensitive
 3. type-safe
 
+App Structure in VS:
+a. directory with name same as that of the solution--> 
+1.*.sln (solution file) -- container for application(s)
+2. project/application directory 
+	i. Program.cs file (code file with Main method)
+	ii. App.config file: application configuration file in XML (like database connection settings, file path settings etc.)
+	iii. *.csproj file (C# Project file)
+	iv. AssemblyInfo.cs --> information about the application or assembly
+
 
 
 

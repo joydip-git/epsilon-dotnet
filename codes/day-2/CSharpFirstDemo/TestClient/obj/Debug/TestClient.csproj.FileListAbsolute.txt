@@ -1,0 +1,10 @@
+E:\epsilon-dotnet\codes\day-2\CSharpFirstDemo\TestClient\bin\Debug\TestClient.exe.config
+E:\epsilon-dotnet\codes\day-2\CSharpFirstDemo\TestClient\bin\Debug\TestClient.exe
+E:\epsilon-dotnet\codes\day-2\CSharpFirstDemo\TestClient\bin\Debug\TestClient.pdb
+E:\epsilon-dotnet\codes\day-2\CSharpFirstDemo\TestClient\bin\Debug\TestLibrary.dll
+E:\epsilon-dotnet\codes\day-2\CSharpFirstDemo\TestClient\bin\Debug\TestLibrary.pdb
+E:\epsilon-dotnet\codes\day-2\CSharpFirstDemo\TestClient\obj\Debug\TestClient.csprojAssemblyReference.cache
+E:\epsilon-dotnet\codes\day-2\CSharpFirstDemo\TestClient\obj\Debug\TestClient.csproj.CoreCompileInputs.cache
+E:\epsilon-dotnet\codes\day-2\CSharpFirstDemo\TestClient\obj\Debug\TestClient.csproj.CopyComplete
+E:\epsilon-dotnet\codes\day-2\CSharpFirstDemo\TestClient\obj\Debug\TestClient.exe
+E:\epsilon-dotnet\codes\day-2\CSharpFirstDemo\TestClient\obj\Debug\TestClient.pdb
