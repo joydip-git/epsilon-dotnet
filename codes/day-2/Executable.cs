@@ -1,4 +1,7 @@
 using System; //System namespace
+//using LibraryApp; <-- DLL name (don't mention this if the namespace name is different)
+//using LibraryApp; //in case Namespace name and DLL name same
+using MyLibrary;
 
 class Executable
 {
