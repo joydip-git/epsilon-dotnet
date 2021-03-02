@@ -1,0 +1,47 @@
+1. create a LIBRARY (CalculationLibrary) with a class, named, Calculation (in Calculation.cs file)
+2. Add 4 non-static methods in the class: Add, Subtract, Multiply, Divide
+	a. all 4 methods takes two arguments: int, int
+	b. all 4 methods return an int
+3. compile the library
+NOTE: NO console clas usage in the library
+
+4. in the same solution add a console application
+5. add reference to the library application in the same solution
+6. use the namespace
+7. create instance of Calculation class
+8. call all 4 methods
+	a. show a menu to the user		
+	c. accordingly call any of the 4 methods
+	d. before that, accept two values from user and pass them to any of the methods
+	e. after one cycle ask user whether to continue or not...
+
+
+	1. Add
+	2. Sub...
+	3. Mul...
+	4. Div...
+
+	b. tell user to make a choice (1/2/3/4)
+
+	Enter your choice[1/2/3/4]: <1/2/3/4>
+	
+	Enter 1st value: <10/20/...>
+	Enter 2nd value: <10/20/...>
+
+	Result of addition of <num1> & <num2> is <res>
+	Would you like to continue?[y/n]: <y/n/Y/N>
+	
+	1. Add
+	2. Sub...
+	3. Mul...
+	4. Div...
+
+	b. tell user to make a choice (1/2/3/4)
+
+	Enter your choice[1/2/3/4]: <1/2/3/4>
+	
+	Enter 1st value: <10/20/...>
+	Enter 2nd value: <10/20/...>
+
+	Result of addition of <num1> & <num2> is <res>
+

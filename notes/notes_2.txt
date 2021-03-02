@@ -30,6 +30,80 @@ a. directory with name same as that of the solution-->
 	iv. AssemblyInfo.cs --> information about the application or assembly
 
 
+C# Learning Curve:
+A. Basics
+	a. structure of C# application
+	b. Data Types, conversion between data types - implicit & explicit
+	c. Operators
+	d. Expressions
+	e. Arrays
+	f. struct
+	g. enum
+
+B. OOP
+	a. Class & Object
+	b. members of a class: fields, ctors, methods, properties, events
+	c. access specifiers: class & class members
+	d. constructors
+	e. static members
+	
+	f. OOP Concepts: encapsulation
+	g. inheritance, types of inheritance supported in C#
+	h. upcasting and downcasting
+	i. constructor execution sequence
+
+	j. polymorphism - static & dynamic
+	k. method & operator overloading
+	l. virtual & override keyword (new)
+	m. sealed keyword
+
+	n. abstract class & abstract keyword
+	o. polymorphism through abstract class
+	
+	p. interface
+	q. do's and dont's of interface
+	r. implementation of interface members: implict & explicit
+	s. real time implementation of OOP (concrete class, abstract class, interface etc.)
+	t. design patterns: singleton pattern, IOC (inversion of control), DI (dependency injection)
+
+c. Post OOP:
+	a. Object class and its members
+	b. equality checking
+	c. comparison
+	
+	d. exception handling
+	e. generics
+	f. collections
+	g. generic collections
+
+	h. delegates
+	i. events
+
+	j. new features in C#: 2.0, 3.0, 4.0, 5.0, 6.0, 7.0, 8.0
+	k. LINQ (Language Integrated Query)
+
+	l. Threading & Tasks
+
+
+.NET Core Details:
+https://natemcmaster.com/blog/2017/12/21/netcore-primitives/
+
+https://dotnettutorials.net/course/csharp-dot-net-tutorials/
+
+.NET tools:
+https://docs.microsoft.com/en-us/dotnet/core/tools/
+
+.NET Standard:
+https://docs.microsoft.com/en-us/dotnet/standard/whats-new/whats-new-in-dotnet-standard?tabs=csharp
+
+
+
+
+
+
+
+
+
 
 
 
