@@ -3,17 +3,20 @@ using System; //System namespace
 //using LibraryApp; //in case Namespace name and DLL name same
 using MyLibrary;
 
-class Executable
+namespace MyExecutable
 {
-	static void Main()
+	class Executable
 	{
-		Console.WriteLine("Hello World...");
+		static void Main()
+		{
+			Console.WriteLine("Hello World...");
 		
-		LibraryCls libraryCls = new LibraryCls();
-		string message = libraryCls.SayWelcome("Joydip");
-		Console.WriteLine(message);
+			LibraryCls libraryCls = new LibraryCls();
+			string message = libraryCls.SayWelcome("Joydip");
+			Console.WriteLine(message);
 
-		Console.WriteLine("Press any key to terminate...");
-		Console.ReadLine();
+			Console.WriteLine("Press any key to terminate...");
+			Console.ReadLine();
+		}
 	}
 }
