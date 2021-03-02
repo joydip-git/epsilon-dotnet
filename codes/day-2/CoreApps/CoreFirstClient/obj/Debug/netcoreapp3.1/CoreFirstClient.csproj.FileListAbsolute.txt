@@ -1,0 +1,16 @@
+E:\epsilon-dotnet\codes\day-2\CoreApps\CoreFirstClient\bin\Debug\netcoreapp3.1\CoreFirstClient.exe
+E:\epsilon-dotnet\codes\day-2\CoreApps\CoreFirstClient\bin\Debug\netcoreapp3.1\CoreFirstClient.deps.json
+E:\epsilon-dotnet\codes\day-2\CoreApps\CoreFirstClient\bin\Debug\netcoreapp3.1\CoreFirstClient.runtimeconfig.json
+E:\epsilon-dotnet\codes\day-2\CoreApps\CoreFirstClient\bin\Debug\netcoreapp3.1\CoreFirstClient.runtimeconfig.dev.json
+E:\epsilon-dotnet\codes\day-2\CoreApps\CoreFirstClient\bin\Debug\netcoreapp3.1\CoreFirstClient.dll
+E:\epsilon-dotnet\codes\day-2\CoreApps\CoreFirstClient\bin\Debug\netcoreapp3.1\CoreFirstClient.pdb
+E:\epsilon-dotnet\codes\day-2\CoreApps\CoreFirstClient\bin\Debug\netcoreapp3.1\CoreFirstLibrary.dll
+E:\epsilon-dotnet\codes\day-2\CoreApps\CoreFirstClient\bin\Debug\netcoreapp3.1\CoreFirstLibrary.pdb
+E:\epsilon-dotnet\codes\day-2\CoreApps\CoreFirstClient\obj\Debug\netcoreapp3.1\CoreFirstClient.csprojAssemblyReference.cache
+E:\epsilon-dotnet\codes\day-2\CoreApps\CoreFirstClient\obj\Debug\netcoreapp3.1\CoreFirstClient.AssemblyInfoInputs.cache
+E:\epsilon-dotnet\codes\day-2\CoreApps\CoreFirstClient\obj\Debug\netcoreapp3.1\CoreFirstClient.AssemblyInfo.cs
+E:\epsilon-dotnet\codes\day-2\CoreApps\CoreFirstClient\obj\Debug\netcoreapp3.1\CoreFirstClient.csproj.CoreCompileInputs.cache
+E:\epsilon-dotnet\codes\day-2\CoreApps\CoreFirstClient\obj\Debug\netcoreapp3.1\CoreFirstClient.csproj.CopyComplete
+E:\epsilon-dotnet\codes\day-2\CoreApps\CoreFirstClient\obj\Debug\netcoreapp3.1\CoreFirstClient.dll
+E:\epsilon-dotnet\codes\day-2\CoreApps\CoreFirstClient\obj\Debug\netcoreapp3.1\CoreFirstClient.pdb
+E:\epsilon-dotnet\codes\day-2\CoreApps\CoreFirstClient\obj\Debug\netcoreapp3.1\CoreFirstClient.genruntimeconfig.cache

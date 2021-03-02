@@ -1,0 +1,12 @@
+E:\epsilon-dotnet\codes\day-2\CLIApps\CoreLib\bin\Debug\net5.0\CoreLib.deps.json
+E:\epsilon-dotnet\codes\day-2\CLIApps\CoreLib\bin\Debug\net5.0\CoreLib.dll
+E:\epsilon-dotnet\codes\day-2\CLIApps\CoreLib\bin\Debug\net5.0\ref\CoreLib.dll
+E:\epsilon-dotnet\codes\day-2\CLIApps\CoreLib\bin\Debug\net5.0\CoreLib.pdb
+E:\epsilon-dotnet\codes\day-2\CLIApps\CoreLib\obj\Debug\net5.0\CoreLib.csprojAssemblyReference.cache
+E:\epsilon-dotnet\codes\day-2\CLIApps\CoreLib\obj\Debug\net5.0\CoreLib.GeneratedMSBuildEditorConfig.editorconfig
+E:\epsilon-dotnet\codes\day-2\CLIApps\CoreLib\obj\Debug\net5.0\CoreLib.AssemblyInfoInputs.cache
+E:\epsilon-dotnet\codes\day-2\CLIApps\CoreLib\obj\Debug\net5.0\CoreLib.AssemblyInfo.cs
+E:\epsilon-dotnet\codes\day-2\CLIApps\CoreLib\obj\Debug\net5.0\CoreLib.csproj.CoreCompileInputs.cache
+E:\epsilon-dotnet\codes\day-2\CLIApps\CoreLib\obj\Debug\net5.0\CoreLib.dll
+E:\epsilon-dotnet\codes\day-2\CLIApps\CoreLib\obj\Debug\net5.0\ref\CoreLib.dll
+E:\epsilon-dotnet\codes\day-2\CLIApps\CoreLib\obj\Debug\net5.0\CoreLib.pdb

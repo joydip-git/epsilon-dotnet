@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CoreClient/1.0.0": {
+        "dependencies": {
+          "FirstStandardLibrary": "1.0.0"
+        },
+        "runtime": {
+          "CoreClient.dll": {}
+        }
+      },
+      "FirstStandardLibrary/1.0.0": {
+        "runtime": {
+          "FirstStandardLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CoreClient/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FirstStandardLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "vsVFvDFlZ10Rv/zi1F2ngTSAIhyqgmlh22jSMd87Pd7dR24dJr8To5uxRG3bf1P85Iuf3T38t0dKIxtCvOfa1w==",
+  "success": true,
+  "projectFilePath": "E:\\epsilon-dotnet\\codes\\day-2\\StandardApp\\FirstStandardLibrary\\FirstStandardLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joydip\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

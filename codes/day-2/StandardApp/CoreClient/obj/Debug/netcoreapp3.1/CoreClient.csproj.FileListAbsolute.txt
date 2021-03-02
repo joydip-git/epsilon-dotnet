@@ -1,0 +1,16 @@
+E:\epsilon-dotnet\codes\day-2\StandardApp\CoreClient\bin\Debug\netcoreapp3.1\CoreClient.exe
+E:\epsilon-dotnet\codes\day-2\StandardApp\CoreClient\bin\Debug\netcoreapp3.1\CoreClient.deps.json
+E:\epsilon-dotnet\codes\day-2\StandardApp\CoreClient\bin\Debug\netcoreapp3.1\CoreClient.runtimeconfig.json
+E:\epsilon-dotnet\codes\day-2\StandardApp\CoreClient\bin\Debug\netcoreapp3.1\CoreClient.runtimeconfig.dev.json
+E:\epsilon-dotnet\codes\day-2\StandardApp\CoreClient\bin\Debug\netcoreapp3.1\CoreClient.dll
+E:\epsilon-dotnet\codes\day-2\StandardApp\CoreClient\bin\Debug\netcoreapp3.1\CoreClient.pdb
+E:\epsilon-dotnet\codes\day-2\StandardApp\CoreClient\bin\Debug\netcoreapp3.1\FirstStandardLibrary.dll
+E:\epsilon-dotnet\codes\day-2\StandardApp\CoreClient\bin\Debug\netcoreapp3.1\FirstStandardLibrary.pdb
+E:\epsilon-dotnet\codes\day-2\StandardApp\CoreClient\obj\Debug\netcoreapp3.1\CoreClient.csprojAssemblyReference.cache
+E:\epsilon-dotnet\codes\day-2\StandardApp\CoreClient\obj\Debug\netcoreapp3.1\CoreClient.AssemblyInfoInputs.cache
+E:\epsilon-dotnet\codes\day-2\StandardApp\CoreClient\obj\Debug\netcoreapp3.1\CoreClient.AssemblyInfo.cs
+E:\epsilon-dotnet\codes\day-2\StandardApp\CoreClient\obj\Debug\netcoreapp3.1\CoreClient.csproj.CoreCompileInputs.cache
+E:\epsilon-dotnet\codes\day-2\StandardApp\CoreClient\obj\Debug\netcoreapp3.1\CoreClient.csproj.CopyComplete
+E:\epsilon-dotnet\codes\day-2\StandardApp\CoreClient\obj\Debug\netcoreapp3.1\CoreClient.dll
+E:\epsilon-dotnet\codes\day-2\StandardApp\CoreClient\obj\Debug\netcoreapp3.1\CoreClient.pdb
+E:\epsilon-dotnet\codes\day-2\StandardApp\CoreClient\obj\Debug\netcoreapp3.1\CoreClient.genruntimeconfig.cache

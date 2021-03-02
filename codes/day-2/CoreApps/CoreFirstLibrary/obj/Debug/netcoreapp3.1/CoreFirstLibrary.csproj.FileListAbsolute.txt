@@ -1,0 +1,9 @@
+E:\epsilon-dotnet\codes\day-2\CoreApps\CoreFirstLibrary\bin\Debug\netcoreapp3.1\CoreFirstLibrary.deps.json
+E:\epsilon-dotnet\codes\day-2\CoreApps\CoreFirstLibrary\bin\Debug\netcoreapp3.1\CoreFirstLibrary.dll
+E:\epsilon-dotnet\codes\day-2\CoreApps\CoreFirstLibrary\bin\Debug\netcoreapp3.1\CoreFirstLibrary.pdb
+E:\epsilon-dotnet\codes\day-2\CoreApps\CoreFirstLibrary\obj\Debug\netcoreapp3.1\CoreFirstLibrary.csprojAssemblyReference.cache
+E:\epsilon-dotnet\codes\day-2\CoreApps\CoreFirstLibrary\obj\Debug\netcoreapp3.1\CoreFirstLibrary.AssemblyInfoInputs.cache
+E:\epsilon-dotnet\codes\day-2\CoreApps\CoreFirstLibrary\obj\Debug\netcoreapp3.1\CoreFirstLibrary.AssemblyInfo.cs
+E:\epsilon-dotnet\codes\day-2\CoreApps\CoreFirstLibrary\obj\Debug\netcoreapp3.1\CoreFirstLibrary.csproj.CoreCompileInputs.cache
+E:\epsilon-dotnet\codes\day-2\CoreApps\CoreFirstLibrary\obj\Debug\netcoreapp3.1\CoreFirstLibrary.dll
+E:\epsilon-dotnet\codes\day-2\CoreApps\CoreFirstLibrary\obj\Debug\netcoreapp3.1\CoreFirstLibrary.pdb

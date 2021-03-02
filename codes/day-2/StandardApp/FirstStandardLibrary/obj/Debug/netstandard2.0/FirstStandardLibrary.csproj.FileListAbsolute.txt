@@ -1,0 +1,9 @@
+E:\epsilon-dotnet\codes\day-2\StandardApp\FirstStandardLibrary\bin\Debug\netstandard2.0\FirstStandardLibrary.deps.json
+E:\epsilon-dotnet\codes\day-2\StandardApp\FirstStandardLibrary\bin\Debug\netstandard2.0\FirstStandardLibrary.dll
+E:\epsilon-dotnet\codes\day-2\StandardApp\FirstStandardLibrary\bin\Debug\netstandard2.0\FirstStandardLibrary.pdb
+E:\epsilon-dotnet\codes\day-2\StandardApp\FirstStandardLibrary\obj\Debug\netstandard2.0\FirstStandardLibrary.csprojAssemblyReference.cache
+E:\epsilon-dotnet\codes\day-2\StandardApp\FirstStandardLibrary\obj\Debug\netstandard2.0\FirstStandardLibrary.AssemblyInfoInputs.cache
+E:\epsilon-dotnet\codes\day-2\StandardApp\FirstStandardLibrary\obj\Debug\netstandard2.0\FirstStandardLibrary.AssemblyInfo.cs
+E:\epsilon-dotnet\codes\day-2\StandardApp\FirstStandardLibrary\obj\Debug\netstandard2.0\FirstStandardLibrary.csproj.CoreCompileInputs.cache
+E:\epsilon-dotnet\codes\day-2\StandardApp\FirstStandardLibrary\obj\Debug\netstandard2.0\FirstStandardLibrary.dll
+E:\epsilon-dotnet\codes\day-2\StandardApp\FirstStandardLibrary\obj\Debug\netstandard2.0\FirstStandardLibrary.pdb

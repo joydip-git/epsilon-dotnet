@@ -1,0 +1,10 @@
+E:\epsilon-dotnet\codes\day-2\StandardApp\RegularClient\bin\Debug\RegularClient.exe.config
+E:\epsilon-dotnet\codes\day-2\StandardApp\RegularClient\bin\Debug\RegularClient.exe
+E:\epsilon-dotnet\codes\day-2\StandardApp\RegularClient\bin\Debug\RegularClient.pdb
+E:\epsilon-dotnet\codes\day-2\StandardApp\RegularClient\bin\Debug\FirstStandardLibrary.dll
+E:\epsilon-dotnet\codes\day-2\StandardApp\RegularClient\bin\Debug\FirstStandardLibrary.pdb
+E:\epsilon-dotnet\codes\day-2\StandardApp\RegularClient\obj\Debug\RegularClient.csprojAssemblyReference.cache
+E:\epsilon-dotnet\codes\day-2\StandardApp\RegularClient\obj\Debug\RegularClient.csproj.CoreCompileInputs.cache
+E:\epsilon-dotnet\codes\day-2\StandardApp\RegularClient\obj\Debug\RegularClient.csproj.CopyComplete
+E:\epsilon-dotnet\codes\day-2\StandardApp\RegularClient\obj\Debug\RegularClient.exe
+E:\epsilon-dotnet\codes\day-2\StandardApp\RegularClient\obj\Debug\RegularClient.pdb
