@@ -1,0 +1,16 @@
+E:\epsilon-dotnet\codes\day-3\CSharpBasics\ArrayDemo\bin\Debug\net5.0\ArrayDemo.exe
+E:\epsilon-dotnet\codes\day-3\CSharpBasics\ArrayDemo\bin\Debug\net5.0\ArrayDemo.deps.json
+E:\epsilon-dotnet\codes\day-3\CSharpBasics\ArrayDemo\bin\Debug\net5.0\ArrayDemo.runtimeconfig.json
+E:\epsilon-dotnet\codes\day-3\CSharpBasics\ArrayDemo\bin\Debug\net5.0\ArrayDemo.runtimeconfig.dev.json
+E:\epsilon-dotnet\codes\day-3\CSharpBasics\ArrayDemo\bin\Debug\net5.0\ArrayDemo.dll
+E:\epsilon-dotnet\codes\day-3\CSharpBasics\ArrayDemo\bin\Debug\net5.0\ref\ArrayDemo.dll
+E:\epsilon-dotnet\codes\day-3\CSharpBasics\ArrayDemo\bin\Debug\net5.0\ArrayDemo.pdb
+E:\epsilon-dotnet\codes\day-3\CSharpBasics\ArrayDemo\obj\Debug\net5.0\ArrayDemo.csprojAssemblyReference.cache
+E:\epsilon-dotnet\codes\day-3\CSharpBasics\ArrayDemo\obj\Debug\net5.0\ArrayDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\epsilon-dotnet\codes\day-3\CSharpBasics\ArrayDemo\obj\Debug\net5.0\ArrayDemo.AssemblyInfoInputs.cache
+E:\epsilon-dotnet\codes\day-3\CSharpBasics\ArrayDemo\obj\Debug\net5.0\ArrayDemo.AssemblyInfo.cs
+E:\epsilon-dotnet\codes\day-3\CSharpBasics\ArrayDemo\obj\Debug\net5.0\ArrayDemo.csproj.CoreCompileInputs.cache
+E:\epsilon-dotnet\codes\day-3\CSharpBasics\ArrayDemo\obj\Debug\net5.0\ArrayDemo.dll
+E:\epsilon-dotnet\codes\day-3\CSharpBasics\ArrayDemo\obj\Debug\net5.0\ref\ArrayDemo.dll
+E:\epsilon-dotnet\codes\day-3\CSharpBasics\ArrayDemo\obj\Debug\net5.0\ArrayDemo.pdb
+E:\epsilon-dotnet\codes\day-3\CSharpBasics\ArrayDemo\obj\Debug\net5.0\ArrayDemo.genruntimeconfig.cache
