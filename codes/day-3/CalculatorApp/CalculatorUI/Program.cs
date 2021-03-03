@@ -10,8 +10,8 @@
                 UIManager.PrintMenu();
                 int choice = UIManager.GetChoice();
                 UIManager.Calculate(choice);
-                char continutaionChoice = UIManager.ToContinueOrNot();
-                toContinue = UIManager.ConvertChoice(continutaionChoice);
+                toContinue = UIManager.ToContinueOrNot();
+                UIManager.ConvertChoice(ref toContinue);
             } while (toContinue != 'n' && toContinue == 'y');
         }
     }

@@ -26,7 +26,7 @@ namespace RefandOutApp
 
             DateTime dob;
             bool possible = DateTime.TryParse(dobStr, out dob);
-            
+
             if (possible)
                 System.Console.WriteLine(dob);
             else

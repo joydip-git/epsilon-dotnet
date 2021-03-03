@@ -28,17 +28,21 @@ namespace CalculatorUI
             return choice;
         }
 
-        public static int GetValue()
+        public static void GetValue(out int firstNumber, out int secondNumber)
         {
-            Console.Write("\nEnter Value:");
-            int value = int.Parse(Console.ReadLine());
-            return value;
+            Console.Write("\nEnter 1st Value:");
+            firstNumber = int.Parse(Console.ReadLine());
+
+            Console.Write("Enter 2nd Value:");
+            secondNumber = int.Parse(Console.ReadLine());
         }
 
         public static void Calculate(int choice)
         {
-            int firstValue = GetValue();
-            int secondValue = GetValue();
+            int firstValue; 
+            int secondValue;
+
+            GetValue(out firstValue, out secondValue);
 
             int result = 0;
             switch (choice)
@@ -79,14 +83,12 @@ namespace CalculatorUI
             return choice;
         }
 
-        public static char ConvertChoice(char choice)
+        public static void ConvertChoice(ref char choice)
         {
             if (char.IsUpper(choice))
             {
-                char lowerChoice = char.ToLower(choice);
-                return lowerChoice;
+                choice = char.ToLower(choice);
             }
-            return choice;
         }
     }
 }
