@@ -1,0 +1,16 @@
+E:\epsilon-dotnet\codes\day-3\CSharpBasics\StructAndEnumDemo\bin\Debug\net5.0\StructAndEnumDemo.exe
+E:\epsilon-dotnet\codes\day-3\CSharpBasics\StructAndEnumDemo\bin\Debug\net5.0\StructAndEnumDemo.deps.json
+E:\epsilon-dotnet\codes\day-3\CSharpBasics\StructAndEnumDemo\bin\Debug\net5.0\StructAndEnumDemo.runtimeconfig.json
+E:\epsilon-dotnet\codes\day-3\CSharpBasics\StructAndEnumDemo\bin\Debug\net5.0\StructAndEnumDemo.runtimeconfig.dev.json
+E:\epsilon-dotnet\codes\day-3\CSharpBasics\StructAndEnumDemo\bin\Debug\net5.0\StructAndEnumDemo.dll
+E:\epsilon-dotnet\codes\day-3\CSharpBasics\StructAndEnumDemo\bin\Debug\net5.0\ref\StructAndEnumDemo.dll
+E:\epsilon-dotnet\codes\day-3\CSharpBasics\StructAndEnumDemo\bin\Debug\net5.0\StructAndEnumDemo.pdb
+E:\epsilon-dotnet\codes\day-3\CSharpBasics\StructAndEnumDemo\obj\Debug\net5.0\StructAndEnumDemo.csprojAssemblyReference.cache
+E:\epsilon-dotnet\codes\day-3\CSharpBasics\StructAndEnumDemo\obj\Debug\net5.0\StructAndEnumDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\epsilon-dotnet\codes\day-3\CSharpBasics\StructAndEnumDemo\obj\Debug\net5.0\StructAndEnumDemo.AssemblyInfoInputs.cache
+E:\epsilon-dotnet\codes\day-3\CSharpBasics\StructAndEnumDemo\obj\Debug\net5.0\StructAndEnumDemo.AssemblyInfo.cs
+E:\epsilon-dotnet\codes\day-3\CSharpBasics\StructAndEnumDemo\obj\Debug\net5.0\StructAndEnumDemo.csproj.CoreCompileInputs.cache
+E:\epsilon-dotnet\codes\day-3\CSharpBasics\StructAndEnumDemo\obj\Debug\net5.0\StructAndEnumDemo.dll
+E:\epsilon-dotnet\codes\day-3\CSharpBasics\StructAndEnumDemo\obj\Debug\net5.0\ref\StructAndEnumDemo.dll
+E:\epsilon-dotnet\codes\day-3\CSharpBasics\StructAndEnumDemo\obj\Debug\net5.0\StructAndEnumDemo.pdb
+E:\epsilon-dotnet\codes\day-3\CSharpBasics\StructAndEnumDemo\obj\Debug\net5.0\StructAndEnumDemo.genruntimeconfig.cache
