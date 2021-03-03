@@ -1,0 +1,11 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DocumentationFile>E:\epsilon-dotnet\codes\day-3\CalculatorApp\CalculationLibrary\CalculationLibrary.xml</DocumentationFile>
+  </PropertyGroup>
+
+</Project>

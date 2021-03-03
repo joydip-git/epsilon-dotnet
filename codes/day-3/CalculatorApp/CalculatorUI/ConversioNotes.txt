@@ -1,0 +1,21 @@
+﻿//int x = 10;
+            //long l = x;
+            //Console.WriteLine(l);
+
+            //int y = (int)l;
+            //Console.WriteLine(y);
+
+            /*
+            long l = 12345678901234;
+            //int x = checked((int)l);
+            int x = Convert.ToInt32(l); //System.OverflowException
+            Console.WriteLine(x.Tostring());
+            */
+
+            string numStr = "123";
+            int num = Convert.ToInt32(numStr);
+            //int num = (int)numStr;
+            Console.WriteLine(num);
+
+            int a = 10;
+            string aStr = a.ToString();

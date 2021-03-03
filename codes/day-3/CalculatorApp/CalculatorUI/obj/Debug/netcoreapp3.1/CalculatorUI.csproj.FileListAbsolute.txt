@@ -1,0 +1,17 @@
+E:\epsilon-dotnet\codes\day-3\CalculatorApp\CalculatorUI\bin\Debug\netcoreapp3.1\CalculatorUI.exe
+E:\epsilon-dotnet\codes\day-3\CalculatorApp\CalculatorUI\bin\Debug\netcoreapp3.1\CalculatorUI.deps.json
+E:\epsilon-dotnet\codes\day-3\CalculatorApp\CalculatorUI\bin\Debug\netcoreapp3.1\CalculatorUI.runtimeconfig.json
+E:\epsilon-dotnet\codes\day-3\CalculatorApp\CalculatorUI\bin\Debug\netcoreapp3.1\CalculatorUI.runtimeconfig.dev.json
+E:\epsilon-dotnet\codes\day-3\CalculatorApp\CalculatorUI\bin\Debug\netcoreapp3.1\CalculatorUI.dll
+E:\epsilon-dotnet\codes\day-3\CalculatorApp\CalculatorUI\bin\Debug\netcoreapp3.1\CalculatorUI.pdb
+E:\epsilon-dotnet\codes\day-3\CalculatorApp\CalculatorUI\bin\Debug\netcoreapp3.1\CalculationLibrary.dll
+E:\epsilon-dotnet\codes\day-3\CalculatorApp\CalculatorUI\bin\Debug\netcoreapp3.1\CalculationLibrary.pdb
+E:\epsilon-dotnet\codes\day-3\CalculatorApp\CalculatorUI\bin\Debug\netcoreapp3.1\CalculationLibrary.xml
+E:\epsilon-dotnet\codes\day-3\CalculatorApp\CalculatorUI\obj\Debug\netcoreapp3.1\CalculatorUI.csprojAssemblyReference.cache
+E:\epsilon-dotnet\codes\day-3\CalculatorApp\CalculatorUI\obj\Debug\netcoreapp3.1\CalculatorUI.AssemblyInfoInputs.cache
+E:\epsilon-dotnet\codes\day-3\CalculatorApp\CalculatorUI\obj\Debug\netcoreapp3.1\CalculatorUI.AssemblyInfo.cs
+E:\epsilon-dotnet\codes\day-3\CalculatorApp\CalculatorUI\obj\Debug\netcoreapp3.1\CalculatorUI.csproj.CoreCompileInputs.cache
+E:\epsilon-dotnet\codes\day-3\CalculatorApp\CalculatorUI\obj\Debug\netcoreapp3.1\CalculatorUI.csproj.CopyComplete
+E:\epsilon-dotnet\codes\day-3\CalculatorApp\CalculatorUI\obj\Debug\netcoreapp3.1\CalculatorUI.dll
+E:\epsilon-dotnet\codes\day-3\CalculatorApp\CalculatorUI\obj\Debug\netcoreapp3.1\CalculatorUI.pdb
+E:\epsilon-dotnet\codes\day-3\CalculatorApp\CalculatorUI\obj\Debug\netcoreapp3.1\CalculatorUI.genruntimeconfig.cache

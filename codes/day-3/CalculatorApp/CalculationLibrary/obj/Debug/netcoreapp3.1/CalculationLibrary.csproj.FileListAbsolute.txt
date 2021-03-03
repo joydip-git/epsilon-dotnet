@@ -1,0 +1,10 @@
+E:\epsilon-dotnet\codes\day-3\CalculatorApp\CalculationLibrary\bin\Debug\netcoreapp3.1\CalculationLibrary.deps.json
+E:\epsilon-dotnet\codes\day-3\CalculatorApp\CalculationLibrary\bin\Debug\netcoreapp3.1\CalculationLibrary.dll
+E:\epsilon-dotnet\codes\day-3\CalculatorApp\CalculationLibrary\bin\Debug\netcoreapp3.1\CalculationLibrary.pdb
+E:\epsilon-dotnet\codes\day-3\CalculatorApp\CalculationLibrary\bin\Debug\netcoreapp3.1\CalculationLibrary.xml
+E:\epsilon-dotnet\codes\day-3\CalculatorApp\CalculationLibrary\obj\Debug\netcoreapp3.1\CalculationLibrary.csprojAssemblyReference.cache
+E:\epsilon-dotnet\codes\day-3\CalculatorApp\CalculationLibrary\obj\Debug\netcoreapp3.1\CalculationLibrary.AssemblyInfoInputs.cache
+E:\epsilon-dotnet\codes\day-3\CalculatorApp\CalculationLibrary\obj\Debug\netcoreapp3.1\CalculationLibrary.AssemblyInfo.cs
+E:\epsilon-dotnet\codes\day-3\CalculatorApp\CalculationLibrary\obj\Debug\netcoreapp3.1\CalculationLibrary.csproj.CoreCompileInputs.cache
+E:\epsilon-dotnet\codes\day-3\CalculatorApp\CalculationLibrary\obj\Debug\netcoreapp3.1\CalculationLibrary.dll
+E:\epsilon-dotnet\codes\day-3\CalculatorApp\CalculationLibrary\obj\Debug\netcoreapp3.1\CalculationLibrary.pdb

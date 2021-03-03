@@ -1,0 +1,94 @@
+Data Types:
+----------------------------
+		Value Types			Reference Types
+----------------------------------------------------------------------------------
+Built-in		User-defined		Built-in	User-defined
+-------------------------------------------------------------------------------------
+byte			struct			string		class
+sbyte			enum			Array		interface
+short						Object		delegate
+ushort								event
+
+int
+uint
+
+long
+ulong
+
+float
+decimal
+double
+
+char
+bool
+
+if..else
+while(cond)
+{
+}
+
+do{
+}while(cond)
+
+swicth(value)
+{
+	case 1:
+	break;
+
+....
+	default;
+	break;
+}
+
+for(int i = 0; i<2; i++){}
+
+foreach(int x in collection){}
+
+comments:
+code comments --> // or /**/
+documentation comments
+
+
+OOAD:
+SOLID principles
+S: Single Responsibility
+O: Open Close Principle
+L: 
+I: IOC (Inversion of Control)
+D: Dependency Injection
+
+
+Conversion:
+---------------------------------------------------------------
+Implicit				Explicit
+---------------------------------------------------------------
+VT (lower range) --> VT (higher range)	VT (higher) --> VT (lower)
+					a. casting (use checked keyword with it)
+					b. Convert or checked keyword
+
+					VT-->RT					
+
+					RT-->VT
+					a. Convert
+					(In case of String)
+					Convert class methods
+					Parse method (can convert only string to 						something)
+					int.Parse/bool.Parse/double.Parse/char/Parse
+
+{} --> placeholder
+0,1,2,... --> index
+
+highest index<number of values
+indexing should start with 0
+					
+
+
+
+
+
+
+
+
+
+
+
