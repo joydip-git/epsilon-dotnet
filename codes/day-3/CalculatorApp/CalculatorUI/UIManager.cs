@@ -86,7 +86,6 @@ namespace CalculatorUI
                 char lowerChoice = char.ToLower(choice);
                 return lowerChoice;
             }
-
             return choice;
         }
     }

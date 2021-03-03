@@ -1,0 +1,16 @@
+E:\epsilon-dotnet\codes\day-3\RefandOutApp\bin\Debug\net5.0\RefandOutApp.exe
+E:\epsilon-dotnet\codes\day-3\RefandOutApp\bin\Debug\net5.0\RefandOutApp.deps.json
+E:\epsilon-dotnet\codes\day-3\RefandOutApp\bin\Debug\net5.0\RefandOutApp.runtimeconfig.json
+E:\epsilon-dotnet\codes\day-3\RefandOutApp\bin\Debug\net5.0\RefandOutApp.runtimeconfig.dev.json
+E:\epsilon-dotnet\codes\day-3\RefandOutApp\bin\Debug\net5.0\RefandOutApp.dll
+E:\epsilon-dotnet\codes\day-3\RefandOutApp\bin\Debug\net5.0\ref\RefandOutApp.dll
+E:\epsilon-dotnet\codes\day-3\RefandOutApp\bin\Debug\net5.0\RefandOutApp.pdb
+E:\epsilon-dotnet\codes\day-3\RefandOutApp\obj\Debug\net5.0\RefandOutApp.csprojAssemblyReference.cache
+E:\epsilon-dotnet\codes\day-3\RefandOutApp\obj\Debug\net5.0\RefandOutApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\epsilon-dotnet\codes\day-3\RefandOutApp\obj\Debug\net5.0\RefandOutApp.AssemblyInfoInputs.cache
+E:\epsilon-dotnet\codes\day-3\RefandOutApp\obj\Debug\net5.0\RefandOutApp.AssemblyInfo.cs
+E:\epsilon-dotnet\codes\day-3\RefandOutApp\obj\Debug\net5.0\RefandOutApp.csproj.CoreCompileInputs.cache
+E:\epsilon-dotnet\codes\day-3\RefandOutApp\obj\Debug\net5.0\RefandOutApp.dll
+E:\epsilon-dotnet\codes\day-3\RefandOutApp\obj\Debug\net5.0\ref\RefandOutApp.dll
+E:\epsilon-dotnet\codes\day-3\RefandOutApp\obj\Debug\net5.0\RefandOutApp.pdb
+E:\epsilon-dotnet\codes\day-3\RefandOutApp\obj\Debug\net5.0\RefandOutApp.genruntimeconfig.cache

@@ -80,6 +80,14 @@ VT (lower range) --> VT (higher range)	VT (higher) --> VT (lower)
 
 highest index<number of values
 indexing should start with 0
+
+Passing arguments to methods:
+----------------------------------
+Pass by Value
+Pass By Ref
+Pass by Out
+
+ref, out
 					
 
 
