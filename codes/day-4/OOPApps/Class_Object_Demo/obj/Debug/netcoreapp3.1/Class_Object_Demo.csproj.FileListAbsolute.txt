@@ -1,0 +1,14 @@
+E:\epsilon-dotnet\codes\day-4\OOPApps\Class_Object_Demo\obj\Debug\netcoreapp3.1\Class_Object_Demo.csprojAssemblyReference.cache
+E:\epsilon-dotnet\codes\day-4\OOPApps\Class_Object_Demo\obj\Debug\netcoreapp3.1\Class_Object_Demo.AssemblyInfoInputs.cache
+E:\epsilon-dotnet\codes\day-4\OOPApps\Class_Object_Demo\obj\Debug\netcoreapp3.1\Class_Object_Demo.AssemblyInfo.cs
+E:\epsilon-dotnet\codes\day-4\OOPApps\Class_Object_Demo\obj\Debug\netcoreapp3.1\Class_Object_Demo.csproj.CoreCompileInputs.cache
+E:\epsilon-dotnet\codes\day-4\OOPApps\Class_Object_Demo\bin\Debug\netcoreapp3.1\Class_Object_Demo.exe
+E:\epsilon-dotnet\codes\day-4\OOPApps\Class_Object_Demo\bin\Debug\netcoreapp3.1\Class_Object_Demo.deps.json
+E:\epsilon-dotnet\codes\day-4\OOPApps\Class_Object_Demo\bin\Debug\netcoreapp3.1\Class_Object_Demo.runtimeconfig.json
+E:\epsilon-dotnet\codes\day-4\OOPApps\Class_Object_Demo\bin\Debug\netcoreapp3.1\Class_Object_Demo.runtimeconfig.dev.json
+E:\epsilon-dotnet\codes\day-4\OOPApps\Class_Object_Demo\bin\Debug\netcoreapp3.1\Class_Object_Demo.dll
+E:\epsilon-dotnet\codes\day-4\OOPApps\Class_Object_Demo\bin\Debug\netcoreapp3.1\Class_Object_Demo.pdb
+E:\epsilon-dotnet\codes\day-4\OOPApps\Class_Object_Demo\bin\Debug\netcoreapp3.1\Class_Object_Demo.xml
+E:\epsilon-dotnet\codes\day-4\OOPApps\Class_Object_Demo\obj\Debug\netcoreapp3.1\Class_Object_Demo.dll
+E:\epsilon-dotnet\codes\day-4\OOPApps\Class_Object_Demo\obj\Debug\netcoreapp3.1\Class_Object_Demo.pdb
+E:\epsilon-dotnet\codes\day-4\OOPApps\Class_Object_Demo\obj\Debug\netcoreapp3.1\Class_Object_Demo.genruntimeconfig.cache

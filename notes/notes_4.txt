@@ -1,0 +1,13 @@
+Employee()
+
+1. with the name CLR looks inside the class
+2. finds out how many data members have been declared and their data types
+3. starts allocating memory blocks for those data members 
+4. invokes ctor and get the values assigned
+5. heap pointer is adjusted to the next available memory location after all the above are done
+6. now CLR will return the initial address of the "object's" memory (new)
+
+SOLID:
+Open Close Pronciple
+
+class Product -- id, name, price, description

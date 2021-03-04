@@ -3,3 +3,14 @@ E:\epsilon-dotnet\codes\day-4\ArraysInCSharp\ParamsImplementation\obj\Debug\net5
 E:\epsilon-dotnet\codes\day-4\ArraysInCSharp\ParamsImplementation\obj\Debug\net5.0\ParamsImplementation.AssemblyInfoInputs.cache
 E:\epsilon-dotnet\codes\day-4\ArraysInCSharp\ParamsImplementation\obj\Debug\net5.0\ParamsImplementation.AssemblyInfo.cs
 E:\epsilon-dotnet\codes\day-4\ArraysInCSharp\ParamsImplementation\obj\Debug\net5.0\ParamsImplementation.csproj.CoreCompileInputs.cache
+E:\epsilon-dotnet\codes\day-4\ArraysInCSharp\ParamsImplementation\bin\Debug\net5.0\ParamsImplementation.exe
+E:\epsilon-dotnet\codes\day-4\ArraysInCSharp\ParamsImplementation\bin\Debug\net5.0\ParamsImplementation.deps.json
+E:\epsilon-dotnet\codes\day-4\ArraysInCSharp\ParamsImplementation\bin\Debug\net5.0\ParamsImplementation.runtimeconfig.json
+E:\epsilon-dotnet\codes\day-4\ArraysInCSharp\ParamsImplementation\bin\Debug\net5.0\ParamsImplementation.runtimeconfig.dev.json
+E:\epsilon-dotnet\codes\day-4\ArraysInCSharp\ParamsImplementation\bin\Debug\net5.0\ParamsImplementation.dll
+E:\epsilon-dotnet\codes\day-4\ArraysInCSharp\ParamsImplementation\bin\Debug\net5.0\ref\ParamsImplementation.dll
+E:\epsilon-dotnet\codes\day-4\ArraysInCSharp\ParamsImplementation\bin\Debug\net5.0\ParamsImplementation.pdb
+E:\epsilon-dotnet\codes\day-4\ArraysInCSharp\ParamsImplementation\obj\Debug\net5.0\ParamsImplementation.dll
+E:\epsilon-dotnet\codes\day-4\ArraysInCSharp\ParamsImplementation\obj\Debug\net5.0\ref\ParamsImplementation.dll
+E:\epsilon-dotnet\codes\day-4\ArraysInCSharp\ParamsImplementation\obj\Debug\net5.0\ParamsImplementation.pdb
+E:\epsilon-dotnet\codes\day-4\ArraysInCSharp\ParamsImplementation\obj\Debug\net5.0\ParamsImplementation.genruntimeconfig.cache

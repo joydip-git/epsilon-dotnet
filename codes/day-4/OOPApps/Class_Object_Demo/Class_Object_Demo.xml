@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Class_Object_Demo</name>
+    </assembly>
+    <members>
+        <member name="T:Class_Object_Demo.Employee">
+            <summary>
+            employee class
+            </summary>
+        </member>
+        <member name="M:Class_Object_Demo.Employee.#ctor">
+            <summary>
+            default ctor
+            </summary>
+        </member>
+        <member name="M:Class_Object_Demo.Employee.#ctor(System.Int32,System.String,System.String,System.Decimal,System.Decimal,System.Decimal,System.String)">
+            <summary>
+            parameterized ctor
+            </summary>
+            <param name="id">id of an employee</param>
+            <param name="name">name of an employee</param>
+            <param name="location">location of an employee</param>
+            <param name="basicPay">basicPay of an employee</param>
+            <param name="daPay">daPay of an employee</param>
+            <param name="hraPay">hrapay of an employee</param>
+            <param name="projectName">project name of an employee</param>
+        </member>
+        <member name="P:Class_Object_Demo.Employee.EmployeeName">
+            <summary>
+            gets or sets the name of an employee
+            </summary>
+        </member>
+    </members>
+</doc>
