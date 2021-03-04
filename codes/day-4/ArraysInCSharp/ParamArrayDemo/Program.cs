@@ -26,7 +26,10 @@ namespace ParamArrayDemo
                 foreach (char splitter in splitters)
                 {
                     if (item == splitter)
+                    {
                         isSplitter = true;
+                        break;
+                    }
                 }
                 if (isSplitter)
                 {
@@ -61,17 +64,22 @@ namespace ParamArrayDemo
         {
             string input = "I had coffee yesterday at CCD, with my friend, who is from Chennai. He works for Infosys.";
             //string[] words = input.Split(' ', ',', '.');
-            string[] words = input.Split(new char[] { ' ', ',', '.' }, StringSplitOptions.RemoveEmptyEntries);
+            //string[] words = input.Split(new char[] { ' ', ',', '.' }, StringSplitOptions.RemoveEmptyEntries);
             //char[] separators = new char[] { ' ', ',', '.' };
-            //string[] words = SplitString(input, "hello", ' ', ',', '.');
+            string[] words = SplitString(input, "hello", ' ', ',', '.');
             //Console.WriteLine(words.Length);
             //string[] wordsNew = SplitString(input, "joy", ' ', ',');
+            ShowWords(words);
+            // Add(10, 12);
+            // Add(10, 12, 13);
+        }
+
+        private static void ShowWords(string[] words)
+        {
             foreach (string item in words)
             {
                 System.Console.WriteLine(item);
             }
-            // Add(10, 12);
-            // Add(10, 12, 13);
         }
     }
 }
