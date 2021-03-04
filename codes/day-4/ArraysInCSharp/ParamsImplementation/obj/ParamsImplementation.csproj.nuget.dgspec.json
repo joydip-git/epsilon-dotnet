@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "e:\\epsilon-dotnet\\codes\\day-3\\CSharpBasics\\ArrayDemo\\ArrayDemo.csproj": {}
+    "E:\\epsilon-dotnet\\codes\\day-4\\ArraysInCSharp\\ParamsImplementation\\ParamsImplementation.csproj": {}
   },
   "projects": {
-    "e:\\epsilon-dotnet\\codes\\day-3\\CSharpBasics\\ArrayDemo\\ArrayDemo.csproj": {
+    "E:\\epsilon-dotnet\\codes\\day-4\\ArraysInCSharp\\ParamsImplementation\\ParamsImplementation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "e:\\epsilon-dotnet\\codes\\day-3\\CSharpBasics\\ArrayDemo\\ArrayDemo.csproj",
-        "projectName": "ArrayDemo",
-        "projectPath": "e:\\epsilon-dotnet\\codes\\day-3\\CSharpBasics\\ArrayDemo\\ArrayDemo.csproj",
+        "projectUniqueName": "E:\\epsilon-dotnet\\codes\\day-4\\ArraysInCSharp\\ParamsImplementation\\ParamsImplementation.csproj",
+        "projectName": "ParamsImplementation",
+        "projectPath": "E:\\epsilon-dotnet\\codes\\day-4\\ArraysInCSharp\\ParamsImplementation\\ParamsImplementation.csproj",
         "packagesPath": "C:\\Users\\joydip\\.nuget\\packages\\",
-        "outputPath": "e:\\epsilon-dotnet\\codes\\day-3\\CSharpBasics\\ArrayDemo\\obj\\",
+        "outputPath": "E:\\epsilon-dotnet\\codes\\day-4\\ArraysInCSharp\\ParamsImplementation\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

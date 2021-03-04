@@ -1,0 +1,16 @@
+E:\epsilon-dotnet\codes\day-4\ArraysInCSharp\ParamArrayDemo\bin\Debug\net5.0\ParamArrayDemo.exe
+E:\epsilon-dotnet\codes\day-4\ArraysInCSharp\ParamArrayDemo\bin\Debug\net5.0\ParamArrayDemo.deps.json
+E:\epsilon-dotnet\codes\day-4\ArraysInCSharp\ParamArrayDemo\bin\Debug\net5.0\ParamArrayDemo.runtimeconfig.json
+E:\epsilon-dotnet\codes\day-4\ArraysInCSharp\ParamArrayDemo\bin\Debug\net5.0\ParamArrayDemo.runtimeconfig.dev.json
+E:\epsilon-dotnet\codes\day-4\ArraysInCSharp\ParamArrayDemo\bin\Debug\net5.0\ParamArrayDemo.dll
+E:\epsilon-dotnet\codes\day-4\ArraysInCSharp\ParamArrayDemo\bin\Debug\net5.0\ref\ParamArrayDemo.dll
+E:\epsilon-dotnet\codes\day-4\ArraysInCSharp\ParamArrayDemo\bin\Debug\net5.0\ParamArrayDemo.pdb
+E:\epsilon-dotnet\codes\day-4\ArraysInCSharp\ParamArrayDemo\obj\Debug\net5.0\ParamArrayDemo.csprojAssemblyReference.cache
+E:\epsilon-dotnet\codes\day-4\ArraysInCSharp\ParamArrayDemo\obj\Debug\net5.0\ParamArrayDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\epsilon-dotnet\codes\day-4\ArraysInCSharp\ParamArrayDemo\obj\Debug\net5.0\ParamArrayDemo.AssemblyInfoInputs.cache
+E:\epsilon-dotnet\codes\day-4\ArraysInCSharp\ParamArrayDemo\obj\Debug\net5.0\ParamArrayDemo.AssemblyInfo.cs
+E:\epsilon-dotnet\codes\day-4\ArraysInCSharp\ParamArrayDemo\obj\Debug\net5.0\ParamArrayDemo.csproj.CoreCompileInputs.cache
+E:\epsilon-dotnet\codes\day-4\ArraysInCSharp\ParamArrayDemo\obj\Debug\net5.0\ParamArrayDemo.dll
+E:\epsilon-dotnet\codes\day-4\ArraysInCSharp\ParamArrayDemo\obj\Debug\net5.0\ref\ParamArrayDemo.dll
+E:\epsilon-dotnet\codes\day-4\ArraysInCSharp\ParamArrayDemo\obj\Debug\net5.0\ParamArrayDemo.pdb
+E:\epsilon-dotnet\codes\day-4\ArraysInCSharp\ParamArrayDemo\obj\Debug\net5.0\ParamArrayDemo.genruntimeconfig.cache

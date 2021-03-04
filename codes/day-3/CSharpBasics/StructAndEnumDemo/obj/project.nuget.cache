@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tZI+rD9yn/xQyQvDwzNXn6n5Fi9BtGD7w1GedyC6suCoJ+dYFrQxdcZEkQ1YNd+6TF21h4W01HkEJ498VQ/3Eg==",
+  "dgSpecHash": "Sfs+YXdTxcp1XxZSVEX5SM8gYOuTYBM01MA5CO+jqAn09yvW4aQwWluRVLzh//2UqBut6K7G7wYnNANjGZCd9g==",
   "success": true,
-  "projectFilePath": "E:\\epsilon-dotnet\\codes\\day-3\\CSharpBasics\\StructAndEnumDemo\\StructAndEnumDemo.csproj",
+  "projectFilePath": "e:\\epsilon-dotnet\\codes\\day-3\\CSharpBasics\\StructAndEnumDemo\\StructAndEnumDemo.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
