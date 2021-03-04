@@ -33,6 +33,7 @@ namespace ParamArrayDemo
                 }
                 if (isSplitter)
                 {
+                    //checking temporary is null or not
                     if (temporary != null)
                     {
                         string word = temporary.Trim();
