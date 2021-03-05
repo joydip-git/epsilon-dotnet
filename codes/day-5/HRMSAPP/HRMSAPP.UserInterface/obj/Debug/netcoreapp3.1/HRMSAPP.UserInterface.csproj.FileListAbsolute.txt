@@ -1,0 +1,12 @@
+E:\epsilon-dotnet\codes\day-5\HRMSAPP\HRMSAPP.UserInterface\bin\Debug\netcoreapp3.1\HRMSAPP.UserInterface.exe
+E:\epsilon-dotnet\codes\day-5\HRMSAPP\HRMSAPP.UserInterface\bin\Debug\netcoreapp3.1\HRMSAPP.UserInterface.deps.json
+E:\epsilon-dotnet\codes\day-5\HRMSAPP\HRMSAPP.UserInterface\bin\Debug\netcoreapp3.1\HRMSAPP.UserInterface.runtimeconfig.json
+E:\epsilon-dotnet\codes\day-5\HRMSAPP\HRMSAPP.UserInterface\bin\Debug\netcoreapp3.1\HRMSAPP.UserInterface.runtimeconfig.dev.json
+E:\epsilon-dotnet\codes\day-5\HRMSAPP\HRMSAPP.UserInterface\bin\Debug\netcoreapp3.1\HRMSAPP.UserInterface.dll
+E:\epsilon-dotnet\codes\day-5\HRMSAPP\HRMSAPP.UserInterface\bin\Debug\netcoreapp3.1\HRMSAPP.UserInterface.pdb
+E:\epsilon-dotnet\codes\day-5\HRMSAPP\HRMSAPP.UserInterface\obj\Debug\netcoreapp3.1\HRMSAPP.UserInterface.AssemblyInfoInputs.cache
+E:\epsilon-dotnet\codes\day-5\HRMSAPP\HRMSAPP.UserInterface\obj\Debug\netcoreapp3.1\HRMSAPP.UserInterface.AssemblyInfo.cs
+E:\epsilon-dotnet\codes\day-5\HRMSAPP\HRMSAPP.UserInterface\obj\Debug\netcoreapp3.1\HRMSAPP.UserInterface.csproj.CoreCompileInputs.cache
+E:\epsilon-dotnet\codes\day-5\HRMSAPP\HRMSAPP.UserInterface\obj\Debug\netcoreapp3.1\HRMSAPP.UserInterface.dll
+E:\epsilon-dotnet\codes\day-5\HRMSAPP\HRMSAPP.UserInterface\obj\Debug\netcoreapp3.1\HRMSAPP.UserInterface.pdb
+E:\epsilon-dotnet\codes\day-5\HRMSAPP\HRMSAPP.UserInterface\obj\Debug\netcoreapp3.1\HRMSAPP.UserInterface.genruntimeconfig.cache

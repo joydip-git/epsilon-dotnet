@@ -1,0 +1,9 @@
+E:\epsilon-dotnet\codes\day-5\HRMSAPP\HRMSAPP.DataAccessLayer\bin\Debug\netcoreapp3.1\HRMSAPP.DataAccessLayer.deps.json
+E:\epsilon-dotnet\codes\day-5\HRMSAPP\HRMSAPP.DataAccessLayer\bin\Debug\netcoreapp3.1\HRMSAPP.DataAccessLayer.dll
+E:\epsilon-dotnet\codes\day-5\HRMSAPP\HRMSAPP.DataAccessLayer\bin\Debug\netcoreapp3.1\HRMSAPP.DataAccessLayer.pdb
+E:\epsilon-dotnet\codes\day-5\HRMSAPP\HRMSAPP.DataAccessLayer\obj\Debug\netcoreapp3.1\HRMSAPP.DataAccessLayer.csprojAssemblyReference.cache
+E:\epsilon-dotnet\codes\day-5\HRMSAPP\HRMSAPP.DataAccessLayer\obj\Debug\netcoreapp3.1\HRMSAPP.DataAccessLayer.AssemblyInfoInputs.cache
+E:\epsilon-dotnet\codes\day-5\HRMSAPP\HRMSAPP.DataAccessLayer\obj\Debug\netcoreapp3.1\HRMSAPP.DataAccessLayer.AssemblyInfo.cs
+E:\epsilon-dotnet\codes\day-5\HRMSAPP\HRMSAPP.DataAccessLayer\obj\Debug\netcoreapp3.1\HRMSAPP.DataAccessLayer.csproj.CoreCompileInputs.cache
+E:\epsilon-dotnet\codes\day-5\HRMSAPP\HRMSAPP.DataAccessLayer\obj\Debug\netcoreapp3.1\HRMSAPP.DataAccessLayer.dll
+E:\epsilon-dotnet\codes\day-5\HRMSAPP\HRMSAPP.DataAccessLayer\obj\Debug\netcoreapp3.1\HRMSAPP.DataAccessLayer.pdb

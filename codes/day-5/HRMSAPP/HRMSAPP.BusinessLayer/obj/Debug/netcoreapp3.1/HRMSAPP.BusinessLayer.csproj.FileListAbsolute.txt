@@ -1,0 +1,9 @@
+E:\epsilon-dotnet\codes\day-5\HRMSAPP\HRMSAPP.BusinessLayer\bin\Debug\netcoreapp3.1\HRMSAPP.BusinessLayer.deps.json
+E:\epsilon-dotnet\codes\day-5\HRMSAPP\HRMSAPP.BusinessLayer\bin\Debug\netcoreapp3.1\HRMSAPP.BusinessLayer.dll
+E:\epsilon-dotnet\codes\day-5\HRMSAPP\HRMSAPP.BusinessLayer\bin\Debug\netcoreapp3.1\HRMSAPP.BusinessLayer.pdb
+E:\epsilon-dotnet\codes\day-5\HRMSAPP\HRMSAPP.BusinessLayer\obj\Debug\netcoreapp3.1\HRMSAPP.BusinessLayer.csprojAssemblyReference.cache
+E:\epsilon-dotnet\codes\day-5\HRMSAPP\HRMSAPP.BusinessLayer\obj\Debug\netcoreapp3.1\HRMSAPP.BusinessLayer.AssemblyInfoInputs.cache
+E:\epsilon-dotnet\codes\day-5\HRMSAPP\HRMSAPP.BusinessLayer\obj\Debug\netcoreapp3.1\HRMSAPP.BusinessLayer.AssemblyInfo.cs
+E:\epsilon-dotnet\codes\day-5\HRMSAPP\HRMSAPP.BusinessLayer\obj\Debug\netcoreapp3.1\HRMSAPP.BusinessLayer.csproj.CoreCompileInputs.cache
+E:\epsilon-dotnet\codes\day-5\HRMSAPP\HRMSAPP.BusinessLayer\obj\Debug\netcoreapp3.1\HRMSAPP.BusinessLayer.dll
+E:\epsilon-dotnet\codes\day-5\HRMSAPP\HRMSAPP.BusinessLayer\obj\Debug\netcoreapp3.1\HRMSAPP.BusinessLayer.pdb
