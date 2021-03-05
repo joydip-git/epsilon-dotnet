@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\epsilon-dotnet\\codes\\day-4\\OOPApps\\Class_Object_Demo\\Class_Object_Demo.csproj": {}
+    "e:\\epsilon-dotnet\\codes\\day-4\\OOPApps\\Class_Object_Demo\\Class_Object_Demo.csproj": {}
   },
   "projects": {
-    "E:\\epsilon-dotnet\\codes\\day-4\\OOPApps\\Class_Object_Demo\\Class_Object_Demo.csproj": {
+    "e:\\epsilon-dotnet\\codes\\day-4\\OOPApps\\Class_Object_Demo\\Class_Object_Demo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\epsilon-dotnet\\codes\\day-4\\OOPApps\\Class_Object_Demo\\Class_Object_Demo.csproj",
+        "projectUniqueName": "e:\\epsilon-dotnet\\codes\\day-4\\OOPApps\\Class_Object_Demo\\Class_Object_Demo.csproj",
         "projectName": "Class_Object_Demo",
-        "projectPath": "E:\\epsilon-dotnet\\codes\\day-4\\OOPApps\\Class_Object_Demo\\Class_Object_Demo.csproj",
+        "projectPath": "e:\\epsilon-dotnet\\codes\\day-4\\OOPApps\\Class_Object_Demo\\Class_Object_Demo.csproj",
         "packagesPath": "C:\\Users\\joydip\\.nuget\\packages\\",
-        "outputPath": "E:\\epsilon-dotnet\\codes\\day-4\\OOPApps\\Class_Object_Demo\\obj\\",
+        "outputPath": "e:\\epsilon-dotnet\\codes\\day-4\\OOPApps\\Class_Object_Demo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

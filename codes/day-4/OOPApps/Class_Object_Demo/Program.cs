@@ -37,6 +37,8 @@ namespace Class_Object_Demo
             for (int i = 0; i < 10; i++)
             {
                Employee employee = EnterEmployeeData();
+               //static members are accessed with the class name, since they are not part of any instance of that class
+               System.Console.WriteLine(Employee.JoiningBonus);
             }
 
             //B. 

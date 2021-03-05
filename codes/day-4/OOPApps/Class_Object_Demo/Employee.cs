@@ -15,15 +15,26 @@ namespace Class_Object_Demo
         decimal employeeBasicPayment;
         decimal employeeDaPayment;
         decimal employeeHraPayment;
+        static decimal joiningBonus;
         string projectName;
         decimal totalSalary;
+
+        //static constructor can be used to assign value to ONLY static data members
+        // DO NOT use any access specifier with static ctor
+        //You can't explicitly call this ctor to create instance from outside the class
+        //You CAN'T overload this constructor
+        //static ctor is called internally and only once in the lifetime of the application
+        static Employee()
+        {
+            joiningBonus = 10000;
+        }
 
         /// <summary>
         /// default ctor
         /// </summary>
         public Employee()
         {
-
+            //joiningBonus = 10000;
         }
 
         /// <summary>
@@ -38,6 +49,7 @@ namespace Class_Object_Demo
         /// <param name="projectName">project name of an employee</param>
         public Employee(int id, string name, string location, decimal basicPay, decimal daPay, decimal hraPay, string projectName)
         {
+            //joiningBonus = 10000;
             employeeId = id;
             employeeLocation = location;
             employeeName = name;
@@ -62,6 +74,11 @@ namespace Class_Object_Demo
             {
                 employeeName = value;
             }
+        }
+
+        public static decimal JoiningBonus
+        {
+            get => joiningBonus;
         }
 
         public void CalculateSalary()
