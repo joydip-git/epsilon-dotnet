@@ -7,3 +7,6 @@ E:\epsilon-dotnet\codes\day-5\HRMSAPP\HRMSAPP.Repository\obj\Debug\netcoreapp3.1
 E:\epsilon-dotnet\codes\day-5\HRMSAPP\HRMSAPP.Repository\obj\Debug\netcoreapp3.1\HRMSAPP.Repository.csproj.CoreCompileInputs.cache
 E:\epsilon-dotnet\codes\day-5\HRMSAPP\HRMSAPP.Repository\obj\Debug\netcoreapp3.1\HRMSAPP.Repository.dll
 E:\epsilon-dotnet\codes\day-5\HRMSAPP\HRMSAPP.Repository\obj\Debug\netcoreapp3.1\HRMSAPP.Repository.pdb
+E:\epsilon-dotnet\codes\day-5\HRMSAPP\HRMSAPP.Repository\bin\Debug\netcoreapp3.1\HRMSAPP.Entities.dll
+E:\epsilon-dotnet\codes\day-5\HRMSAPP\HRMSAPP.Repository\bin\Debug\netcoreapp3.1\HRMSAPP.Entities.pdb
+E:\epsilon-dotnet\codes\day-5\HRMSAPP\HRMSAPP.Repository\obj\Debug\netcoreapp3.1\HRMSAPP.Repository.csproj.CopyComplete
