@@ -23,7 +23,7 @@ namespace Class_Object_Demo
         // DO NOT use any access specifier with static ctor
         //You can't explicitly call this ctor to create instance from outside the class
         //You CAN'T overload this constructor
-        //static ctor is called internally and only once in the lifetime of the application
+        //static ctor is called internally and only once in the lifetime of the application, when you create first instance of the class or even you call any static method of the class (without creating any instance at all)
         static Employee()
         {
             joiningBonus = 10000;

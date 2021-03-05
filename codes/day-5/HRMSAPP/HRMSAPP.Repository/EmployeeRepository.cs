@@ -3,8 +3,33 @@ using HRMSAPP.Entities;
 
 namespace HRMSAPP.Repository
 {
-    public class EmployeeRepository
+    /// <summary>
+    /// Reposiroty of employee instances
+    /// </summary>
+    //static class must have all static members, such as - static ctor, static method, static data, static property
+    //static class object can not be created
+    public static class EmployeeRepository
     {
-        Employee[] employee;
+        static Employee[] employees;//= new Employee[10];
+
+        static EmployeeRepository()
+        {
+            employees = new Employee[10];
+        }
+
+        //public static Employee[] Employees
+        //{
+        //    get { return employees;}
+        //}
+        //public static Employee[] Employees
+        //{
+        //    get => employees;
+        //}
+
+        //use this syntax if the property has only GET accessor
+        /// <summary>
+        /// readonly property--gets the employee repository
+        /// </summary>
+        public static Employee[] Employees => employees;
     }
 }

@@ -6,7 +6,7 @@
         {
             char toContinue = 'n';
             do
-            {
+            {             
                 UIManager.PrintMenu();
                 int choice = UIManager.GetChoice();
                 UIManager.Calculate(choice);
