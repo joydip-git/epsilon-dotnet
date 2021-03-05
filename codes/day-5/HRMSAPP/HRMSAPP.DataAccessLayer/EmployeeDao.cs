@@ -19,9 +19,6 @@ namespace HRMSAPP.DataAccessLayer
         /// </returns>
         public bool Insert(Employee employee)
         {
-            if (employee == null)
-                return false;
-
             bool operationStatus = false;
             //get the repository
             Employee[] records = EmployeeRepository.Employees;
@@ -86,9 +83,6 @@ namespace HRMSAPP.DataAccessLayer
         /// </returns>
         public Employee GetARecord(int employeeId)
         {
-            if (employeeId <= 0)
-                return null;
-
             //get the repository
             Employee[] records = EmployeeRepository.Employees;
 
@@ -116,6 +110,35 @@ namespace HRMSAPP.DataAccessLayer
                 //    return null;
                 //}
             }
+        }
+
+        /// <summary>
+        /// Method to get the id of the last employee
+        /// </summary>
+        /// <returns>
+        /// returns id of the last employee
+        /// </returns>
+        public int GetLastEmployeeId()
+        {
+            Employee[] records = EmployeeRepository.Employees;
+            int id = 0;
+            if (IsEmpty(records))
+            {
+                return 0;
+            }
+
+            for (int i = 0; i < records.Length; i++)
+            {
+                if (records[i] == null)
+                {
+                    id = records[i - 1].EmployeeId;
+                }
+                else
+                {
+                    id = records[records.Length - 1].EmployeeId;
+                }
+            }
+            return id;
         }
         #endregion
 

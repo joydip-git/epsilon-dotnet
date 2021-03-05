@@ -4,4 +4,9 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\HRMSAPP.DataAccessLayer\HRMSAPP.DataAccessLayer.csproj" />
+    <ProjectReference Include="..\HRMSAPP.Entities\HRMSAPP.Entities.csproj" />
+  </ItemGroup>
+
 </Project>
