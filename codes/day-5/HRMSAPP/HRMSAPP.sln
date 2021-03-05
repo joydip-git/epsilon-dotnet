@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HRMSAPP.BusinessLayer", "HR
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HRMSAPP.UserInterface", "HRMSAPP.UserInterface\HRMSAPP.UserInterface.csproj", "{B26A0A75-8218-4E76-B4EA-8BBA7CC9163E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HRMSAPP.Tests", "HRMSAPP.Tests\HRMSAPP.Tests.csproj", "{87E75182-583F-4D05-9E39-2BA64D6A0347}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{B26A0A75-8218-4E76-B4EA-8BBA7CC9163E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B26A0A75-8218-4E76-B4EA-8BBA7CC9163E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B26A0A75-8218-4E76-B4EA-8BBA7CC9163E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87E75182-583F-4D05-9E39-2BA64D6A0347}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87E75182-583F-4D05-9E39-2BA64D6A0347}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87E75182-583F-4D05-9E39-2BA64D6A0347}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87E75182-583F-4D05-9E39-2BA64D6A0347}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

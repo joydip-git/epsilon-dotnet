@@ -19,6 +19,9 @@ namespace HRMSAPP.DataAccessLayer
         /// </returns>
         public bool Insert(Employee employee)
         {
+            if (employee == null)
+                return false;
+
             bool operationStatus = false;
             //get the repository
             Employee[] records = EmployeeRepository.Employees;
@@ -45,6 +48,7 @@ namespace HRMSAPP.DataAccessLayer
             else
             {
                 records[0] = employee;
+                operationStatus = true;
             }
 
             return operationStatus;
@@ -82,6 +86,9 @@ namespace HRMSAPP.DataAccessLayer
         /// </returns>
         public Employee GetARecord(int employeeId)
         {
+            if (employeeId <= 0)
+                return null;
+
             //get the repository
             Employee[] records = EmployeeRepository.Employees;
 
@@ -101,8 +108,8 @@ namespace HRMSAPP.DataAccessLayer
                 //bool exists = Exists(employeeId, records, ref found);
                 //if (exists)
                 //{
-                    //return FetchEmployee(employeeId, records);
-                    //return found;
+                //return FetchEmployee(employeeId, records);
+                //return found;
                 //}
                 //else
                 //{

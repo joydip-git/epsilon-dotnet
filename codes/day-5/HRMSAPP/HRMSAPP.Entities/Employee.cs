@@ -38,7 +38,7 @@ namespace HRMSAPP.Entities
         /// <param name="employeeDaPayemnt">da payment of an employee</param>
         /// <param name="employeeHraPayemnt">hra payment of an employee</param>
         /// <param name="employeeSalary"></param>
-        public Employee(int employeeId, string employeeName, string employeeLocation, string projectName, decimal employeeBasicPayemnt, decimal employeeDaPayemnt, decimal employeeHraPayemnt, decimal employeeSalary)
+        public Employee(int employeeId, string employeeName, string employeeLocation, string projectName, decimal employeeBasicPayemnt, decimal employeeDaPayemnt, decimal employeeHraPayemnt)
         {
             this.employeeId = employeeId;
             this.employeeName = employeeName;
@@ -47,7 +47,6 @@ namespace HRMSAPP.Entities
             this.employeeBasicPayemnt = employeeBasicPayemnt;
             this.employeeDaPayemnt = employeeDaPayemnt;
             this.employeeHraPayemnt = employeeHraPayemnt;
-            this.employeeSalary = employeeSalary;
         }
         #endregion
 
