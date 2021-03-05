@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\epsilon-dotnet\\codes\\day-3\\CalculatorApp\\CalculationLibrary\\CalculationLibrary.csproj": {}
+    "e:\\epsilon-dotnet\\codes\\day-3\\CalculatorApp\\CalculationLibrary\\CalculationLibrary.csproj": {}
   },
   "projects": {
-    "E:\\epsilon-dotnet\\codes\\day-3\\CalculatorApp\\CalculationLibrary\\CalculationLibrary.csproj": {
+    "e:\\epsilon-dotnet\\codes\\day-3\\CalculatorApp\\CalculationLibrary\\CalculationLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\epsilon-dotnet\\codes\\day-3\\CalculatorApp\\CalculationLibrary\\CalculationLibrary.csproj",
+        "projectUniqueName": "e:\\epsilon-dotnet\\codes\\day-3\\CalculatorApp\\CalculationLibrary\\CalculationLibrary.csproj",
         "projectName": "CalculationLibrary",
-        "projectPath": "E:\\epsilon-dotnet\\codes\\day-3\\CalculatorApp\\CalculationLibrary\\CalculationLibrary.csproj",
+        "projectPath": "e:\\epsilon-dotnet\\codes\\day-3\\CalculatorApp\\CalculationLibrary\\CalculationLibrary.csproj",
         "packagesPath": "C:\\Users\\joydip\\.nuget\\packages\\",
-        "outputPath": "E:\\epsilon-dotnet\\codes\\day-3\\CalculatorApp\\CalculationLibrary\\obj\\",
+        "outputPath": "e:\\epsilon-dotnet\\codes\\day-3\\CalculatorApp\\CalculationLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

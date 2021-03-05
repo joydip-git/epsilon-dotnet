@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fL3LfM3NpcdfqAaxXbTeeUH/XYXAsAUlgbfio97WjHwY17mFhKyrc3NjFNlo+qTGJXQE/w3L532qA5C5OjeY5w==",
+  "dgSpecHash": "b8HXEoRc1aQ/WyMyKaoni4ktxYqiPbYJlBBGd9+YBbpenQ4u9d7V07dFDNtx0c3198lwhtFs3Qz3AGF9dux1dA==",
   "success": true,
-  "projectFilePath": "E:\\epsilon-dotnet\\codes\\day-3\\CalculatorApp\\CalculatorUI\\CalculatorUI.csproj",
+  "projectFilePath": "e:\\epsilon-dotnet\\codes\\day-3\\CalculatorApp\\CalculatorUI\\CalculatorUI.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -33,11 +33,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\epsilon-dotnet\\codes\\day-3\\CalculatorApp\\CalculatorUI\\CalculatorUI.csproj",
+      "projectUniqueName": "e:\\epsilon-dotnet\\codes\\day-3\\CalculatorApp\\CalculatorUI\\CalculatorUI.csproj",
       "projectName": "CalculatorUI",
-      "projectPath": "E:\\epsilon-dotnet\\codes\\day-3\\CalculatorApp\\CalculatorUI\\CalculatorUI.csproj",
+      "projectPath": "e:\\epsilon-dotnet\\codes\\day-3\\CalculatorApp\\CalculatorUI\\CalculatorUI.csproj",
       "packagesPath": "C:\\Users\\joydip\\.nuget\\packages\\",
-      "outputPath": "E:\\epsilon-dotnet\\codes\\day-3\\CalculatorApp\\CalculatorUI\\obj\\",
+      "outputPath": "e:\\epsilon-dotnet\\codes\\day-3\\CalculatorApp\\CalculatorUI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -57,8 +57,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "E:\\epsilon-dotnet\\codes\\day-3\\CalculatorApp\\CalculationLibrary\\CalculationLibrary.csproj": {
-              "projectPath": "E:\\epsilon-dotnet\\codes\\day-3\\CalculatorApp\\CalculationLibrary\\CalculationLibrary.csproj"
+            "e:\\epsilon-dotnet\\codes\\day-3\\CalculatorApp\\CalculationLibrary\\CalculationLibrary.csproj": {
+              "projectPath": "e:\\epsilon-dotnet\\codes\\day-3\\CalculatorApp\\CalculationLibrary\\CalculationLibrary.csproj"
             }
           }
         }

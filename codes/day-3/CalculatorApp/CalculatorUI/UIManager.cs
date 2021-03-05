@@ -8,7 +8,13 @@ namespace CalculatorUI
     //static class can have only static members
     static class UIManager
     {
-        static Calculation calculation = new Calculation();
+        //field initialization
+        static Calculation calculation;//= new Calculation();
+
+        static UIManager()
+        {
+            calculation = new Calculation();
+        }
 
         public static void PrintMenu()
         {
@@ -39,7 +45,7 @@ namespace CalculatorUI
 
         public static void Calculate(int choice)
         {
-            int firstValue; 
+            int firstValue;
             int secondValue;
 
             GetValue(out firstValue, out secondValue);
