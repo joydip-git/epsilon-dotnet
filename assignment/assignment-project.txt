@@ -1,0 +1,19 @@
+UTC				Sample				output
+1. Multiply Positive		2,2 and 2,3			4/6
+2. Multiply Negative		-1,-2/-1,2/1,-2			0
+
+3. Divide Positive		12,3				4
+4. Divide Negative		3,0				0
+
+Complete the application (HRMSAPP)
+1. DAL:
+a. create methods to update and delete the record
+b. create test case nmethods to test update and delete methods
+
+2. BL:
+a. add remaining methods for update and delete
+
+3. UI:
+a. complete the UI with all choices and switch...case
+
+Complete previous days assignment (if any pending)
