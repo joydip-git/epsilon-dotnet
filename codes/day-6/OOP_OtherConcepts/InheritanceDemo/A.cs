@@ -13,20 +13,20 @@ namespace InheritanceDemo
             System.Console.WriteLine("A default ctor");
         }
 
-        public A(int a) : this()
+        public A(int a)// : this()
         {
             System.Console.WriteLine("A single parameterized ctor" );
             someData = a;
         }
-        public A(int x, int y, int z) : this(x)
+        public A(int x, int y, int z)// : this(x)
         {
             System.Console.WriteLine("A parameterized ctor");
-            //someData = x;
+            someData = x;
             data = y;
             otherData = z;
         }
 
-        public void M1() { }
+        public void M1() { System.Console.WriteLine("A class M1"); }
 
         public int SomeData
         {

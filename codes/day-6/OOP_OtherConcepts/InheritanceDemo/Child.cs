@@ -20,12 +20,15 @@ namespace InheritanceDemo
             // this.otherData = z;
             this.bData = m;
             //this.SomeData = 100;
-            base.SomeData = 100;
+            //base.SomeData = 100;
+        }
+
+        public void M1()
+        {
+            base.M1();
+            System.Console.WriteLine("Child class M1");
         }
     }
 
-    class D : Child
-    {
-        public D() { }
-    }
+   
 }

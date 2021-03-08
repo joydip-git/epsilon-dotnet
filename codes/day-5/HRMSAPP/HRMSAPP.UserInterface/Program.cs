@@ -21,25 +21,46 @@ namespace HRMSAPP.UserInterface
         }
         static Employee Create(int empChoice)
         {
-            Employee employee = new Employee();
+            //Employee employee = new Employee();
 
             Console.Write("\nName: ");
-            employee.EmployeeName = Console.ReadLine();
+            string employeeName = Console.ReadLine();
+
+            Console.Write("\nId: ");
+            int id = int.Parse(Console.ReadLine());
 
             Console.Write("Locaton: ");
-            employee.EmployeeLocation = Console.ReadLine();
+            string employeeLocation = Console.ReadLine();
 
             Console.Write("Project Name: ");
-            employee.ProjectName = Console.ReadLine();
+            string projectName = Console.ReadLine();
 
             Console.Write("Basic Pay: ");
-            employee.EmployeeBasicPayemnt = decimal.Parse(Console.ReadLine());
+            decimal employeeBasicPayemnt = decimal.Parse(Console.ReadLine());
 
             Console.Write("Da Pay: ");
-            employee.EmployeeDaPayemnt = decimal.Parse(Console.ReadLine());
+            decimal employeeDaPayemnt = decimal.Parse(Console.ReadLine());
 
             Console.Write("Hra Pay: ");
-            employee.EmployeeHraPayemnt = decimal.Parse(Console.ReadLine());
+            decimal employeeHraPayemnt = decimal.Parse(Console.ReadLine());
+
+            switch (empChoice)
+            {
+                case 1:
+                    Console.Write("Incentive Pay: ");
+                    decimal incentivePayemnt = decimal.Parse(Console.ReadLine());
+                    new Developer(id, employeeName, employeeLocation, projectName, employeeBasicPayemnt, employeeDaPayemnt, employeeHraPayemnt, incentivePayemnt);
+                    break;
+
+                case 2:
+                    Console.Write("Gratuity Pay: ");
+                    decimal gratuityPayemnt = decimal.Parse(Console.ReadLine());
+                    new Hr(id, employeeName, employeeLocation, projectName, employeeBasicPayemnt, employeeDaPayemnt, employeeHraPayemnt, gratuityPayemnt);
+                    break;
+
+                default:
+                    break;
+            }
 
             return employee;
         }
@@ -49,7 +70,7 @@ namespace HRMSAPP.UserInterface
             ShowMenu();
             int choice = GetManinMenuChoice();
 
-            Employee[] employees = new Employee[4];
+            
 
             switch (choice)
             {
@@ -73,7 +94,7 @@ namespace HRMSAPP.UserInterface
         }
         private static int GetEmployeeChoice()
         {
-            Console.Write("\nEnter Choice[D/H/d/h]: ");
+            Console.Write("\nEnter Choice[1/2]: ");
             return int.Parse(Console.ReadLine());
         }
     }
