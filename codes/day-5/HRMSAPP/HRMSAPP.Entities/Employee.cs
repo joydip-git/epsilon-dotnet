@@ -37,7 +37,6 @@ namespace HRMSAPP.Entities
         /// <param name="employeeBasicPayemnt">basic payment of an employee</param>
         /// <param name="employeeDaPayemnt">da payment of an employee</param>
         /// <param name="employeeHraPayemnt">hra payment of an employee</param>
-        /// <param name="employeeSalary"></param>
         public Employee(int employeeId, string employeeName, string employeeLocation, string projectName, decimal employeeBasicPayemnt, decimal employeeDaPayemnt, decimal employeeHraPayemnt)
         {
             this.employeeId = employeeId;
@@ -113,7 +112,7 @@ namespace HRMSAPP.Entities
         public decimal EmployeeSalary 
         { 
             get => employeeSalary; 
-            private set => employeeSalary = value; 
+            protected set => employeeSalary = value; 
         }
         #endregion
 
