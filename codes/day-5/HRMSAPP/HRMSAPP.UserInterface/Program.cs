@@ -21,7 +21,7 @@ namespace HRMSAPP.UserInterface
         }
         static Employee Create(int empChoice)
         {
-            //Employee employee = new Employee();
+            Employee employee = null;
 
             Console.Write("\nName: ");
             string employeeName = Console.ReadLine();
@@ -49,13 +49,13 @@ namespace HRMSAPP.UserInterface
                 case 1:
                     Console.Write("Incentive Pay: ");
                     decimal incentivePayemnt = decimal.Parse(Console.ReadLine());
-                    new Developer(id, employeeName, employeeLocation, projectName, employeeBasicPayemnt, employeeDaPayemnt, employeeHraPayemnt, incentivePayemnt);
+                    employee = new Developer(id, employeeName, employeeLocation, projectName, employeeBasicPayemnt, employeeDaPayemnt, employeeHraPayemnt, incentivePayemnt);
                     break;
 
                 case 2:
                     Console.Write("Gratuity Pay: ");
                     decimal gratuityPayemnt = decimal.Parse(Console.ReadLine());
-                    new Hr(id, employeeName, employeeLocation, projectName, employeeBasicPayemnt, employeeDaPayemnt, employeeHraPayemnt, gratuityPayemnt);
+                    employee = new Hr(id, employeeName, employeeLocation, projectName, employeeBasicPayemnt, employeeDaPayemnt, employeeHraPayemnt, gratuityPayemnt);
                     break;
 
                 default:
@@ -66,25 +66,53 @@ namespace HRMSAPP.UserInterface
         }
         static void Main()
         {
-            EmployeeBo employeeBo = new EmployeeBo();
+            //EmployeeBo employeeBo = new EmployeeBo();
             ShowMenu();
             int choice = GetManinMenuChoice();
 
-            
+            Employee[] employees = new Employee[4];
 
-            switch (choice)
+            for (int i = 0; i < employees.Length; i++)
             {
-                case 1:
-                    ShowEmployeeSubMenu();
-                    int empChoice = GetEmployeeChoice();
-                    Employee employee = Create(empChoice);
-                    //bool addStatus = employeeBo.AddRecord(employee);
-                    //Console.WriteLine($"{(addStatus ? "Added Successfully" : "Failed")}");
-                    break;
-
-                default:
-                    break;
+                ShowEmployeeSubMenu();
+                int empChoice = GetEmployeeChoice();
+                Employee employee = Create(empChoice);
+                employees[i] = employee;
             }
+            foreach (Employee e in employees)
+            {
+                //is operator checks the actual type of reference stored in a variable                
+                if (e is Developer)
+                {
+                    //Developer d = (Developer)e;
+                    //as operator is used to do downcsting in case of reference variable
+                    Developer d = e as Developer;
+                    d.CalculateSalary();
+                    Console.WriteLine($"Salary of {d.EmployeeName} is {d.EmployeeSalary}");
+                }
+                if (e is Hr)
+                {
+                    //Developer d = (Developer)e;
+                    //as operator is used to do downcsting in case of reference variable
+                    Hr hr = e as Hr;
+                    hr.CalculateSalary();
+                    Console.WriteLine($"Salary of {hr.EmployeeName} is {hr.EmployeeSalary}");
+                }
+            }
+
+            //switch (choice)
+            //{
+            //    case 1:
+            //        ShowEmployeeSubMenu();
+            //        int empChoice = GetEmployeeChoice();
+            //        Employee employee = Create(empChoice);
+            //        //bool addStatus = employeeBo.AddRecord(employee);
+            //        //Console.WriteLine($"{(addStatus ? "Added Successfully" : "Failed")}");
+            //        break;
+
+            //    default:
+            //        break;
+            //}
         }
 
         private static void ShowEmployeeSubMenu()
