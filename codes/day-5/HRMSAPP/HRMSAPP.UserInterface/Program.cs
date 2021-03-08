@@ -14,12 +14,12 @@ namespace HRMSAPP.UserInterface
             Console.WriteLine("2. Fetch an employee record");
             Console.WriteLine("3. Fetch all records");
         }
-        static int GetChoice()
+        static int GetManinMenuChoice()
         {
-            Console.Write("\nEnter Choice: ");
+            Console.Write("\nEnter Choice[1/2/3]: ");
             return int.Parse(Console.ReadLine());
         }
-        static Employee Create()
+        static Employee Create(int empChoice)
         {
             Employee employee = new Employee();
 
@@ -47,19 +47,34 @@ namespace HRMSAPP.UserInterface
         {
             EmployeeBo employeeBo = new EmployeeBo();
             ShowMenu();
-            int choice = GetChoice();
+            int choice = GetManinMenuChoice();
+
+            Employee[] employees = new Employee[4];
 
             switch (choice)
             {
                 case 1:
-                    Employee employee = Create();
-                    bool addStatus = employeeBo.AddRecord(employee);
-                    Console.WriteLine($"{(addStatus ? "Added Successfully" : "Failed")}");
+                    ShowEmployeeSubMenu();
+                    int empChoice = GetEmployeeChoice();
+                    Employee employee = Create(empChoice);
+                    //bool addStatus = employeeBo.AddRecord(employee);
+                    //Console.WriteLine($"{(addStatus ? "Added Successfully" : "Failed")}");
                     break;
 
                 default:
                     break;
             }
+        }
+
+        private static void ShowEmployeeSubMenu()
+        {
+            Console.WriteLine("\n1. Developer");
+            Console.WriteLine("2. Hr");
+        }
+        private static int GetEmployeeChoice()
+        {
+            Console.Write("\nEnter Choice[D/H/d/h]: ");
+            return int.Parse(Console.ReadLine());
         }
     }
 }

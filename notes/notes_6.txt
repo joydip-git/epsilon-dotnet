@@ -1,0 +1,90 @@
+1. single
+2. multi
+
+A<--B
+A<--B<--C
+
+/*
+class A 
+{
+   public void M1(){}
+}
+
+class B
+{
+   public void M1(){}
+}
+
+
+class C:A,B //don't write: B: public/private A
+{
+
+}
+
+C obj = new C();
+obj.M1();
+*/
+
+class A 
+{
+   private int someData;
+   protected int data;
+   public int otherData;
+
+   public A(){}
+
+   public A(int x, int y, int z)
+   {
+     someData = x;
+     data = y;
+     otherData = z;
+   }
+
+   public void M1(){}
+
+   public int Data { get=>data; set=>data=value; }
+}
+class B:A
+{
+	public int bData;
+	public B()
+	{
+		
+	}
+
+        public B(int x, int y, int z, int m)
+        {
+		this.someData = x;
+        	this.data = y;
+		this.otherData=z;
+                this.bData = m;
+        }
+}
+
+B obj = new B();
+obj.bData=10;
+obj.otherData = 20;
+obj.data=31;<--NO
+obj.someData = 40;<--NO
+
+
+Employee
+1. create two child classes: Developer and Hr
+	Developer - incentive
+	Hr - gratuity
+2. write ctors, add properties etc. in those child classes
+3. also have same CalculateSalary but provide new implementation in those two child classes
+4. in main method create instances of (2 each) Developer and Hr
+5. store them in array
+//6. iterate through the array
+//7. print all of their salaries
+
+
+
+
+
+
+
+
+
+

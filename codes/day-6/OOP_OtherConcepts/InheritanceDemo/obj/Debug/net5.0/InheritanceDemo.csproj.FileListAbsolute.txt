@@ -1,0 +1,16 @@
+E:\epsilon-dotnet\codes\day-6\OOP_OtherConcepts\InheritanceDemo\bin\Debug\net5.0\InheritanceDemo.exe
+E:\epsilon-dotnet\codes\day-6\OOP_OtherConcepts\InheritanceDemo\bin\Debug\net5.0\InheritanceDemo.deps.json
+E:\epsilon-dotnet\codes\day-6\OOP_OtherConcepts\InheritanceDemo\bin\Debug\net5.0\InheritanceDemo.runtimeconfig.json
+E:\epsilon-dotnet\codes\day-6\OOP_OtherConcepts\InheritanceDemo\bin\Debug\net5.0\InheritanceDemo.runtimeconfig.dev.json
+E:\epsilon-dotnet\codes\day-6\OOP_OtherConcepts\InheritanceDemo\bin\Debug\net5.0\InheritanceDemo.dll
+E:\epsilon-dotnet\codes\day-6\OOP_OtherConcepts\InheritanceDemo\bin\Debug\net5.0\ref\InheritanceDemo.dll
+E:\epsilon-dotnet\codes\day-6\OOP_OtherConcepts\InheritanceDemo\bin\Debug\net5.0\InheritanceDemo.pdb
+E:\epsilon-dotnet\codes\day-6\OOP_OtherConcepts\InheritanceDemo\obj\Debug\net5.0\InheritanceDemo.csprojAssemblyReference.cache
+E:\epsilon-dotnet\codes\day-6\OOP_OtherConcepts\InheritanceDemo\obj\Debug\net5.0\InheritanceDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\epsilon-dotnet\codes\day-6\OOP_OtherConcepts\InheritanceDemo\obj\Debug\net5.0\InheritanceDemo.AssemblyInfoInputs.cache
+E:\epsilon-dotnet\codes\day-6\OOP_OtherConcepts\InheritanceDemo\obj\Debug\net5.0\InheritanceDemo.AssemblyInfo.cs
+E:\epsilon-dotnet\codes\day-6\OOP_OtherConcepts\InheritanceDemo\obj\Debug\net5.0\InheritanceDemo.csproj.CoreCompileInputs.cache
+E:\epsilon-dotnet\codes\day-6\OOP_OtherConcepts\InheritanceDemo\obj\Debug\net5.0\InheritanceDemo.dll
+E:\epsilon-dotnet\codes\day-6\OOP_OtherConcepts\InheritanceDemo\obj\Debug\net5.0\ref\InheritanceDemo.dll
+E:\epsilon-dotnet\codes\day-6\OOP_OtherConcepts\InheritanceDemo\obj\Debug\net5.0\InheritanceDemo.pdb
+E:\epsilon-dotnet\codes\day-6\OOP_OtherConcepts\InheritanceDemo\obj\Debug\net5.0\InheritanceDemo.genruntimeconfig.cache
