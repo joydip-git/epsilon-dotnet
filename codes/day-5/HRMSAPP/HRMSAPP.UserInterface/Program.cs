@@ -81,23 +81,25 @@ namespace HRMSAPP.UserInterface
             }
             foreach (Employee e in employees)
             {
+                e.CalculateSalary();
+                Console.WriteLine($"Salary of {e.EmployeeName} is {e.EmployeeSalary}");
                 //is operator checks the actual type of reference stored in a variable                
-                if (e is Developer)
-                {
-                    //Developer d = (Developer)e;
-                    //as operator is used to do downcsting in case of reference variable
-                    Developer d = e as Developer;
-                    d.CalculateSalary();
-                    Console.WriteLine($"Salary of {d.EmployeeName} is {d.EmployeeSalary}");
-                }
-                if (e is Hr)
-                {
-                    //Developer d = (Developer)e;
-                    //as operator is used to do downcsting in case of reference variable
-                    Hr hr = e as Hr;
-                    hr.CalculateSalary();
-                    Console.WriteLine($"Salary of {hr.EmployeeName} is {hr.EmployeeSalary}");
-                }
+                //if (e is Developer)
+                //{
+                //    //Developer d = (Developer)e;
+                //    //as operator is used to do downcsting in case of reference variable
+                //    Developer d = e as Developer;
+                //    d.CalculateSalary();
+                //    Console.WriteLine($"Salary of {d.EmployeeName} is {d.EmployeeSalary}");
+                //}
+                //if (e is Hr)
+                //{
+                //    //Developer d = (Developer)e;
+                //    //as operator is used to do downcsting in case of reference variable
+                //    Hr hr = e as Hr;
+                //    hr.CalculateSalary();
+                //    Console.WriteLine($"Salary of {hr.EmployeeName} is {hr.EmployeeSalary}");
+                //}
             }
 
             //switch (choice)

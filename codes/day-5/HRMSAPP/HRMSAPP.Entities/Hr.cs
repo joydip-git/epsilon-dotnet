@@ -55,7 +55,7 @@ namespace HRMSAPP.Entities
         /// <summary>
         /// Method to calculate total salary of an HR
         /// </summary>
-        public void CalculateSalary()
+        public override void CalculateSalary()
         {
             base.CalculateSalary();
             //employeeSalary

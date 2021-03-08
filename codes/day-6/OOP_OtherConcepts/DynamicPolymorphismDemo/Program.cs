@@ -4,26 +4,26 @@ namespace DynamicPolymorphismDemo
 {
     class A
     {
-        protected string x;
+        protected int x;
 
         public A()
         {
             System.Console.WriteLine("A default ctor");
         }
-        public A(string x)
+        public A(int x)
         {
             System.Console.WriteLine("A parameterized ctor");
             this.x = x;
         }
 
-        public void Print()
+        public virtual void Print()
         {
             System.Console.WriteLine($"X:{x}");
         }
     }
     class B : A
     {
-        string y;
+        int y;
         public B()
         {
             System.Console.WriteLine("B default ctor");
@@ -34,17 +34,62 @@ namespace DynamicPolymorphismDemo
             this.y = y;
         }
 
-        public void Print()
+        public override void Print()
         {
             System.Console.WriteLine($"X:{x} and Y:{y}");
         }
     }
-    class C { public string name = "C"; }
+    class C : A
+    {
+        int z;
+        public C()
+        {
+            System.Console.WriteLine("C default ctor");
+        }
+        public C(int x, int z) : base(x)
+        {
+            System.Console.WriteLine("C parameterized ctor");
+            this.z = z;
+        }
+
+        public override void Print()
+        {
+            //base.Print();
+            System.Console.WriteLine($"X:{x} and Z:{z}");
+        }
+    }
     class Program
     {
         static void Main()
         {
-            
+            //A aObj = new A();
+            B bObj = new B(10, 20);
+            //A sameRef = bObj;
+            C cObj = new C(30, 40);
+            Show(bObj);
+            Show(cObj);
         }
+        static void Show(A a)
+        {
+            a.Print();
+            // if (a is B)
+            // {
+            //     B b = a as B;
+            //     b.Print();
+            // }
+            // if (a is C)
+            // {
+            //     C c = a as C;
+            //     c.Print();
+            // }
+        }
+        // static void Show(B b)
+        // {
+        //     b.Print();
+        // }
+        // static void Show(C c)
+        // {
+        //     c.Print();
+        // }
     }
 }

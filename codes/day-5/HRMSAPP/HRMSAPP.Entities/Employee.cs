@@ -120,7 +120,7 @@ namespace HRMSAPP.Entities
         /// <summary>
         /// Method to calculate total salary of an employee
         /// </summary>
-        public void CalculateSalary()
+        public virtual void CalculateSalary()
         {
             //employeeSalary
             EmployeeSalary = employeeBasicPayemnt + employeeDaPayemnt + employeeHraPayemnt;

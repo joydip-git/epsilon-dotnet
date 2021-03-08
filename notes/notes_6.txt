@@ -79,6 +79,21 @@ Employee
 //6. iterate through the array
 //7. print all of their salaries
 
+  SC -(csc)-> il code
+
+  il code -(jit)-> ml code-->executed
+
+
+  Person--> Cut (virtual)
+        (override)
+	Barber --> Cut (cuts hair)--> calls Cut of Person
+	FilmDirector --> Cut (end a scene)--> calls Cut of Person
+	Butcher --> Cut ()--> calls Cut of Person
+
+  Person p = new Barber()/new FilmDirector()/new Butcher();
+  p.Cut();
+
+
 
 
 
