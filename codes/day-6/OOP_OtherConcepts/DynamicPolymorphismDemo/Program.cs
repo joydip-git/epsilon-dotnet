@@ -24,12 +24,13 @@ namespace DynamicPolymorphismDemo
     class B : A
     {
         string y;
-        public A()
+        public B()
         {
-
+            System.Console.WriteLine("B default ctor");
         }
-        public A(int y)
+        public B(int x, int y) : base(x)
         {
+            System.Console.WriteLine("B parameterized ctor");
             this.y = y;
         }
 
@@ -38,10 +39,10 @@ namespace DynamicPolymorphismDemo
             System.Console.WriteLine($"X:{x} and Y:{y}");
         }
     }
-    class C : A { public string name = "C"; }
+    class C { public string name = "C"; }
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
             
         }
