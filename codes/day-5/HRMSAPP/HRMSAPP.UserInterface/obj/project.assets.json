@@ -90,11 +90,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\epsilon-dotnet\\codes\\day-5\\HRMSAPP\\HRMSAPP.UserInterface\\HRMSAPP.UserInterface.csproj",
+      "projectUniqueName": "e:\\epsilon-dotnet\\codes\\day-5\\HRMSAPP\\HRMSAPP.UserInterface\\HRMSAPP.UserInterface.csproj",
       "projectName": "HRMSAPP.UserInterface",
-      "projectPath": "E:\\epsilon-dotnet\\codes\\day-5\\HRMSAPP\\HRMSAPP.UserInterface\\HRMSAPP.UserInterface.csproj",
+      "projectPath": "e:\\epsilon-dotnet\\codes\\day-5\\HRMSAPP\\HRMSAPP.UserInterface\\HRMSAPP.UserInterface.csproj",
       "packagesPath": "C:\\Users\\joydip\\.nuget\\packages\\",
-      "outputPath": "E:\\epsilon-dotnet\\codes\\day-5\\HRMSAPP\\HRMSAPP.UserInterface\\obj\\",
+      "outputPath": "e:\\epsilon-dotnet\\codes\\day-5\\HRMSAPP\\HRMSAPP.UserInterface\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -114,11 +114,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "E:\\epsilon-dotnet\\codes\\day-5\\HRMSAPP\\HRMSAPP.BusinessLayer\\HRMSAPP.BusinessLayer.csproj": {
-              "projectPath": "E:\\epsilon-dotnet\\codes\\day-5\\HRMSAPP\\HRMSAPP.BusinessLayer\\HRMSAPP.BusinessLayer.csproj"
+            "e:\\epsilon-dotnet\\codes\\day-5\\HRMSAPP\\HRMSAPP.BusinessLayer\\HRMSAPP.BusinessLayer.csproj": {
+              "projectPath": "e:\\epsilon-dotnet\\codes\\day-5\\HRMSAPP\\HRMSAPP.BusinessLayer\\HRMSAPP.BusinessLayer.csproj"
             },
-            "E:\\epsilon-dotnet\\codes\\day-5\\HRMSAPP\\HRMSAPP.Entities\\HRMSAPP.Entities.csproj": {
-              "projectPath": "E:\\epsilon-dotnet\\codes\\day-5\\HRMSAPP\\HRMSAPP.Entities\\HRMSAPP.Entities.csproj"
+            "e:\\epsilon-dotnet\\codes\\day-5\\HRMSAPP\\HRMSAPP.Entities\\HRMSAPP.Entities.csproj": {
+              "projectPath": "e:\\epsilon-dotnet\\codes\\day-5\\HRMSAPP\\HRMSAPP.Entities\\HRMSAPP.Entities.csproj"
             }
           }
         }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\epsilon-dotnet\\codes\\day-6\\OOP_OtherConcepts\\PolymorphismDemo\\PolymorphismDemo.csproj": {}
+    "e:\\epsilon-dotnet\\codes\\day-6\\OOP_OtherConcepts\\PolymorphismDemo\\PolymorphismDemo.csproj": {}
   },
   "projects": {
-    "E:\\epsilon-dotnet\\codes\\day-6\\OOP_OtherConcepts\\PolymorphismDemo\\PolymorphismDemo.csproj": {
+    "e:\\epsilon-dotnet\\codes\\day-6\\OOP_OtherConcepts\\PolymorphismDemo\\PolymorphismDemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\epsilon-dotnet\\codes\\day-6\\OOP_OtherConcepts\\PolymorphismDemo\\PolymorphismDemo.csproj",
+        "projectUniqueName": "e:\\epsilon-dotnet\\codes\\day-6\\OOP_OtherConcepts\\PolymorphismDemo\\PolymorphismDemo.csproj",
         "projectName": "PolymorphismDemo",
-        "projectPath": "E:\\epsilon-dotnet\\codes\\day-6\\OOP_OtherConcepts\\PolymorphismDemo\\PolymorphismDemo.csproj",
+        "projectPath": "e:\\epsilon-dotnet\\codes\\day-6\\OOP_OtherConcepts\\PolymorphismDemo\\PolymorphismDemo.csproj",
         "packagesPath": "C:\\Users\\joydip\\.nuget\\packages\\",
-        "outputPath": "E:\\epsilon-dotnet\\codes\\day-6\\OOP_OtherConcepts\\PolymorphismDemo\\obj\\",
+        "outputPath": "e:\\epsilon-dotnet\\codes\\day-6\\OOP_OtherConcepts\\PolymorphismDemo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

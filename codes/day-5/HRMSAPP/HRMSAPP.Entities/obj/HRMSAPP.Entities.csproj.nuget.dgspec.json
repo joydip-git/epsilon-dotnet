@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\epsilon-dotnet\\codes\\day-5\\HRMSAPP\\HRMSAPP.Entities\\HRMSAPP.Entities.csproj": {}
+    "e:\\epsilon-dotnet\\codes\\day-5\\HRMSAPP\\HRMSAPP.Entities\\HRMSAPP.Entities.csproj": {}
   },
   "projects": {
-    "E:\\epsilon-dotnet\\codes\\day-5\\HRMSAPP\\HRMSAPP.Entities\\HRMSAPP.Entities.csproj": {
+    "e:\\epsilon-dotnet\\codes\\day-5\\HRMSAPP\\HRMSAPP.Entities\\HRMSAPP.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\epsilon-dotnet\\codes\\day-5\\HRMSAPP\\HRMSAPP.Entities\\HRMSAPP.Entities.csproj",
+        "projectUniqueName": "e:\\epsilon-dotnet\\codes\\day-5\\HRMSAPP\\HRMSAPP.Entities\\HRMSAPP.Entities.csproj",
         "projectName": "HRMSAPP.Entities",
-        "projectPath": "E:\\epsilon-dotnet\\codes\\day-5\\HRMSAPP\\HRMSAPP.Entities\\HRMSAPP.Entities.csproj",
+        "projectPath": "e:\\epsilon-dotnet\\codes\\day-5\\HRMSAPP\\HRMSAPP.Entities\\HRMSAPP.Entities.csproj",
         "packagesPath": "C:\\Users\\joydip\\.nuget\\packages\\",
-        "outputPath": "E:\\epsilon-dotnet\\codes\\day-5\\HRMSAPP\\HRMSAPP.Entities\\obj\\",
+        "outputPath": "e:\\epsilon-dotnet\\codes\\day-5\\HRMSAPP\\HRMSAPP.Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

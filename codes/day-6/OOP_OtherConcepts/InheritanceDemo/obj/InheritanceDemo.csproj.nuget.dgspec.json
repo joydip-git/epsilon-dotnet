@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\epsilon-dotnet\\codes\\day-6\\OOP_OtherConcepts\\InheritanceDemo\\InheritanceDemo.csproj": {}
+    "e:\\epsilon-dotnet\\codes\\day-6\\OOP_OtherConcepts\\InheritanceDemo\\InheritanceDemo.csproj": {}
   },
   "projects": {
-    "E:\\epsilon-dotnet\\codes\\day-6\\OOP_OtherConcepts\\InheritanceDemo\\InheritanceDemo.csproj": {
+    "e:\\epsilon-dotnet\\codes\\day-6\\OOP_OtherConcepts\\InheritanceDemo\\InheritanceDemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\epsilon-dotnet\\codes\\day-6\\OOP_OtherConcepts\\InheritanceDemo\\InheritanceDemo.csproj",
+        "projectUniqueName": "e:\\epsilon-dotnet\\codes\\day-6\\OOP_OtherConcepts\\InheritanceDemo\\InheritanceDemo.csproj",
         "projectName": "InheritanceDemo",
-        "projectPath": "E:\\epsilon-dotnet\\codes\\day-6\\OOP_OtherConcepts\\InheritanceDemo\\InheritanceDemo.csproj",
+        "projectPath": "e:\\epsilon-dotnet\\codes\\day-6\\OOP_OtherConcepts\\InheritanceDemo\\InheritanceDemo.csproj",
         "packagesPath": "C:\\Users\\joydip\\.nuget\\packages\\",
-        "outputPath": "E:\\epsilon-dotnet\\codes\\day-6\\OOP_OtherConcepts\\InheritanceDemo\\obj\\",
+        "outputPath": "e:\\epsilon-dotnet\\codes\\day-6\\OOP_OtherConcepts\\InheritanceDemo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

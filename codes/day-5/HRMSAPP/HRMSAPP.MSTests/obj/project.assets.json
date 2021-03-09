@@ -5710,11 +5710,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\epsilon-dotnet\\codes\\day-5\\HRMSAPP\\HRMSAPP.MSTests\\HRMSAPP.MSTests.csproj",
+      "projectUniqueName": "e:\\epsilon-dotnet\\codes\\day-5\\HRMSAPP\\HRMSAPP.MSTests\\HRMSAPP.MSTests.csproj",
       "projectName": "HRMSAPP.MSTests",
-      "projectPath": "E:\\epsilon-dotnet\\codes\\day-5\\HRMSAPP\\HRMSAPP.MSTests\\HRMSAPP.MSTests.csproj",
+      "projectPath": "e:\\epsilon-dotnet\\codes\\day-5\\HRMSAPP\\HRMSAPP.MSTests\\HRMSAPP.MSTests.csproj",
       "packagesPath": "C:\\Users\\joydip\\.nuget\\packages\\",
-      "outputPath": "E:\\epsilon-dotnet\\codes\\day-5\\HRMSAPP\\HRMSAPP.MSTests\\obj\\",
+      "outputPath": "e:\\epsilon-dotnet\\codes\\day-5\\HRMSAPP\\HRMSAPP.MSTests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5734,11 +5734,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "E:\\epsilon-dotnet\\codes\\day-5\\HRMSAPP\\HRMSAPP.DataAccessLayer\\HRMSAPP.DataAccessLayer.csproj": {
-              "projectPath": "E:\\epsilon-dotnet\\codes\\day-5\\HRMSAPP\\HRMSAPP.DataAccessLayer\\HRMSAPP.DataAccessLayer.csproj"
+            "e:\\epsilon-dotnet\\codes\\day-5\\HRMSAPP\\HRMSAPP.DataAccessLayer\\HRMSAPP.DataAccessLayer.csproj": {
+              "projectPath": "e:\\epsilon-dotnet\\codes\\day-5\\HRMSAPP\\HRMSAPP.DataAccessLayer\\HRMSAPP.DataAccessLayer.csproj"
             },
-            "E:\\epsilon-dotnet\\codes\\day-5\\HRMSAPP\\HRMSAPP.Entities\\HRMSAPP.Entities.csproj": {
-              "projectPath": "E:\\epsilon-dotnet\\codes\\day-5\\HRMSAPP\\HRMSAPP.Entities\\HRMSAPP.Entities.csproj"
+            "e:\\epsilon-dotnet\\codes\\day-5\\HRMSAPP\\HRMSAPP.Entities\\HRMSAPP.Entities.csproj": {
+              "projectPath": "e:\\epsilon-dotnet\\codes\\day-5\\HRMSAPP\\HRMSAPP.Entities\\HRMSAPP.Entities.csproj"
             }
           }
         }

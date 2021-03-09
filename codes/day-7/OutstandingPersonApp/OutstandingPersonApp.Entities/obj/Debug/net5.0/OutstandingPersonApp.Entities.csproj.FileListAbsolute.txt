@@ -1,0 +1,12 @@
+e:\epsilon-dotnet\codes\day-7\OutstandingPersonApp\OutstandingPersonApp.Entities\bin\Debug\net5.0\OutstandingPersonApp.Entities.deps.json
+E:\epsilon-dotnet\codes\day-7\OutstandingPersonApp\OutstandingPersonApp.Entities\bin\Debug\net5.0\OutstandingPersonApp.Entities.dll
+e:\epsilon-dotnet\codes\day-7\OutstandingPersonApp\OutstandingPersonApp.Entities\bin\Debug\net5.0\ref\OutstandingPersonApp.Entities.dll
+E:\epsilon-dotnet\codes\day-7\OutstandingPersonApp\OutstandingPersonApp.Entities\bin\Debug\net5.0\OutstandingPersonApp.Entities.pdb
+E:\epsilon-dotnet\codes\day-7\OutstandingPersonApp\OutstandingPersonApp.Entities\obj\Debug\net5.0\OutstandingPersonApp.Entities.csprojAssemblyReference.cache
+E:\epsilon-dotnet\codes\day-7\OutstandingPersonApp\OutstandingPersonApp.Entities\obj\Debug\net5.0\OutstandingPersonApp.Entities.GeneratedMSBuildEditorConfig.editorconfig
+E:\epsilon-dotnet\codes\day-7\OutstandingPersonApp\OutstandingPersonApp.Entities\obj\Debug\net5.0\OutstandingPersonApp.Entities.AssemblyInfoInputs.cache
+E:\epsilon-dotnet\codes\day-7\OutstandingPersonApp\OutstandingPersonApp.Entities\obj\Debug\net5.0\OutstandingPersonApp.Entities.AssemblyInfo.cs
+E:\epsilon-dotnet\codes\day-7\OutstandingPersonApp\OutstandingPersonApp.Entities\obj\Debug\net5.0\OutstandingPersonApp.Entities.csproj.CoreCompileInputs.cache
+E:\epsilon-dotnet\codes\day-7\OutstandingPersonApp\OutstandingPersonApp.Entities\obj\Debug\net5.0\OutstandingPersonApp.Entities.dll
+E:\epsilon-dotnet\codes\day-7\OutstandingPersonApp\OutstandingPersonApp.Entities\obj\Debug\net5.0\ref\OutstandingPersonApp.Entities.dll
+E:\epsilon-dotnet\codes\day-7\OutstandingPersonApp\OutstandingPersonApp.Entities\obj\Debug\net5.0\OutstandingPersonApp.Entities.pdb

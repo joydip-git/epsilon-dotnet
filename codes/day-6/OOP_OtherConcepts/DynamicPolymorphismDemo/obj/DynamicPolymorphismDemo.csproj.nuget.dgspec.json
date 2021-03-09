@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\epsilon-dotnet\\codes\\day-6\\OOP_OtherConcepts\\DynamicPolymorphismDemo\\DynamicPolymorphismDemo.csproj": {}
+    "e:\\epsilon-dotnet\\codes\\day-6\\OOP_OtherConcepts\\DynamicPolymorphismDemo\\DynamicPolymorphismDemo.csproj": {}
   },
   "projects": {
-    "E:\\epsilon-dotnet\\codes\\day-6\\OOP_OtherConcepts\\DynamicPolymorphismDemo\\DynamicPolymorphismDemo.csproj": {
+    "e:\\epsilon-dotnet\\codes\\day-6\\OOP_OtherConcepts\\DynamicPolymorphismDemo\\DynamicPolymorphismDemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\epsilon-dotnet\\codes\\day-6\\OOP_OtherConcepts\\DynamicPolymorphismDemo\\DynamicPolymorphismDemo.csproj",
+        "projectUniqueName": "e:\\epsilon-dotnet\\codes\\day-6\\OOP_OtherConcepts\\DynamicPolymorphismDemo\\DynamicPolymorphismDemo.csproj",
         "projectName": "DynamicPolymorphismDemo",
-        "projectPath": "E:\\epsilon-dotnet\\codes\\day-6\\OOP_OtherConcepts\\DynamicPolymorphismDemo\\DynamicPolymorphismDemo.csproj",
+        "projectPath": "e:\\epsilon-dotnet\\codes\\day-6\\OOP_OtherConcepts\\DynamicPolymorphismDemo\\DynamicPolymorphismDemo.csproj",
         "packagesPath": "C:\\Users\\joydip\\.nuget\\packages\\",
-        "outputPath": "E:\\epsilon-dotnet\\codes\\day-6\\OOP_OtherConcepts\\DynamicPolymorphismDemo\\obj\\",
+        "outputPath": "e:\\epsilon-dotnet\\codes\\day-6\\OOP_OtherConcepts\\DynamicPolymorphismDemo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
