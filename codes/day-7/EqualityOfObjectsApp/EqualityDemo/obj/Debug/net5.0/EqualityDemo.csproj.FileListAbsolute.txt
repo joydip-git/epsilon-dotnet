@@ -1,0 +1,16 @@
+E:\epsilon-dotnet\codes\day-7\EqualityOfObjectsApp\EqualityDemo\bin\Debug\net5.0\EqualityDemo.exe
+E:\epsilon-dotnet\codes\day-7\EqualityOfObjectsApp\EqualityDemo\bin\Debug\net5.0\EqualityDemo.deps.json
+E:\epsilon-dotnet\codes\day-7\EqualityOfObjectsApp\EqualityDemo\bin\Debug\net5.0\EqualityDemo.runtimeconfig.json
+E:\epsilon-dotnet\codes\day-7\EqualityOfObjectsApp\EqualityDemo\bin\Debug\net5.0\EqualityDemo.runtimeconfig.dev.json
+E:\epsilon-dotnet\codes\day-7\EqualityOfObjectsApp\EqualityDemo\bin\Debug\net5.0\EqualityDemo.dll
+E:\epsilon-dotnet\codes\day-7\EqualityOfObjectsApp\EqualityDemo\bin\Debug\net5.0\ref\EqualityDemo.dll
+E:\epsilon-dotnet\codes\day-7\EqualityOfObjectsApp\EqualityDemo\bin\Debug\net5.0\EqualityDemo.pdb
+E:\epsilon-dotnet\codes\day-7\EqualityOfObjectsApp\EqualityDemo\obj\Debug\net5.0\EqualityDemo.csprojAssemblyReference.cache
+E:\epsilon-dotnet\codes\day-7\EqualityOfObjectsApp\EqualityDemo\obj\Debug\net5.0\EqualityDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\epsilon-dotnet\codes\day-7\EqualityOfObjectsApp\EqualityDemo\obj\Debug\net5.0\EqualityDemo.AssemblyInfoInputs.cache
+E:\epsilon-dotnet\codes\day-7\EqualityOfObjectsApp\EqualityDemo\obj\Debug\net5.0\EqualityDemo.AssemblyInfo.cs
+E:\epsilon-dotnet\codes\day-7\EqualityOfObjectsApp\EqualityDemo\obj\Debug\net5.0\EqualityDemo.csproj.CoreCompileInputs.cache
+E:\epsilon-dotnet\codes\day-7\EqualityOfObjectsApp\EqualityDemo\obj\Debug\net5.0\EqualityDemo.dll
+E:\epsilon-dotnet\codes\day-7\EqualityOfObjectsApp\EqualityDemo\obj\Debug\net5.0\ref\EqualityDemo.dll
+E:\epsilon-dotnet\codes\day-7\EqualityOfObjectsApp\EqualityDemo\obj\Debug\net5.0\EqualityDemo.pdb
+E:\epsilon-dotnet\codes\day-7\EqualityOfObjectsApp\EqualityDemo\obj\Debug\net5.0\EqualityDemo.genruntimeconfig.cache

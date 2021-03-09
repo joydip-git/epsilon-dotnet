@@ -40,7 +40,8 @@ namespace InterfaceDemo
             int choice = GetChoice();
             IDataAccess dataAccess = Create(choice);
             dataAccess.GetData();
-            System.Console.WriteLine(dataAccess.Data);
+            Type t = dataAccess.GetType();
+            System.Console.WriteLine($"Data retrieved by {t.Name} is {dataAccess.Data}");
 
         }
     }
