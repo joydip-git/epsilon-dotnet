@@ -1,30 +1,11 @@
 {
   "version": 3,
   "targets": {
-    "net5.0": {
-      "OutstandingPersonApp.Entities/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v5.0",
-        "compile": {
-          "bin/placeholder/OutstandingPersonApp.Entities.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/OutstandingPersonApp.Entities.dll": {}
-        }
-      }
-    }
+    "net5.0": {}
   },
-  "libraries": {
-    "OutstandingPersonApp.Entities/1.0.0": {
-      "type": "project",
-      "path": "../OutstandingPersonApp.Entities/OutstandingPersonApp.Entities.csproj",
-      "msbuildProject": "../OutstandingPersonApp.Entities/OutstandingPersonApp.Entities.csproj"
-    }
-  },
+  "libraries": {},
   "projectFileDependencyGroups": {
-    "net5.0": [
-      "OutstandingPersonApp.Entities >= 1.0.0"
-    ]
+    "net5.0": []
   },
   "packageFolders": {
     "C:\\Users\\joydip\\.nuget\\packages\\": {},
@@ -33,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "e:\\epsilon-dotnet\\codes\\day-7\\OutstandingPersonApp\\OutstandingPersonApp.UserInterface\\OutstandingPersonApp.UserInterface.csproj",
-      "projectName": "OutstandingPersonApp.UserInterface",
-      "projectPath": "e:\\epsilon-dotnet\\codes\\day-7\\OutstandingPersonApp\\OutstandingPersonApp.UserInterface\\OutstandingPersonApp.UserInterface.csproj",
+      "projectUniqueName": "E:\\epsilon-dotnet\\codes\\day-7\\InterfaceApp\\InterfaceDemo\\InterfaceDemo.csproj",
+      "projectName": "InterfaceDemo",
+      "projectPath": "E:\\epsilon-dotnet\\codes\\day-7\\InterfaceApp\\InterfaceDemo\\InterfaceDemo.csproj",
       "packagesPath": "C:\\Users\\joydip\\.nuget\\packages\\",
-      "outputPath": "e:\\epsilon-dotnet\\codes\\day-7\\OutstandingPersonApp\\OutstandingPersonApp.UserInterface\\obj\\",
+      "outputPath": "E:\\epsilon-dotnet\\codes\\day-7\\InterfaceApp\\InterfaceDemo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -56,11 +37,7 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {
-            "e:\\epsilon-dotnet\\codes\\day-7\\OutstandingPersonApp\\OutstandingPersonApp.Entities\\OutstandingPersonApp.Entities.csproj": {
-              "projectPath": "e:\\epsilon-dotnet\\codes\\day-7\\OutstandingPersonApp\\OutstandingPersonApp.Entities\\OutstandingPersonApp.Entities.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {

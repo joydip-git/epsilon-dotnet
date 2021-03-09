@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\epsilon-dotnet\\codes\\day-7\\OutstandingPersonApp\\OutstandingPersonApp.UserInterface\\OutstandingPersonApp.UserInterface.csproj": {}
+    "e:\\epsilon-dotnet\\codes\\day-7\\OutstandingPersonApp\\OutstandingPersonApp.UserInterface\\OutstandingPersonApp.UserInterface.csproj": {}
   },
   "projects": {
-    "E:\\epsilon-dotnet\\codes\\day-7\\OutstandingPersonApp\\OutstandingPersonApp.Entities\\OutstandingPersonApp.Entities.csproj": {
+    "e:\\epsilon-dotnet\\codes\\day-7\\OutstandingPersonApp\\OutstandingPersonApp.Entities\\OutstandingPersonApp.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\epsilon-dotnet\\codes\\day-7\\OutstandingPersonApp\\OutstandingPersonApp.Entities\\OutstandingPersonApp.Entities.csproj",
+        "projectUniqueName": "e:\\epsilon-dotnet\\codes\\day-7\\OutstandingPersonApp\\OutstandingPersonApp.Entities\\OutstandingPersonApp.Entities.csproj",
         "projectName": "OutstandingPersonApp.Entities",
-        "projectPath": "E:\\epsilon-dotnet\\codes\\day-7\\OutstandingPersonApp\\OutstandingPersonApp.Entities\\OutstandingPersonApp.Entities.csproj",
+        "projectPath": "e:\\epsilon-dotnet\\codes\\day-7\\OutstandingPersonApp\\OutstandingPersonApp.Entities\\OutstandingPersonApp.Entities.csproj",
         "packagesPath": "C:\\Users\\joydip\\.nuget\\packages\\",
-        "outputPath": "E:\\epsilon-dotnet\\codes\\day-7\\OutstandingPersonApp\\OutstandingPersonApp.Entities\\obj\\",
+        "outputPath": "e:\\epsilon-dotnet\\codes\\day-7\\OutstandingPersonApp\\OutstandingPersonApp.Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -61,14 +61,14 @@
         }
       }
     },
-    "E:\\epsilon-dotnet\\codes\\day-7\\OutstandingPersonApp\\OutstandingPersonApp.UserInterface\\OutstandingPersonApp.UserInterface.csproj": {
+    "e:\\epsilon-dotnet\\codes\\day-7\\OutstandingPersonApp\\OutstandingPersonApp.UserInterface\\OutstandingPersonApp.UserInterface.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\epsilon-dotnet\\codes\\day-7\\OutstandingPersonApp\\OutstandingPersonApp.UserInterface\\OutstandingPersonApp.UserInterface.csproj",
+        "projectUniqueName": "e:\\epsilon-dotnet\\codes\\day-7\\OutstandingPersonApp\\OutstandingPersonApp.UserInterface\\OutstandingPersonApp.UserInterface.csproj",
         "projectName": "OutstandingPersonApp.UserInterface",
-        "projectPath": "E:\\epsilon-dotnet\\codes\\day-7\\OutstandingPersonApp\\OutstandingPersonApp.UserInterface\\OutstandingPersonApp.UserInterface.csproj",
+        "projectPath": "e:\\epsilon-dotnet\\codes\\day-7\\OutstandingPersonApp\\OutstandingPersonApp.UserInterface\\OutstandingPersonApp.UserInterface.csproj",
         "packagesPath": "C:\\Users\\joydip\\.nuget\\packages\\",
-        "outputPath": "E:\\epsilon-dotnet\\codes\\day-7\\OutstandingPersonApp\\OutstandingPersonApp.UserInterface\\obj\\",
+        "outputPath": "e:\\epsilon-dotnet\\codes\\day-7\\OutstandingPersonApp\\OutstandingPersonApp.UserInterface\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -88,8 +88,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "E:\\epsilon-dotnet\\codes\\day-7\\OutstandingPersonApp\\OutstandingPersonApp.Entities\\OutstandingPersonApp.Entities.csproj": {
-                "projectPath": "E:\\epsilon-dotnet\\codes\\day-7\\OutstandingPersonApp\\OutstandingPersonApp.Entities\\OutstandingPersonApp.Entities.csproj"
+              "e:\\epsilon-dotnet\\codes\\day-7\\OutstandingPersonApp\\OutstandingPersonApp.Entities\\OutstandingPersonApp.Entities.csproj": {
+                "projectPath": "e:\\epsilon-dotnet\\codes\\day-7\\OutstandingPersonApp\\OutstandingPersonApp.Entities\\OutstandingPersonApp.Entities.csproj"
               }
             }
           }

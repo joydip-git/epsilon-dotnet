@@ -5,6 +5,25 @@ namespace OutstandingPersonApp.UserInterface
 {
     class Program
     {
+        //Person is an abstract class
+        static Person Create(int choice)
+        {
+            Person person = null;
+            switch (choice)
+            {
+                case 1:
+                    person = new Professor();
+                    break;
+
+                case 2:
+                    person = new Student();
+                    break;
+
+                default:
+                    break;
+            }
+            return person;
+        }
         static void Main(string[] args)
         {
             //creatong an object of an array (Array) where type of references is Person or child classes of Person
@@ -33,7 +52,7 @@ namespace OutstandingPersonApp.UserInterface
                         //     System.Console.WriteLine(student.Show());
                         // }
                         // System.Console.WriteLine(person.ToString());
-                        
+
                         //ToString() method gets called implicitly
                         System.Console.WriteLine(person);
                     }

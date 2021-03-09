@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "e:\\epsilon-dotnet\\codes\\day-7\\OutstandingPersonApp\\OutstandingPersonApp.Entities\\OutstandingPersonApp.Entities.csproj": {}
+    "E:\\epsilon-dotnet\\codes\\day-7\\InterfaceApp\\InterfaceDemo\\InterfaceDemo.csproj": {}
   },
   "projects": {
-    "e:\\epsilon-dotnet\\codes\\day-7\\OutstandingPersonApp\\OutstandingPersonApp.Entities\\OutstandingPersonApp.Entities.csproj": {
+    "E:\\epsilon-dotnet\\codes\\day-7\\InterfaceApp\\InterfaceDemo\\InterfaceDemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "e:\\epsilon-dotnet\\codes\\day-7\\OutstandingPersonApp\\OutstandingPersonApp.Entities\\OutstandingPersonApp.Entities.csproj",
-        "projectName": "OutstandingPersonApp.Entities",
-        "projectPath": "e:\\epsilon-dotnet\\codes\\day-7\\OutstandingPersonApp\\OutstandingPersonApp.Entities\\OutstandingPersonApp.Entities.csproj",
+        "projectUniqueName": "E:\\epsilon-dotnet\\codes\\day-7\\InterfaceApp\\InterfaceDemo\\InterfaceDemo.csproj",
+        "projectName": "InterfaceDemo",
+        "projectPath": "E:\\epsilon-dotnet\\codes\\day-7\\InterfaceApp\\InterfaceDemo\\InterfaceDemo.csproj",
         "packagesPath": "C:\\Users\\joydip\\.nuget\\packages\\",
-        "outputPath": "e:\\epsilon-dotnet\\codes\\day-7\\OutstandingPersonApp\\OutstandingPersonApp.Entities\\obj\\",
+        "outputPath": "E:\\epsilon-dotnet\\codes\\day-7\\InterfaceApp\\InterfaceDemo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

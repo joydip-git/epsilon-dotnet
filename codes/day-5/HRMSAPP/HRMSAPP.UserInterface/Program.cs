@@ -19,6 +19,7 @@ namespace HRMSAPP.UserInterface
             Console.Write("\nEnter Choice[1/2/3]: ");
             return int.Parse(Console.ReadLine());
         }
+        //Employee is a concrete class
         static Employee Create(int empChoice)
         {
             Employee employee = null;
