@@ -1,0 +1,51 @@
+data
+--> hashing
+--> encryption
+--> digital signature
+
+
+data --> 
+   datap1, random value (seed)-->function-->random (alphabetic)[Hashcode1]
+   datap2, hashcode1 --> function--> hashcode2
+   datap3, hashcode2--> function--> hashcode3
+.....................................................
+   datapart-n, hashcode-(n-1) --> function -->hashcode - nth
+
+
+
+4 bits
+
+0000
+0001
+0010
+0011
+0100
+0101
+0110
+0111
+1000
+1001
+1010
+1011
+1100
+1101
+1110
+1111
+
+1. declare data members in camelCasing style
+2. create constructors (including default and parameterized)
+3. create properties for every data member (property names must be in Pascal casing)
+4. create necessary methods
+5. create regions for them
+6. also, override object class methods (ToString, Equals and GetHashCode)
+7. class name should be in Pascal casing
+8. class name should not use any reserved keyword as suffix or Prefix
+9. class name must be Noun and preferrably singular
+10. also decide access specifiers for class and class members
+
+sealed, const data member, readonly
+
+
+
+
+
