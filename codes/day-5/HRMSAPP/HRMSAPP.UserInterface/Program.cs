@@ -76,8 +76,9 @@ namespace HRMSAPP.UserInterface
             for (int i = 0; i < employees.Length; i++)
             {
                 ShowEmployeeSubMenu();
-                int empChoice = GetEmployeeChoice();
+                int empChoice = GetEmployeeChoice();                
                 Employee employee = Create(empChoice);
+                //kinldy verify whether same object exists in the array already or not....
                 employees[i] = employee;
             }
             foreach (Employee e in employees)

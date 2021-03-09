@@ -1,0 +1,19 @@
+Take HRMS APP
+
+Override Object class methods (Equals and ToString())
+also overload the == and != operators in those classes
+
+in Main method, you created an array of Employee
+Don't allow duplicate object to be added in the employees array
+
+OR
+
+Take OutstandPersonApp
+Override Object class methods (Equals and ToString()) in every class 
+also overload the == and != operators in those classes
+
+in Main method, you created an array of Person
+Don't allow duplicate object to be added in the Person array
+
+
+
