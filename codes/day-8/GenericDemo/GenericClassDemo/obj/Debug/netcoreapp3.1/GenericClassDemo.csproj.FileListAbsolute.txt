@@ -1,0 +1,13 @@
+E:\epsilon-dotnet\codes\day-8\GenericDemo\GenericClassDemo\bin\Debug\netcoreapp3.1\GenericClassDemo.exe
+E:\epsilon-dotnet\codes\day-8\GenericDemo\GenericClassDemo\bin\Debug\netcoreapp3.1\GenericClassDemo.deps.json
+E:\epsilon-dotnet\codes\day-8\GenericDemo\GenericClassDemo\bin\Debug\netcoreapp3.1\GenericClassDemo.runtimeconfig.json
+E:\epsilon-dotnet\codes\day-8\GenericDemo\GenericClassDemo\bin\Debug\netcoreapp3.1\GenericClassDemo.runtimeconfig.dev.json
+E:\epsilon-dotnet\codes\day-8\GenericDemo\GenericClassDemo\bin\Debug\netcoreapp3.1\GenericClassDemo.dll
+E:\epsilon-dotnet\codes\day-8\GenericDemo\GenericClassDemo\bin\Debug\netcoreapp3.1\GenericClassDemo.pdb
+E:\epsilon-dotnet\codes\day-8\GenericDemo\GenericClassDemo\obj\Debug\netcoreapp3.1\GenericClassDemo.csprojAssemblyReference.cache
+E:\epsilon-dotnet\codes\day-8\GenericDemo\GenericClassDemo\obj\Debug\netcoreapp3.1\GenericClassDemo.AssemblyInfoInputs.cache
+E:\epsilon-dotnet\codes\day-8\GenericDemo\GenericClassDemo\obj\Debug\netcoreapp3.1\GenericClassDemo.AssemblyInfo.cs
+E:\epsilon-dotnet\codes\day-8\GenericDemo\GenericClassDemo\obj\Debug\netcoreapp3.1\GenericClassDemo.csproj.CoreCompileInputs.cache
+E:\epsilon-dotnet\codes\day-8\GenericDemo\GenericClassDemo\obj\Debug\netcoreapp3.1\GenericClassDemo.dll
+E:\epsilon-dotnet\codes\day-8\GenericDemo\GenericClassDemo\obj\Debug\netcoreapp3.1\GenericClassDemo.pdb
+E:\epsilon-dotnet\codes\day-8\GenericDemo\GenericClassDemo\obj\Debug\netcoreapp3.1\GenericClassDemo.genruntimeconfig.cache
