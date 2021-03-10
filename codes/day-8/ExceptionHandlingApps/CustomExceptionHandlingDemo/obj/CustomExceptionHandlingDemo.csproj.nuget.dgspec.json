@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "e:\\epsilon-dotnet\\codes\\day-7\\EqualityOfObjectsApp\\EqualityDemo\\EqualityDemo.csproj": {}
+    "E:\\epsilon-dotnet\\codes\\day-8\\ExceptionHandlingApps\\CustomExceptionHandlingDemo\\CustomExceptionHandlingDemo.csproj": {}
   },
   "projects": {
-    "e:\\epsilon-dotnet\\codes\\day-7\\EqualityOfObjectsApp\\EqualityDemo\\EqualityDemo.csproj": {
+    "E:\\epsilon-dotnet\\codes\\day-8\\ExceptionHandlingApps\\CustomExceptionHandlingDemo\\CustomExceptionHandlingDemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "e:\\epsilon-dotnet\\codes\\day-7\\EqualityOfObjectsApp\\EqualityDemo\\EqualityDemo.csproj",
-        "projectName": "EqualityDemo",
-        "projectPath": "e:\\epsilon-dotnet\\codes\\day-7\\EqualityOfObjectsApp\\EqualityDemo\\EqualityDemo.csproj",
+        "projectUniqueName": "E:\\epsilon-dotnet\\codes\\day-8\\ExceptionHandlingApps\\CustomExceptionHandlingDemo\\CustomExceptionHandlingDemo.csproj",
+        "projectName": "CustomExceptionHandlingDemo",
+        "projectPath": "E:\\epsilon-dotnet\\codes\\day-8\\ExceptionHandlingApps\\CustomExceptionHandlingDemo\\CustomExceptionHandlingDemo.csproj",
         "packagesPath": "C:\\Users\\joydip\\.nuget\\packages\\",
-        "outputPath": "e:\\epsilon-dotnet\\codes\\day-7\\EqualityOfObjectsApp\\EqualityDemo\\obj\\",
+        "outputPath": "E:\\epsilon-dotnet\\codes\\day-8\\ExceptionHandlingApps\\CustomExceptionHandlingDemo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -21,15 +21,15 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net5.0"
+          "netcoreapp3.1"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net5.0": {
-            "targetAlias": "net5.0",
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -40,8 +40,8 @@
         }
       },
       "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",

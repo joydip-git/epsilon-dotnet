@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pe6MsqsvtG4cdFZh8eaBIEkOLeGGYvTgx6IOwDdOqu5cxYA221FKIFBEvGdUXpJUkhT6Z8TEihK058Ke3S1AbQ==",
+  "dgSpecHash": "8HdE238Ji5fepcVfaVcv6udHn1pR1iNOEjcLHwAN0YJsXS8CnA6TmJK6PMk/zlg6c8I+9Jd9a2Qze/gMFYHa9Q==",
   "success": true,
-  "projectFilePath": "E:\\epsilon-dotnet\\codes\\day-7\\EqualityOfObjectsApp\\EqualityDemo\\EqualityDemo.csproj",
+  "projectFilePath": "e:\\epsilon-dotnet\\codes\\day-7\\EqualityOfObjectsApp\\EqualityDemo\\EqualityDemo.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

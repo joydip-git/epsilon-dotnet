@@ -1,0 +1,13 @@
+E:\epsilon-dotnet\codes\day-8\ExceptionHandlingApps\CustomExceptionHandlingDemo\bin\Debug\netcoreapp3.1\CustomExceptionHandlingDemo.exe
+E:\epsilon-dotnet\codes\day-8\ExceptionHandlingApps\CustomExceptionHandlingDemo\bin\Debug\netcoreapp3.1\CustomExceptionHandlingDemo.deps.json
+E:\epsilon-dotnet\codes\day-8\ExceptionHandlingApps\CustomExceptionHandlingDemo\bin\Debug\netcoreapp3.1\CustomExceptionHandlingDemo.runtimeconfig.json
+E:\epsilon-dotnet\codes\day-8\ExceptionHandlingApps\CustomExceptionHandlingDemo\bin\Debug\netcoreapp3.1\CustomExceptionHandlingDemo.runtimeconfig.dev.json
+E:\epsilon-dotnet\codes\day-8\ExceptionHandlingApps\CustomExceptionHandlingDemo\bin\Debug\netcoreapp3.1\CustomExceptionHandlingDemo.dll
+E:\epsilon-dotnet\codes\day-8\ExceptionHandlingApps\CustomExceptionHandlingDemo\bin\Debug\netcoreapp3.1\CustomExceptionHandlingDemo.pdb
+E:\epsilon-dotnet\codes\day-8\ExceptionHandlingApps\CustomExceptionHandlingDemo\obj\Debug\netcoreapp3.1\CustomExceptionHandlingDemo.csprojAssemblyReference.cache
+E:\epsilon-dotnet\codes\day-8\ExceptionHandlingApps\CustomExceptionHandlingDemo\obj\Debug\netcoreapp3.1\CustomExceptionHandlingDemo.AssemblyInfoInputs.cache
+E:\epsilon-dotnet\codes\day-8\ExceptionHandlingApps\CustomExceptionHandlingDemo\obj\Debug\netcoreapp3.1\CustomExceptionHandlingDemo.AssemblyInfo.cs
+E:\epsilon-dotnet\codes\day-8\ExceptionHandlingApps\CustomExceptionHandlingDemo\obj\Debug\netcoreapp3.1\CustomExceptionHandlingDemo.csproj.CoreCompileInputs.cache
+E:\epsilon-dotnet\codes\day-8\ExceptionHandlingApps\CustomExceptionHandlingDemo\obj\Debug\netcoreapp3.1\CustomExceptionHandlingDemo.dll
+E:\epsilon-dotnet\codes\day-8\ExceptionHandlingApps\CustomExceptionHandlingDemo\obj\Debug\netcoreapp3.1\CustomExceptionHandlingDemo.pdb
+E:\epsilon-dotnet\codes\day-8\ExceptionHandlingApps\CustomExceptionHandlingDemo\obj\Debug\netcoreapp3.1\CustomExceptionHandlingDemo.genruntimeconfig.cache
