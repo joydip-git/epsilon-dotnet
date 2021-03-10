@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericDemo", "GenericDemo\GenericDemo.csproj", "{2C62F692-6909-4EEF-B812-CFC5A0AE8F40}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericDemo", "GenericDemo\GenericDemo.csproj", "{2C62F692-6909-4EEF-B812-CFC5A0AE8F40}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericClassDemo", "GenericClassDemo\GenericClassDemo.csproj", "{F2A521FB-D7B0-4AA0-8BF6-FF3D30890E3C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericClassDemo", "GenericClassDemo\GenericClassDemo.csproj", "{F2A521FB-D7B0-4AA0-8BF6-FF3D30890E3C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DaoLibrary", "DaoLibrary\DaoLibrary.csproj", "{76D5EF09-4958-4540-ADDE-BA29A794AA1A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{F2A521FB-D7B0-4AA0-8BF6-FF3D30890E3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F2A521FB-D7B0-4AA0-8BF6-FF3D30890E3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F2A521FB-D7B0-4AA0-8BF6-FF3D30890E3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76D5EF09-4958-4540-ADDE-BA29A794AA1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76D5EF09-4958-4540-ADDE-BA29A794AA1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76D5EF09-4958-4540-ADDE-BA29A794AA1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76D5EF09-4958-4540-ADDE-BA29A794AA1A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,9 @@
+E:\epsilon-dotnet\codes\day-8\GenericDemo\DaoLibrary\bin\Debug\netcoreapp3.1\DaoLibrary.deps.json
+E:\epsilon-dotnet\codes\day-8\GenericDemo\DaoLibrary\bin\Debug\netcoreapp3.1\DaoLibrary.dll
+E:\epsilon-dotnet\codes\day-8\GenericDemo\DaoLibrary\bin\Debug\netcoreapp3.1\DaoLibrary.pdb
+E:\epsilon-dotnet\codes\day-8\GenericDemo\DaoLibrary\obj\Debug\netcoreapp3.1\DaoLibrary.csprojAssemblyReference.cache
+E:\epsilon-dotnet\codes\day-8\GenericDemo\DaoLibrary\obj\Debug\netcoreapp3.1\DaoLibrary.AssemblyInfoInputs.cache
+E:\epsilon-dotnet\codes\day-8\GenericDemo\DaoLibrary\obj\Debug\netcoreapp3.1\DaoLibrary.AssemblyInfo.cs
+E:\epsilon-dotnet\codes\day-8\GenericDemo\DaoLibrary\obj\Debug\netcoreapp3.1\DaoLibrary.csproj.CoreCompileInputs.cache
+E:\epsilon-dotnet\codes\day-8\GenericDemo\DaoLibrary\obj\Debug\netcoreapp3.1\DaoLibrary.dll
+E:\epsilon-dotnet\codes\day-8\GenericDemo\DaoLibrary\obj\Debug\netcoreapp3.1\DaoLibrary.pdb
