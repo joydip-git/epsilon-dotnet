@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HiOxiZU1qi4v7mPJHdCDbJVALEnzdp9tnKZ+mjX9Eb32GtP0ASwyIBmVckm4/W3cArU0V6s7Cry5pypks2yhKQ==",
+  "dgSpecHash": "tWHPhz7F6pnBp5+iS6dP8wwsDMo54SMCrYNOZCNFJDBbC8mql9oIYmlGwE/08u7Wy+G/MoxYdHwvooFq9mGapA==",
   "success": true,
-  "projectFilePath": "E:\\epsilon-dotnet\\codes\\day-7\\InterfaceApp\\InterfaceDemo\\InterfaceDemo.csproj",
+  "projectFilePath": "e:\\epsilon-dotnet\\codes\\day-7\\InterfaceApp\\InterfaceDemo\\InterfaceDemo.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,0 +1,46 @@
+Errors:
+a. compilation error
+b. runtime error
+	1. logical error
+	2. system generated error
+
+structured error handling: (try...catch block)
+when runtime can't perform certain operation, it stops execution of the code
+runtime needs to inform you about the issue (error) which resulted in abortion of execution
+runtime automatically creates an instance of a class, known as Exception and assigns some values to its data members regarding the issue, such as method name, the file and the application name, the line number, details of the error message etc. where the issue occurred.
+Then runtime wants you to take (catch) the reference of the Exception object it created and take an action to rectify or display the error
+
+Note:
+   Generally runtime will NOT create instance of Exception class directly
+   .NET uses different types of Exception class for different situation (error)
+   They are all child classes of top level base class Exception (directly or indirectly)
+
+Exception
+ 	- SystemException
+		- DivideByZeroException
+		- IndexOutOfRangeException
+		- ArithmaticOverflowException
+		- NullReferenceException
+		- ArgumentException
+			- 
+		etc.
+	- ApplicationException
+
+	You can use multiple catch block with a try block, BUT the catch block with Exception class argument should be the last one, since it is the one of super type.
+	Try to catch exception reference using specific type of exception class, since if you use catch block with super type (Exception), the reference of the child exception (originally created and thrown) will be upcasted, hence you will be able to access ONLY - base class members present in the child class object and also the base class's overriden members from the child class object
+	Don't bring entire method code unnecessarily inside try block, at least you can leave the declaration lines outside, so that those variables do not become local to try block
+
+   For further info on best practices about exception handling:
+   https://docs.microsoft.com/en-us/dotnet/standard/exceptions/best-practices-for-exceptions
+   https://stackify.com/csharp-exception-handling-best-practices/
+
+
+
+
+
+
+
+
+
+
+

@@ -49,12 +49,24 @@ namespace EqualityDemo
                     return true;
                 }
                 else
-                    return false;
+                {
+                    //return false;
+                    ArgumentException argEx = new ArgumentException($"argiment is not of type {nameof(Person)}, rather of type {obj.GetType().Name}");
+                    throw argEx;
+                }
             }
             else
-                return false;
+            {
+                //return false;
+                NullReferenceException nullEx = new NullReferenceException("You have passed no reference to the method");
+                throw nullEx;
+            }
         }
 
+        // public NullReferenceException Test()
+        // {
+        //     return new NullReferenceException();
+        // }
         //overloading == operator to check eqaulity between two instances of Person 
         public static bool operator ==(Person first, Person second)
         {
@@ -108,6 +120,7 @@ namespace EqualityDemo
     {
         static void Main()
         {
+            /*
             int x = 10;
             int y = 20;
             //if (x == y)
@@ -117,17 +130,17 @@ namespace EqualityDemo
             }
             else
                 System.Console.WriteLine("not equal");
-
+            */
             Person obj1 = new Person("anil", 1);
             //Person obj2 = obj1;
             Person obj2 = new Person("anil", 1);
 
 
             //if (obj1.Equals(null))
-            //if(obj1.Equals(x))
+            if (obj1.Equals(10))
             //if (obj1.Equals(obj1))
 
-            if (obj1 == obj2)
+            //if (obj1 == obj2)
             //if (obj1.Equals(obj2))
             // if (obj1.GetHashCode() == obj2.GetHashCode())
             // {

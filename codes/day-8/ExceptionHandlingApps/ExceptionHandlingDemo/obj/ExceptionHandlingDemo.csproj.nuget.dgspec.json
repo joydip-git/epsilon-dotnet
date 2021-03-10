@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "e:\\epsilon-dotnet\\codes\\day-7\\InterfaceApp\\InterfaceDemo\\InterfaceDemo.csproj": {}
+    "E:\\epsilon-dotnet\\codes\\day-8\\ExceptionHandlingApps\\ExceptionHandlingDemo\\ExceptionHandlingDemo.csproj": {}
   },
   "projects": {
-    "e:\\epsilon-dotnet\\codes\\day-7\\InterfaceApp\\InterfaceDemo\\InterfaceDemo.csproj": {
+    "E:\\epsilon-dotnet\\codes\\day-8\\ExceptionHandlingApps\\ExceptionHandlingDemo\\ExceptionHandlingDemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "e:\\epsilon-dotnet\\codes\\day-7\\InterfaceApp\\InterfaceDemo\\InterfaceDemo.csproj",
-        "projectName": "InterfaceDemo",
-        "projectPath": "e:\\epsilon-dotnet\\codes\\day-7\\InterfaceApp\\InterfaceDemo\\InterfaceDemo.csproj",
+        "projectUniqueName": "E:\\epsilon-dotnet\\codes\\day-8\\ExceptionHandlingApps\\ExceptionHandlingDemo\\ExceptionHandlingDemo.csproj",
+        "projectName": "ExceptionHandlingDemo",
+        "projectPath": "E:\\epsilon-dotnet\\codes\\day-8\\ExceptionHandlingApps\\ExceptionHandlingDemo\\ExceptionHandlingDemo.csproj",
         "packagesPath": "C:\\Users\\joydip\\.nuget\\packages\\",
-        "outputPath": "e:\\epsilon-dotnet\\codes\\day-7\\InterfaceApp\\InterfaceDemo\\obj\\",
+        "outputPath": "E:\\epsilon-dotnet\\codes\\day-8\\ExceptionHandlingApps\\ExceptionHandlingDemo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -21,15 +21,15 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net5.0"
+          "netcoreapp3.1"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net5.0": {
-            "targetAlias": "net5.0",
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -40,8 +40,8 @@
         }
       },
       "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",

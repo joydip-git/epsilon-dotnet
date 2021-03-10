@@ -21,34 +21,46 @@ namespace HRMSAPP.DataAccessLayer
         {
             bool operationStatus = false;
             //get the repository
-            Employee[] records = EmployeeRepository.Employees;
-
-            //check whether array is empty or not
-            bool empty = IsEmpty(records);
-            if (!empty)
+            try
             {
-                //check the employee already exists or not
-                bool exists = Exists(employee.EmployeeId, records);
-                if (!exists)
+                Employee[] records = EmployeeRepository.Employees;
+
+                //check whether array is empty or not
+                bool empty = IsEmpty(records);
+                if (!empty)
                 {
-                    for (int i = 0; i < records.Length; i++)
+                    //check the employee already exists or not
+                    bool exists = Exists(employee.EmployeeId, records);
+                    if (!exists)
                     {
-                        if (records[i] == null)
+                        for (int i = 0; i < records.Length; i++)
                         {
-                            records[i] = employee;
-                            operationStatus = true;
-                            break;
+                            if (records[i] == null)
+                            {
+                                records[i] = employee;
+                                operationStatus = true;
+                                break;
+                            }
                         }
                     }
                 }
-            }
-            else
-            {
-                records[0] = employee;
-                operationStatus = true;
-            }
+                else
+                {
+                    records[0] = employee;
+                    operationStatus = true;
+                }
 
-            return operationStatus;
+                return operationStatus;
+            }
+            catch (NullReferenceException ex)
+            {
+                //System.Console.WriteLine(ex);
+                throw ex;
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+            }
         }
 
         /// <summary>

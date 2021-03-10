@@ -1,4 +1,5 @@
-﻿using System;
+﻿using System.Linq.Expressions;
+using System;
 using HRMSAPP.Entities;
 using HRMSAPP.BusinessLayer;
 
@@ -67,41 +68,45 @@ namespace HRMSAPP.UserInterface
         }
         static void Main()
         {
-            //EmployeeBo employeeBo = new EmployeeBo();
-            ShowMenu();
-            int choice = GetManinMenuChoice();
-
-            Employee[] employees = new Employee[4];
-
-            for (int i = 0; i < employees.Length; i++)
+            try
             {
-                ShowEmployeeSubMenu();
-                int empChoice = GetEmployeeChoice();                
-                Employee employee = Create(empChoice);
-                //kinldy verify whether same object exists in the array already or not....
-                employees[i] = employee;
-            }
-            foreach (Employee e in employees)
-            {
-                e.CalculateSalary();
-                Console.WriteLine($"Salary of {e.EmployeeName} is {e.EmployeeSalary}");
-                //is operator checks the actual type of reference stored in a variable                
-                //if (e is Developer)
-                //{
-                //    //Developer d = (Developer)e;
-                //    //as operator is used to do downcsting in case of reference variable
-                //    Developer d = e as Developer;
-                //    d.CalculateSalary();
-                //    Console.WriteLine($"Salary of {d.EmployeeName} is {d.EmployeeSalary}");
-                //}
-                //if (e is Hr)
-                //{
-                //    //Developer d = (Developer)e;
-                //    //as operator is used to do downcsting in case of reference variable
-                //    Hr hr = e as Hr;
-                //    hr.CalculateSalary();
-                //    Console.WriteLine($"Salary of {hr.EmployeeName} is {hr.EmployeeSalary}");
-                //}
+                //EmployeeBo employeeBo = new EmployeeBo();
+                ShowMenu();
+                int choice = GetManinMenuChoice();
+
+                Employee[] employees = new Employee[4];
+
+                for (int i = 0; i < employees.Length; i++)
+                {
+                    ShowEmployeeSubMenu();
+                    int empChoice = GetEmployeeChoice();
+                    Employee employee = Create(empChoice);
+                    //kinldy verify whether same object exists in the array already or not....
+                    employees[i] = employee;
+                }
+                foreach (Employee e in employees)
+                {
+                    e.CalculateSalary();
+                    Console.WriteLine($"Salary of {e.EmployeeName} is {e.EmployeeSalary}");
+                    //is operator checks the actual type of reference stored in a variable                
+                    //if (e is Developer)
+                    //{
+                    //    //Developer d = (Developer)e;
+                    //    //as operator is used to do downcsting in case of reference variable
+                    //    Developer d = e as Developer;
+                    //    d.CalculateSalary();
+                    //    Console.WriteLine($"Salary of {d.EmployeeName} is {d.EmployeeSalary}");
+                    //}
+                    //if (e is Hr)
+                    //{
+                    //    //Developer d = (Developer)e;
+                    //    //as operator is used to do downcsting in case of reference variable
+                    //    Hr hr = e as Hr;
+                    //    hr.CalculateSalary();
+                    //    Console.WriteLine($"Salary of {hr.EmployeeName} is {hr.EmployeeSalary}");
+                    //}
+                }
+
             }
 
             //switch (choice)
@@ -117,6 +122,14 @@ namespace HRMSAPP.UserInterface
             //    default:
             //        break;
             //}
+            catch (NullReferenceException ex)
+            {
+                System.Console.WriteLine(ex);
+            }
+            catch (Exception ex)
+            {
+                System.Console.WriteLine(ex);
+            }
         }
 
         private static void ShowEmployeeSubMenu()
