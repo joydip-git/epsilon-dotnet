@@ -1,0 +1,26 @@
+﻿//lower VT --> higher VT (implicit conversion)
+            int x = 100;
+            long l = x;
+            //higher VT --> lower VT (explicit conversion - casting)
+            //int y = (int)l;
+            //higher VT --> lower VT (explicit conversion - Convert)
+            int y = Convert.ToInt32(l);
+
+            //implicit: VT to RT (boxing)
+            int a = 12;
+            object objA = a;
+            al.Add(objA);
+
+            //explicit:(unboxing) convert to reference type (RT) back to the same value type (VT)
+            // -- casting and Convert
+            //int b = (int)objA;
+            //int b = Convert.ToInt32(objA);
+            //int b = objA as int; <-- No as operator
+
+            //implicit: child RT --> base RT (upcasting)
+            string name = "epsilon";
+            object objName = name;
+            //explicit: base RT--> child RT (downcasting) -- casting and as operator
+            //string companyName = (string)objName;
+            string companyName = objName as string;
+            al.Add(objName);

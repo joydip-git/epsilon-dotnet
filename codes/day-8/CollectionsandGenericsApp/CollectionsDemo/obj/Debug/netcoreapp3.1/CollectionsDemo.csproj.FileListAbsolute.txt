@@ -1,0 +1,13 @@
+E:\epsilon-dotnet\codes\day-8\CollectionsandGenericsApp\CollectionsDemo\bin\Debug\netcoreapp3.1\CollectionsDemo.exe
+E:\epsilon-dotnet\codes\day-8\CollectionsandGenericsApp\CollectionsDemo\bin\Debug\netcoreapp3.1\CollectionsDemo.deps.json
+E:\epsilon-dotnet\codes\day-8\CollectionsandGenericsApp\CollectionsDemo\bin\Debug\netcoreapp3.1\CollectionsDemo.runtimeconfig.json
+E:\epsilon-dotnet\codes\day-8\CollectionsandGenericsApp\CollectionsDemo\bin\Debug\netcoreapp3.1\CollectionsDemo.runtimeconfig.dev.json
+E:\epsilon-dotnet\codes\day-8\CollectionsandGenericsApp\CollectionsDemo\bin\Debug\netcoreapp3.1\CollectionsDemo.dll
+E:\epsilon-dotnet\codes\day-8\CollectionsandGenericsApp\CollectionsDemo\bin\Debug\netcoreapp3.1\CollectionsDemo.pdb
+E:\epsilon-dotnet\codes\day-8\CollectionsandGenericsApp\CollectionsDemo\obj\Debug\netcoreapp3.1\CollectionsDemo.csprojAssemblyReference.cache
+E:\epsilon-dotnet\codes\day-8\CollectionsandGenericsApp\CollectionsDemo\obj\Debug\netcoreapp3.1\CollectionsDemo.AssemblyInfoInputs.cache
+E:\epsilon-dotnet\codes\day-8\CollectionsandGenericsApp\CollectionsDemo\obj\Debug\netcoreapp3.1\CollectionsDemo.AssemblyInfo.cs
+E:\epsilon-dotnet\codes\day-8\CollectionsandGenericsApp\CollectionsDemo\obj\Debug\netcoreapp3.1\CollectionsDemo.csproj.CoreCompileInputs.cache
+E:\epsilon-dotnet\codes\day-8\CollectionsandGenericsApp\CollectionsDemo\obj\Debug\netcoreapp3.1\CollectionsDemo.dll
+E:\epsilon-dotnet\codes\day-8\CollectionsandGenericsApp\CollectionsDemo\obj\Debug\netcoreapp3.1\CollectionsDemo.pdb
+E:\epsilon-dotnet\codes\day-8\CollectionsandGenericsApp\CollectionsDemo\obj\Debug\netcoreapp3.1\CollectionsDemo.genruntimeconfig.cache
