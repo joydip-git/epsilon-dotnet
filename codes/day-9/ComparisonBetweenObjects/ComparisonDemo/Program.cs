@@ -67,13 +67,13 @@ namespace ComparisonDemo
 
         public int CompareTo([AllowNull] Person other)
         {
-            int idResult = this.id.CompareTo(other.id);
-            if (idResult == 0)
+            //int idResult = this.id.CompareTo(other.id);
+            if (this.id.CompareTo(other.id) == 0)
             {
                 return this.name.CompareTo(other.name);
             }
             else
-                return idResult;
+                return this.id.CompareTo(other.id);
         }
 
         public static bool operator >(Person left, Person right)
@@ -138,35 +138,35 @@ namespace ComparisonDemo
                             people[j] = tempRef;
                         }
                     }
+                }
 
-                    foreach (Person person in people)
+                foreach (Person person in people)
+                {
+                    Console.WriteLine(person);
+                }
+
+            }
+        }
+        private static void SortNumberList()
+        {
+            List<int> numberList = new List<int> { 1, 4, 3, 6, 5, 2, 9, 7, 8, 0 };
+            for (int i = 0; i < numberList.Count; i++)
+            {
+                for (int j = i + 1; j < numberList.Count; j++)
+                {
+                    int temp = 0;
+                    //if (numberList[i] > numberList[j])
+                    if (numberList[i].CompareTo(numberList[j]) > 0)
                     {
-                        Console.WriteLine(person);
+                        temp = numberList[i];
+                        numberList[i] = numberList[j];
+                        numberList[j] = temp;
                     }
-
                 }
             }
-            private static void SortNumberList()
+            foreach (int number in numberList)
             {
-                List<int> numberList = new List<int> { 1, 4, 3, 6, 5, 2, 9, 7, 8, 0 };
-                for (int i = 0; i < numberList.Count; i++)
-                {
-                    for (int j = i + 1; j < numberList.Count; j++)
-                    {
-                        int temp = 0;
-                        //if (numberList[i] > numberList[j])
-                        if (numberList[i].CompareTo(numberList[j]) > 0)
-                        {
-                            temp = numberList[i];
-                            numberList[i] = numberList[j];
-                            numberList[j] = temp;
-                        }
-                    }
-                }
-                foreach (int number in numberList)
-                {
-                    Console.WriteLine(number);
-                }
+                Console.WriteLine(number);
             }
         }
     }
