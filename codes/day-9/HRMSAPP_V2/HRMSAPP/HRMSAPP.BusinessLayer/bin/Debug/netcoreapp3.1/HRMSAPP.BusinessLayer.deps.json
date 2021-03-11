@@ -1,0 +1,64 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "HRMSAPP.BusinessLayer/1.0.0": {
+        "dependencies": {
+          "HRMSAPP.DataAccessLayer": "1.0.0",
+          "HRMSAPP.Entities": "1.0.0"
+        },
+        "runtime": {
+          "HRMSAPP.BusinessLayer.dll": {}
+        }
+      },
+      "HRMSAPP.DataAccessLayer/1.0.0": {
+        "dependencies": {
+          "HRMSAPP.Entities": "1.0.0",
+          "HRMSAPP.Repository": "1.0.0"
+        },
+        "runtime": {
+          "HRMSAPP.DataAccessLayer.dll": {}
+        }
+      },
+      "HRMSAPP.Entities/1.0.0": {
+        "runtime": {
+          "HRMSAPP.Entities.dll": {}
+        }
+      },
+      "HRMSAPP.Repository/1.0.0": {
+        "dependencies": {
+          "HRMSAPP.Entities": "1.0.0"
+        },
+        "runtime": {
+          "HRMSAPP.Repository.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HRMSAPP.BusinessLayer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HRMSAPP.DataAccessLayer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HRMSAPP.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HRMSAPP.Repository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

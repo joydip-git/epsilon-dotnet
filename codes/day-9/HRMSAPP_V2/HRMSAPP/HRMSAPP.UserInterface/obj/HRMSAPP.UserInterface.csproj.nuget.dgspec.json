@@ -1,0 +1,318 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\epsilon-dotnet\\codes\\day-9\\HRMSAPP_V2\\HRMSAPP\\HRMSAPP.UserInterface\\HRMSAPP.UserInterface.csproj": {}
+  },
+  "projects": {
+    "E:\\epsilon-dotnet\\codes\\day-9\\HRMSAPP_V2\\HRMSAPP\\HRMSAPP.BusinessLayer\\HRMSAPP.BusinessLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\epsilon-dotnet\\codes\\day-9\\HRMSAPP_V2\\HRMSAPP\\HRMSAPP.BusinessLayer\\HRMSAPP.BusinessLayer.csproj",
+        "projectName": "HRMSAPP.BusinessLayer",
+        "projectPath": "E:\\epsilon-dotnet\\codes\\day-9\\HRMSAPP_V2\\HRMSAPP\\HRMSAPP.BusinessLayer\\HRMSAPP.BusinessLayer.csproj",
+        "packagesPath": "C:\\Users\\joydip\\.nuget\\packages\\",
+        "outputPath": "E:\\epsilon-dotnet\\codes\\day-9\\HRMSAPP_V2\\HRMSAPP\\HRMSAPP.BusinessLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\joydip\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "E:\\epsilon-dotnet\\codes\\day-9\\HRMSAPP_V2\\HRMSAPP\\HRMSAPP.DataAccessLayer\\HRMSAPP.DataAccessLayer.csproj": {
+                "projectPath": "E:\\epsilon-dotnet\\codes\\day-9\\HRMSAPP_V2\\HRMSAPP\\HRMSAPP.DataAccessLayer\\HRMSAPP.DataAccessLayer.csproj"
+              },
+              "E:\\epsilon-dotnet\\codes\\day-9\\HRMSAPP_V2\\HRMSAPP\\HRMSAPP.Entities\\HRMSAPP.Entities.csproj": {
+                "projectPath": "E:\\epsilon-dotnet\\codes\\day-9\\HRMSAPP_V2\\HRMSAPP\\HRMSAPP.Entities\\HRMSAPP.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\epsilon-dotnet\\codes\\day-9\\HRMSAPP_V2\\HRMSAPP\\HRMSAPP.DataAccessLayer\\HRMSAPP.DataAccessLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\epsilon-dotnet\\codes\\day-9\\HRMSAPP_V2\\HRMSAPP\\HRMSAPP.DataAccessLayer\\HRMSAPP.DataAccessLayer.csproj",
+        "projectName": "HRMSAPP.DataAccessLayer",
+        "projectPath": "E:\\epsilon-dotnet\\codes\\day-9\\HRMSAPP_V2\\HRMSAPP\\HRMSAPP.DataAccessLayer\\HRMSAPP.DataAccessLayer.csproj",
+        "packagesPath": "C:\\Users\\joydip\\.nuget\\packages\\",
+        "outputPath": "E:\\epsilon-dotnet\\codes\\day-9\\HRMSAPP_V2\\HRMSAPP\\HRMSAPP.DataAccessLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\joydip\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "E:\\epsilon-dotnet\\codes\\day-9\\HRMSAPP_V2\\HRMSAPP\\HRMSAPP.Entities\\HRMSAPP.Entities.csproj": {
+                "projectPath": "E:\\epsilon-dotnet\\codes\\day-9\\HRMSAPP_V2\\HRMSAPP\\HRMSAPP.Entities\\HRMSAPP.Entities.csproj"
+              },
+              "E:\\epsilon-dotnet\\codes\\day-9\\HRMSAPP_V2\\HRMSAPP\\HRMSAPP.Repository\\HRMSAPP.Repository.csproj": {
+                "projectPath": "E:\\epsilon-dotnet\\codes\\day-9\\HRMSAPP_V2\\HRMSAPP\\HRMSAPP.Repository\\HRMSAPP.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\epsilon-dotnet\\codes\\day-9\\HRMSAPP_V2\\HRMSAPP\\HRMSAPP.Entities\\HRMSAPP.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\epsilon-dotnet\\codes\\day-9\\HRMSAPP_V2\\HRMSAPP\\HRMSAPP.Entities\\HRMSAPP.Entities.csproj",
+        "projectName": "HRMSAPP.Entities",
+        "projectPath": "E:\\epsilon-dotnet\\codes\\day-9\\HRMSAPP_V2\\HRMSAPP\\HRMSAPP.Entities\\HRMSAPP.Entities.csproj",
+        "packagesPath": "C:\\Users\\joydip\\.nuget\\packages\\",
+        "outputPath": "E:\\epsilon-dotnet\\codes\\day-9\\HRMSAPP_V2\\HRMSAPP\\HRMSAPP.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\joydip\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\epsilon-dotnet\\codes\\day-9\\HRMSAPP_V2\\HRMSAPP\\HRMSAPP.Repository\\HRMSAPP.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\epsilon-dotnet\\codes\\day-9\\HRMSAPP_V2\\HRMSAPP\\HRMSAPP.Repository\\HRMSAPP.Repository.csproj",
+        "projectName": "HRMSAPP.Repository",
+        "projectPath": "E:\\epsilon-dotnet\\codes\\day-9\\HRMSAPP_V2\\HRMSAPP\\HRMSAPP.Repository\\HRMSAPP.Repository.csproj",
+        "packagesPath": "C:\\Users\\joydip\\.nuget\\packages\\",
+        "outputPath": "E:\\epsilon-dotnet\\codes\\day-9\\HRMSAPP_V2\\HRMSAPP\\HRMSAPP.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\joydip\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "E:\\epsilon-dotnet\\codes\\day-9\\HRMSAPP_V2\\HRMSAPP\\HRMSAPP.Entities\\HRMSAPP.Entities.csproj": {
+                "projectPath": "E:\\epsilon-dotnet\\codes\\day-9\\HRMSAPP_V2\\HRMSAPP\\HRMSAPP.Entities\\HRMSAPP.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\epsilon-dotnet\\codes\\day-9\\HRMSAPP_V2\\HRMSAPP\\HRMSAPP.UserInterface\\HRMSAPP.UserInterface.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\epsilon-dotnet\\codes\\day-9\\HRMSAPP_V2\\HRMSAPP\\HRMSAPP.UserInterface\\HRMSAPP.UserInterface.csproj",
+        "projectName": "HRMSAPP.UserInterface",
+        "projectPath": "E:\\epsilon-dotnet\\codes\\day-9\\HRMSAPP_V2\\HRMSAPP\\HRMSAPP.UserInterface\\HRMSAPP.UserInterface.csproj",
+        "packagesPath": "C:\\Users\\joydip\\.nuget\\packages\\",
+        "outputPath": "E:\\epsilon-dotnet\\codes\\day-9\\HRMSAPP_V2\\HRMSAPP\\HRMSAPP.UserInterface\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\joydip\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "E:\\epsilon-dotnet\\codes\\day-9\\HRMSAPP_V2\\HRMSAPP\\HRMSAPP.BusinessLayer\\HRMSAPP.BusinessLayer.csproj": {
+                "projectPath": "E:\\epsilon-dotnet\\codes\\day-9\\HRMSAPP_V2\\HRMSAPP\\HRMSAPP.BusinessLayer\\HRMSAPP.BusinessLayer.csproj"
+              },
+              "E:\\epsilon-dotnet\\codes\\day-9\\HRMSAPP_V2\\HRMSAPP\\HRMSAPP.Entities\\HRMSAPP.Entities.csproj": {
+                "projectPath": "E:\\epsilon-dotnet\\codes\\day-9\\HRMSAPP_V2\\HRMSAPP\\HRMSAPP.Entities\\HRMSAPP.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
