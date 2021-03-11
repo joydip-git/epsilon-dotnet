@@ -1,0 +1,63 @@
+IComparable     : int CompareTo(object? obj)
+IComparable<T>  : int CompareTo([AllowNull]T obj)
+
+in case Person objects are stored in non-generic collection like ArrayList
+class Person : IComparable
+{
+	public int CompareTo(object? obj){//code}
+}
+
+in case Person objects are stored in generic collection like List<T>
+class Person : IComparable<Person>
+{
+	public int CompareTo([AllowNull]T obj){//code}
+}
+
+built-in Sort method of List<T> class compares two instances of same class by calling CompareTo method of IComparable<T> interface on one instance and by passing the other instance as an argument
+That's why, it expected that in the class (T) CompareTo of IComparable<T> must be implemented
+in CompareTo method you have to write custom logic for comparison between two instances (current and the other)
+Since the CompareTo becomes part of the class and we write comparison logic in that method (in the class), this is known as Internalization of comparison (means, comparison logic is part of the class)
+
+disadvantages:
+	-You can't write choice based sorting in this way
+	-If anyone forgets to implement CompareTo method IComparable<T> interface in the class then Sort method will throw exception
+
+solution: externalization of comparison
+means write comparison logic somewhere else, NOT inside the T class (Don't implement IComparable interface and its CompareTo method in T )
+a. create another class
+b. implement another interface by the name, IComparer<T>/IComparer and implement its Compare method in that class
+interface IComparer
+{
+	int Compare(object x, object y);
+}
+interface IComparer<in T>
+{
+	int Compare(T x, T y);
+}
+class Person 
+{
+	
+}
+class PersonComparison:IComparer<Person>
+{
+	public int Compare(Person x, Person y){//code}
+}
+class PersonComparison:IComparer
+{
+	public int Compare(object x, object y){//code}
+}
+
+c. before calling Sort method of List<T> (where T is Person in this example), create an instance of PersonComparison
+PersonComparison pc = new PersonComparison();
+
+d. in the Sort method pass the object reference as an argument
+Sort(pc); //You can pass reference of an object of a class which implements IComparere or IComparer<T> interface
+
+
+
+
+
+
+
+
+
