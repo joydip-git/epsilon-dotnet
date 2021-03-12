@@ -1,0 +1,53 @@
+data access in .NET: ADO.NET=> ActiveX Data Object.NET
+
+
+			ADO.NET Object Model
+-----------------------------------------------------------------------------------
+a. Data Provider				b. Data Consumer
+   SqlConnection, Sqlcommand etc.		DataSet, DataTable, DataRow,...										  
+
+				  Top level parent types:
+				  namespace: System.Data
+				  IDbConnection, IDbCommand, DataSet, DataTable,  				  etc....
+
+				   Base Types
+		                   => System.Data.Common
+				   DbConnection, DbCommand, etc.... (abstract)
+
+a. SQL Server			=> set of classes, interfaces, enums etc.
+				   Data Provider for SQL Server (specific)
+				   namespace: System.Data.SqlClient
+				   SqlConnection, SqlCommand, etc..
+
+b. Oracle			=> set of classes, interfaces, enums etc.
+				   Data Provider for Oracle (specific)
+				   namespace: System.Data.OracleClient
+				   OracleConnection, OracleCommand, etc..
+
+c. Jet databases (MS Access)	=> set of classes, interfaces, enums etc.
+				   Data Provider for OLEDB databases
+				   (Object Linking and Embedding) (specific)
+				   namespace: System.Data.OleDb
+				   OleDbConnection, OleDbCommand, etc..
+
+d. Other/Common			=> set of classes, interfaces, enums etc.
+				   Data Provider for all the above and other 
+				   databases
+                                   this generic/common data provider will work with 				   specific data provider
+				   namespace: System.Data.Odbc (Open Database 								Connectivity)
+				   OdbcConnection, OdbcCommand, etc..	
+
+Connecting to Oracle Db:
+https://www.c-sharpcorner.com/UploadFile/cb92fb/connecting-to-oracle-database-through-C-Sharp/
+
+NuGet
+
+
+class DataTable
+{
+  private DataRowCollection rows;
+  private DataColumnCollection columns;
+  public DataRowCollection Rows{get; set;}
+  public DataColumnCollection Columns{get;set;}
+}
+

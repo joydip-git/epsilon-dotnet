@@ -1,0 +1,55 @@
+﻿ //1. create a connection to a database
+            //string epsilonDbConStr = "server=joydip-pc;database=epsilondb;user id=sa;password=";
+            string epsilonDbConStr = "server=joydip-pc;database=epsilondb;integrated security=sspi";
+            //SqlConnection sqlConnection = new SqlConnection(epsilonDbConStr);
+            SqlConnection sqlConnection = new SqlConnection();
+            sqlConnection.ConnectionString = epsilonDbConStr;
+
+            //2. create query and command
+            string query = "select productid as ID, productname as NAME, productdescription as DESCRIPTION, price as PRICE from products";
+            //SqlCommand sqlCommand = new SqlCommand(query, sqlConnection);
+            SqlCommand sqlCommand = new SqlCommand();
+            sqlCommand.CommandText = query;
+            sqlCommand.Connection = sqlConnection;
+            //sqlCommand.CommandType = CommandType.Text; //default
+
+            //3. open the connection
+            sqlConnection.Open();
+
+            //check connection state
+            ConnectionState state = sqlConnection.State;
+            Console.WriteLine(state);
+
+            //4. execute query
+            //a. select
+            //i. single value return
+            //objcet data = sqlCommand.ExecuteScalar();
+            //ii. multiple value
+            //ExecuteReader method - 
+            //will execute the query
+            //create a Reader Object (pipe) - stream of read-only, forward only data
+            //puts the records in that Reader object
+            SqlDataReader reader = sqlCommand.ExecuteReader();
+
+            while (reader.Read())
+            {
+                for (int i = 0; i < reader.FieldCount; i++)
+                {
+                    //reader.GetValue(i)
+                    Console.Write(reader[i]+"\t");
+                }
+                Console.WriteLine("\n");
+            }
+            reader.Close();
+
+            //b. non-select (insert, update, delete, create, alter etc.)
+            //int result = sqlCommand.ExecuteNonQuery();
+
+
+            //5. if the query involves returning data, store them in storage
+            //6. close the connection
+            if (sqlConnection != null && (sqlConnection.State == ConnectionState.Open || sqlConnection.State == ConnectionState.Broken))
+            {
+                sqlConnection.Close();
+            }
+            //7. do something with data
