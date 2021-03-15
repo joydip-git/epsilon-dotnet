@@ -1,0 +1,16 @@
+E:\epsilon-dotnet\codes\day-11\DelegateApps\BasicDelegateDemo\bin\Debug\net5.0\BasicDelegateDemo.exe
+E:\epsilon-dotnet\codes\day-11\DelegateApps\BasicDelegateDemo\bin\Debug\net5.0\BasicDelegateDemo.deps.json
+E:\epsilon-dotnet\codes\day-11\DelegateApps\BasicDelegateDemo\bin\Debug\net5.0\BasicDelegateDemo.runtimeconfig.json
+E:\epsilon-dotnet\codes\day-11\DelegateApps\BasicDelegateDemo\bin\Debug\net5.0\BasicDelegateDemo.runtimeconfig.dev.json
+E:\epsilon-dotnet\codes\day-11\DelegateApps\BasicDelegateDemo\bin\Debug\net5.0\BasicDelegateDemo.dll
+E:\epsilon-dotnet\codes\day-11\DelegateApps\BasicDelegateDemo\bin\Debug\net5.0\ref\BasicDelegateDemo.dll
+E:\epsilon-dotnet\codes\day-11\DelegateApps\BasicDelegateDemo\bin\Debug\net5.0\BasicDelegateDemo.pdb
+E:\epsilon-dotnet\codes\day-11\DelegateApps\BasicDelegateDemo\obj\Debug\net5.0\BasicDelegateDemo.csprojAssemblyReference.cache
+E:\epsilon-dotnet\codes\day-11\DelegateApps\BasicDelegateDemo\obj\Debug\net5.0\BasicDelegateDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\epsilon-dotnet\codes\day-11\DelegateApps\BasicDelegateDemo\obj\Debug\net5.0\BasicDelegateDemo.AssemblyInfoInputs.cache
+E:\epsilon-dotnet\codes\day-11\DelegateApps\BasicDelegateDemo\obj\Debug\net5.0\BasicDelegateDemo.AssemblyInfo.cs
+E:\epsilon-dotnet\codes\day-11\DelegateApps\BasicDelegateDemo\obj\Debug\net5.0\BasicDelegateDemo.csproj.CoreCompileInputs.cache
+E:\epsilon-dotnet\codes\day-11\DelegateApps\BasicDelegateDemo\obj\Debug\net5.0\BasicDelegateDemo.dll
+E:\epsilon-dotnet\codes\day-11\DelegateApps\BasicDelegateDemo\obj\Debug\net5.0\ref\BasicDelegateDemo.dll
+E:\epsilon-dotnet\codes\day-11\DelegateApps\BasicDelegateDemo\obj\Debug\net5.0\BasicDelegateDemo.pdb
+E:\epsilon-dotnet\codes\day-11\DelegateApps\BasicDelegateDemo\obj\Debug\net5.0\BasicDelegateDemo.genruntimeconfig.cache

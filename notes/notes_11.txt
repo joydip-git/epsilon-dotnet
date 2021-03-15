@@ -1,0 +1,19 @@
+delegates
+ delegate void CalDel(int a, int b);
+=>
+class CalDel
+{
+	object _target;
+	MethodInfo _method;
+
+	public CalDel(object target, MethodInfo method)
+	{
+		_target = target;//calculation;
+		_method = method; //Add
+	}
+
+	public void Invoke(int a, int b)
+	{
+		//code to invoke the function
+	}
+}
