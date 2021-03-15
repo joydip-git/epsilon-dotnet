@@ -8,8 +8,8 @@ class CalDel
 
 	public CalDel(object target, MethodInfo method)
 	{
-		_target = target;//calculation;
-		_method = method; //Add
+		_target = target;//calculation;//null
+		_method = method; //Add//multiply
 	}
 
 	public void Invoke(int a, int b)
@@ -17,3 +17,11 @@ class CalDel
 		//code to invoke the function
 	}
 }
+
+
+1. declare a delegate which can call any function
+	- with return type int
+	- with two input argument both of type int
+
+2. DON'T create any function to be called by delegate
+3. Create anonymous methods (at least two) which can be invoked by the delegate(s)

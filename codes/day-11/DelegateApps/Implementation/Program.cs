@@ -5,21 +5,21 @@ namespace Implementation
 {
     delegate bool FilterLogic(int x);
 
-    class Logic
-    {
-        public static bool IsEven(int num)
-        {
-            return num % 2 == 0;
-        }
-        public static bool IsOdd(int num)
-        {
-            return num % 2 != 0;
-        }
-        public static bool IsGreatherThanFive(int num)
-        {
-            return num > 5;
-        }
-    }
+    //class Logic
+    //{
+    //    public static bool IsEven(int num)
+    //    {
+    //        return num % 2 == 0;
+    //    }
+    //    public static bool IsOdd(int num)
+    //    {
+    //        return num % 2 != 0;
+    //    }
+    //    public static bool IsGreatherThanFive(int num)
+    //    {
+    //        return num > 5;
+    //    }
+    //}
     class Program
     {
         static List<int> Filter(List<int> input, FilterLogic filterLogic)
@@ -49,10 +49,15 @@ namespace Implementation
             //    return num < 5;
             //};
             //delegate referring an anonymous method
-            FilterLogic lessThanFiveLogic = delegate (int num)
-            {
-                return num < 5;
-            };
+            //FilterLogic lessThanFiveLogic = delegate (int num)
+            //{
+            //    return num < 5;
+            //};
+            FilterLogic lessThanFiveLogic = num => num < 5;
+            FilterLogic evenLogic = num => num % 2 == 0;
+            FilterLogic oddLogic = num => num % 2 != 0;
+            FilterLogic greaterThanFiveLogic = num => num > 5;
+
             List<int> result = Filter(numbers, lessThanFiveLogic);
             foreach (int item in result)
             {

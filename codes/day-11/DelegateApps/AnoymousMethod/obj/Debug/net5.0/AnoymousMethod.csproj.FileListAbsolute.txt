@@ -1,0 +1,16 @@
+E:\epsilon-dotnet\codes\day-11\DelegateApps\AnoymousMethod\bin\Debug\net5.0\AnoymousMethod.exe
+E:\epsilon-dotnet\codes\day-11\DelegateApps\AnoymousMethod\bin\Debug\net5.0\AnoymousMethod.deps.json
+E:\epsilon-dotnet\codes\day-11\DelegateApps\AnoymousMethod\bin\Debug\net5.0\AnoymousMethod.runtimeconfig.json
+E:\epsilon-dotnet\codes\day-11\DelegateApps\AnoymousMethod\bin\Debug\net5.0\AnoymousMethod.runtimeconfig.dev.json
+E:\epsilon-dotnet\codes\day-11\DelegateApps\AnoymousMethod\bin\Debug\net5.0\AnoymousMethod.dll
+E:\epsilon-dotnet\codes\day-11\DelegateApps\AnoymousMethod\bin\Debug\net5.0\ref\AnoymousMethod.dll
+E:\epsilon-dotnet\codes\day-11\DelegateApps\AnoymousMethod\bin\Debug\net5.0\AnoymousMethod.pdb
+E:\epsilon-dotnet\codes\day-11\DelegateApps\AnoymousMethod\obj\Debug\net5.0\AnoymousMethod.csprojAssemblyReference.cache
+E:\epsilon-dotnet\codes\day-11\DelegateApps\AnoymousMethod\obj\Debug\net5.0\AnoymousMethod.GeneratedMSBuildEditorConfig.editorconfig
+E:\epsilon-dotnet\codes\day-11\DelegateApps\AnoymousMethod\obj\Debug\net5.0\AnoymousMethod.AssemblyInfoInputs.cache
+E:\epsilon-dotnet\codes\day-11\DelegateApps\AnoymousMethod\obj\Debug\net5.0\AnoymousMethod.AssemblyInfo.cs
+E:\epsilon-dotnet\codes\day-11\DelegateApps\AnoymousMethod\obj\Debug\net5.0\AnoymousMethod.csproj.CoreCompileInputs.cache
+E:\epsilon-dotnet\codes\day-11\DelegateApps\AnoymousMethod\obj\Debug\net5.0\AnoymousMethod.dll
+E:\epsilon-dotnet\codes\day-11\DelegateApps\AnoymousMethod\obj\Debug\net5.0\ref\AnoymousMethod.dll
+E:\epsilon-dotnet\codes\day-11\DelegateApps\AnoymousMethod\obj\Debug\net5.0\AnoymousMethod.pdb
+E:\epsilon-dotnet\codes\day-11\DelegateApps\AnoymousMethod\obj\Debug\net5.0\AnoymousMethod.genruntimeconfig.cache
