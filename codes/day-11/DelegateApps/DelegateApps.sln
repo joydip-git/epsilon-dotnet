@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreadingDemo", "ThreadingD
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnoymousMethod", "AnoymousMethod\AnoymousMethod.csproj", "{7C1D42B3-8780-4DCF-B229-81CA37AF790A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQDemo", "LINQDemo\LINQDemo.csproj", "{90641950-54E6-4B79-9042-0FD02F89DF57}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{7C1D42B3-8780-4DCF-B229-81CA37AF790A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7C1D42B3-8780-4DCF-B229-81CA37AF790A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7C1D42B3-8780-4DCF-B229-81CA37AF790A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90641950-54E6-4B79-9042-0FD02F89DF57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90641950-54E6-4B79-9042-0FD02F89DF57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90641950-54E6-4B79-9042-0FD02F89DF57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90641950-54E6-4B79-9042-0FD02F89DF57}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

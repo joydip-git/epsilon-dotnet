@@ -1,0 +1,16 @@
+E:\epsilon-dotnet\codes\day-11\DelegateApps\LINQDemo\bin\Debug\net5.0\LINQDemo.exe
+E:\epsilon-dotnet\codes\day-11\DelegateApps\LINQDemo\bin\Debug\net5.0\LINQDemo.deps.json
+E:\epsilon-dotnet\codes\day-11\DelegateApps\LINQDemo\bin\Debug\net5.0\LINQDemo.runtimeconfig.json
+E:\epsilon-dotnet\codes\day-11\DelegateApps\LINQDemo\bin\Debug\net5.0\LINQDemo.runtimeconfig.dev.json
+E:\epsilon-dotnet\codes\day-11\DelegateApps\LINQDemo\bin\Debug\net5.0\LINQDemo.dll
+E:\epsilon-dotnet\codes\day-11\DelegateApps\LINQDemo\bin\Debug\net5.0\ref\LINQDemo.dll
+E:\epsilon-dotnet\codes\day-11\DelegateApps\LINQDemo\bin\Debug\net5.0\LINQDemo.pdb
+E:\epsilon-dotnet\codes\day-11\DelegateApps\LINQDemo\obj\Debug\net5.0\LINQDemo.csprojAssemblyReference.cache
+E:\epsilon-dotnet\codes\day-11\DelegateApps\LINQDemo\obj\Debug\net5.0\LINQDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\epsilon-dotnet\codes\day-11\DelegateApps\LINQDemo\obj\Debug\net5.0\LINQDemo.AssemblyInfoInputs.cache
+E:\epsilon-dotnet\codes\day-11\DelegateApps\LINQDemo\obj\Debug\net5.0\LINQDemo.AssemblyInfo.cs
+E:\epsilon-dotnet\codes\day-11\DelegateApps\LINQDemo\obj\Debug\net5.0\LINQDemo.csproj.CoreCompileInputs.cache
+E:\epsilon-dotnet\codes\day-11\DelegateApps\LINQDemo\obj\Debug\net5.0\LINQDemo.dll
+E:\epsilon-dotnet\codes\day-11\DelegateApps\LINQDemo\obj\Debug\net5.0\ref\LINQDemo.dll
+E:\epsilon-dotnet\codes\day-11\DelegateApps\LINQDemo\obj\Debug\net5.0\LINQDemo.pdb
+E:\epsilon-dotnet\codes\day-11\DelegateApps\LINQDemo\obj\Debug\net5.0\LINQDemo.genruntimeconfig.cache
