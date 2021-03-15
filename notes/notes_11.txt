@@ -1,3 +1,21 @@
+delegate, anonymous method, Lambda, Linq
+	-- what it is?
+	-- how to declare a delegate (rules)
+	-- how to refer to a method (create instance of delegate)
+	-- how to invoke method using delegate (del(..), del.Invoke(..))
+	-- can delegate be used to call only well-defined method in a class?
+	-- anonymous method and delegate
+	-- how to wtite anonymous method:
+		-- old style (2.0) [using delegate keyword]
+		-- new style (3.0) Lamda Expression
+	-- generic delegate
+	-- Built-in delegates (Func<>, Action<>/Action, Predicate<>/Predicate)
+	-- LINQ and namespace (Syste.Linq will provide additional method for generic collection classes, interfaces etc., such as Where, OrerByDescending, Take etc.)
+		-- Method Query Syntax [Where, OrerByDescending, Take etc.]
+		-- Query Operator Syntax [ operators/clauses like, where, orderby, select etc.)
+	
+
+
 delegates
  delegate void CalDel(int a, int b);
 =>
@@ -25,3 +43,4 @@ class CalDel
 
 2. DON'T create any function to be called by delegate
 3. Create anonymous methods (at least two) which can be invoked by the delegate(s)
+

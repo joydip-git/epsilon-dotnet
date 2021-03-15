@@ -40,6 +40,7 @@ namespace BasicDelegateDemo
         {
             //callback mechanism
             cd(12, 13);
+            //cd.Invoke(12, 3);
         }
 
         static void Operate(OperationDel operationDel, string url, StatusDel success, StatusDel failure)
