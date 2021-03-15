@@ -1,0 +1,16 @@
+E:\epsilon-dotnet\codes\day-11\DelegateApps\Implementation\bin\Debug\net5.0\Implementation.exe
+E:\epsilon-dotnet\codes\day-11\DelegateApps\Implementation\bin\Debug\net5.0\Implementation.deps.json
+E:\epsilon-dotnet\codes\day-11\DelegateApps\Implementation\bin\Debug\net5.0\Implementation.runtimeconfig.json
+E:\epsilon-dotnet\codes\day-11\DelegateApps\Implementation\bin\Debug\net5.0\Implementation.runtimeconfig.dev.json
+E:\epsilon-dotnet\codes\day-11\DelegateApps\Implementation\bin\Debug\net5.0\Implementation.dll
+E:\epsilon-dotnet\codes\day-11\DelegateApps\Implementation\bin\Debug\net5.0\ref\Implementation.dll
+E:\epsilon-dotnet\codes\day-11\DelegateApps\Implementation\bin\Debug\net5.0\Implementation.pdb
+E:\epsilon-dotnet\codes\day-11\DelegateApps\Implementation\obj\Debug\net5.0\Implementation.csprojAssemblyReference.cache
+E:\epsilon-dotnet\codes\day-11\DelegateApps\Implementation\obj\Debug\net5.0\Implementation.GeneratedMSBuildEditorConfig.editorconfig
+E:\epsilon-dotnet\codes\day-11\DelegateApps\Implementation\obj\Debug\net5.0\Implementation.AssemblyInfoInputs.cache
+E:\epsilon-dotnet\codes\day-11\DelegateApps\Implementation\obj\Debug\net5.0\Implementation.AssemblyInfo.cs
+E:\epsilon-dotnet\codes\day-11\DelegateApps\Implementation\obj\Debug\net5.0\Implementation.csproj.CoreCompileInputs.cache
+E:\epsilon-dotnet\codes\day-11\DelegateApps\Implementation\obj\Debug\net5.0\Implementation.dll
+E:\epsilon-dotnet\codes\day-11\DelegateApps\Implementation\obj\Debug\net5.0\ref\Implementation.dll
+E:\epsilon-dotnet\codes\day-11\DelegateApps\Implementation\obj\Debug\net5.0\Implementation.pdb
+E:\epsilon-dotnet\codes\day-11\DelegateApps\Implementation\obj\Debug\net5.0\Implementation.genruntimeconfig.cache

@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicDelegateDemo", "BasicD
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Implementation", "Implementation\Implementation.csproj", "{DA3146BD-9A1D-40E1-8C9A-4AFE1EA0D39C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsApp1", "WinFormsApp1\WinFormsApp1.csproj", "{5819854F-ACB6-462F-9134-BF1E0F11B824}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreadingDemo", "ThreadingDemo\ThreadingDemo.csproj", "{16D545CA-2E7E-4944-991A-97BCD714A9AF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{DA3146BD-9A1D-40E1-8C9A-4AFE1EA0D39C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DA3146BD-9A1D-40E1-8C9A-4AFE1EA0D39C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DA3146BD-9A1D-40E1-8C9A-4AFE1EA0D39C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5819854F-ACB6-462F-9134-BF1E0F11B824}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5819854F-ACB6-462F-9134-BF1E0F11B824}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5819854F-ACB6-462F-9134-BF1E0F11B824}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5819854F-ACB6-462F-9134-BF1E0F11B824}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16D545CA-2E7E-4944-991A-97BCD714A9AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16D545CA-2E7E-4944-991A-97BCD714A9AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16D545CA-2E7E-4944-991A-97BCD714A9AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16D545CA-2E7E-4944-991A-97BCD714A9AF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

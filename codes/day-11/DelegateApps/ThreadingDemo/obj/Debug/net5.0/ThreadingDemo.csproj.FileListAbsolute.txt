@@ -1,0 +1,16 @@
+E:\epsilon-dotnet\codes\day-11\DelegateApps\ThreadingDemo\bin\Debug\net5.0\ThreadingDemo.exe
+E:\epsilon-dotnet\codes\day-11\DelegateApps\ThreadingDemo\bin\Debug\net5.0\ThreadingDemo.deps.json
+E:\epsilon-dotnet\codes\day-11\DelegateApps\ThreadingDemo\bin\Debug\net5.0\ThreadingDemo.runtimeconfig.json
+E:\epsilon-dotnet\codes\day-11\DelegateApps\ThreadingDemo\bin\Debug\net5.0\ThreadingDemo.runtimeconfig.dev.json
+E:\epsilon-dotnet\codes\day-11\DelegateApps\ThreadingDemo\bin\Debug\net5.0\ThreadingDemo.dll
+E:\epsilon-dotnet\codes\day-11\DelegateApps\ThreadingDemo\bin\Debug\net5.0\ref\ThreadingDemo.dll
+E:\epsilon-dotnet\codes\day-11\DelegateApps\ThreadingDemo\bin\Debug\net5.0\ThreadingDemo.pdb
+E:\epsilon-dotnet\codes\day-11\DelegateApps\ThreadingDemo\obj\Debug\net5.0\ThreadingDemo.csprojAssemblyReference.cache
+E:\epsilon-dotnet\codes\day-11\DelegateApps\ThreadingDemo\obj\Debug\net5.0\ThreadingDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\epsilon-dotnet\codes\day-11\DelegateApps\ThreadingDemo\obj\Debug\net5.0\ThreadingDemo.AssemblyInfoInputs.cache
+E:\epsilon-dotnet\codes\day-11\DelegateApps\ThreadingDemo\obj\Debug\net5.0\ThreadingDemo.AssemblyInfo.cs
+E:\epsilon-dotnet\codes\day-11\DelegateApps\ThreadingDemo\obj\Debug\net5.0\ThreadingDemo.csproj.CoreCompileInputs.cache
+E:\epsilon-dotnet\codes\day-11\DelegateApps\ThreadingDemo\obj\Debug\net5.0\ThreadingDemo.dll
+E:\epsilon-dotnet\codes\day-11\DelegateApps\ThreadingDemo\obj\Debug\net5.0\ref\ThreadingDemo.dll
+E:\epsilon-dotnet\codes\day-11\DelegateApps\ThreadingDemo\obj\Debug\net5.0\ThreadingDemo.pdb
+E:\epsilon-dotnet\codes\day-11\DelegateApps\ThreadingDemo\obj\Debug\net5.0\ThreadingDemo.genruntimeconfig.cache
