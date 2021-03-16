@@ -1,0 +1,52 @@
+<div style="margin-top: 100px; margin-left: 50px; margin-right: 160px;">
+    <div style="float: left;">
+        <table id='tblEntry'>
+            <tr>
+                <td>Id: &nbsp; </td>
+                <td><input type="text" id='txtId' /></td>
+            </tr>
+            <tr>
+                <td>Name: &nbsp; </td>
+                <td><input type="text" id='txtName' /></td>
+            </tr>
+            <tr>
+                <td>Basic Salary: &nbsp; </td>
+                <td><input type="text" id='txtBasic' /></td>
+            </tr>
+            <tr>
+                <td>Da Salary: &nbsp; </td>
+                <td><input type="text" id='txtDa' /></td>
+            </tr>
+            <tr>
+                <td>Hra Salary: &nbsp; </td>
+                <td><input type="text" id='txtHra' /></td>
+            </tr>
+            <tr>
+                <td colspan="2">
+                    <input type="button" id='btnAdd' value="Add Record" onclick="addRecord()" />
+                </td>
+            </tr>
+        </table>
+    </div>
+    <div style="float: right;">
+        <input type="button" value="Show Records" id='btnShow' onclick="showRecords()" />
+        <br />
+        <Select id='ddlEmployee' onchange="sortEmployees()">
+            <option selected value="-1">--select--</option>
+
+        </Select>
+        <br />
+        <table id='tblRecords'>
+            <tr id='trHeader'>
+                <td>Id</td>
+                <td>Name</td>
+                <td>Basic</td>
+                <td>Da</td>
+                <td>Hra</td>
+                <td>Salary</td>
+            </tr>
+
+        </table>
+
+    </div>
+</div>

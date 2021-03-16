@@ -1,0 +1,41 @@
+input[type="text"] {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: small;
+  background-color: brown;
+}
+
+.tableStyle {
+  box-shadow: 3px;
+  border: 3px solid black;
+  border-radius: 5px;
+  background-color: beige;
+  text-align: left;
+  font-family: "Courier New", Courier, monospace;
+  font-size: medium;
+  font-weight: bold;
+}
+
+/* #tblRecords > tr > td {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: medium;
+  color: blue;
+} */
+/*pseudo class (state if an element) */
+
+#tblRecords tr:nth-child(2) {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: medium;
+  color: blue;
+}
+#tblRecords tr:nth-child(3) {
+  font-family: "Courier New", Courier, monospace;
+  font-size: large;
+  color: red;
+}
+body {
+  background-color: aquamarine;
+}
+
+#tblEntry input[type="text"]:hover {
+  background-color: blue;
+}

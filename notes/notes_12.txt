@@ -12,3 +12,158 @@ hra:
 button --> click to calculate salary
 //output: <name> has salary of <salary>
 
+JS:
+	data types: number, boolean, object, string, function
+	operators
+	statements - if, else, switch, while, do..while, for, forin
+	keywords (var)
+	es6 keyowrds: const, let
+	es6 other: template literals, `${<dynamic expression}`, arrow operator
+	array in JS:
+		 a. const arr = [1,2,3,4];
+		 b. const arr = new Array(1,2,3,4);
+			arr.push(item)
+			arr.sort(<compareFn>)
+			arr.splice(...)
+	objects in JS:
+		a. literal syntax
+		let obj = {
+			name:'joy',
+			id:1
+		}
+		b. constructor functions syntax:
+		function person(name,id,age){
+			//value
+			this.personName = name;
+			this.personId = id;
+			this.personAge = age;
+			//functional
+			this.print = function(){
+				return `Name:${this.personName}`
+			}
+		}
+		const anilPerson = new person("anil",1,30);
+
+		access value properties of an object:
+		console.log(anilPerson.personName)
+		console.log(anilPerson["personName"])
+
+		access functional properties of an object:
+		anilPerson.print();
+
+		iterating through an object (in JS, every object is an arry of proerties):
+		for(const propName in anilPerson){
+			const propValue = anilPerson[propName];
+		}
+
+
+	functions
+		- regular
+		- contsructor
+
+DOM APIs:
+	what is DOM?
+	some DOM APIS:
+		createElement()
+		createAttribute()
+		setAttribute()
+		getElementById()
+		getElementsByName()
+		appendChild()
+		innerHTML
+	how to..
+		dynamically generate td elements
+		dynamically populating value in td element
+		dynamically creating a table row (tr)
+		dynamically adding td's in a row (tr)
+		dynamically adding row (tr) in a table
+		dynamically creating an attribute and setting the attribute to an element
+		dynamically creating a option elements
+		dynamically adding option elements to a select element
+		fetching all options
+		picking up a selected option
+
+CSS - Cascading style sheet
+	- inline
+	- outline
+		- but same file
+		- and different file (outfile)
+
+	3rd party CSS file (bootstrap)
+
+style
+	style-name: style-value
+	key: value
+
+	background-color:blue
+	text-alignment: center
+
+	in-line
+	<element style="background-color:blue;text-alignment: center"/>
+
+	out-line but un the same HTML file
+	<style> //body, head
+	  //element selector
+	   button, input[type='button'] {
+		background-color:blue;
+		text-alignment: center;
+           }
+
+           //id selector
+	   #btnFirst {
+		background-color:blue;
+		text-alignment: center;
+	   }
+
+	   //class selector
+	   .myStyle{
+		background-color:blue;
+		text-alignment: center;
+           }
+	</style>
+
+	<body>
+		<button>Click</button>
+		<input type='button' value='Click'/>
+	</body>
+
+	<body>
+		<button id='btnFirst'>Click</button>
+		<input type='button' id='btnSecond' value='Click'/>
+	</body>
+
+	<body>
+		<button id='btnFirst' class="myStyle">Click</button>
+		<input type='button' class="myStyle" id='btnSecond' value='Click'/>
+	</body>
+
+	out-file:
+	sample.css
+	//element selector
+	   button, input[type='button'] {
+		background-color:blue;
+		text-alignment: center;
+           }
+
+           //id selector
+	   #btnFirst {
+		background-color:blue;
+		text-alignment: center;
+	   }
+
+	   //class selector
+	   .myStyle{
+		background-color:blue;
+		text-alignment: center;
+           }
+
+	HTML file: index.html
+	<head>
+		<link .../>
+	</head>
+	
+
+
+
+
+
