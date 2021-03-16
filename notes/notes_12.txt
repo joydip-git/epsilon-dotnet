@@ -1,0 +1,14 @@
+HTML, JS, CSS
+ASP.NET MVC Core
+
+entry form:
+
+name:
+id:
+basic:
+da:
+hra:
+
+button --> click to calculate salary
+//output: <name> has salary of <salary>
+
