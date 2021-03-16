@@ -1,8 +1,33 @@
-var employees = [];
-function getElement(elementId) {
-    return document.getElementById(elementId);
+//there is no scoping of variables in JS
+//hoisting
+// var a = 10;
+// for (var i = 0; i < 2; i++) {
+//     var a = 20;
+//     console.log(a)
+// }
+// console.log(a)
+
+//let keyword helps you to declare scoped variables (2015 - ES6)
+let a = 10;
+for (let i = 0; i < 2; i++) {
+    let a = 20;
+    console.log(a)
 }
-function getValue(element) {
+console.log(a)
+
+//ES6 (2015)
+const m = 10;
+//m = 20;
+console.log(m)
+const arr = [10, 20];
+//arr = [1, 2, 3]
+arr.push(1);
+console.log(arr)
+
+
+var employees = [];
+var getElement = (elementId) => document.getElementById(elementId);
+var getValue = (element) => {
     return element.value;
 }
 
@@ -125,17 +150,33 @@ function sortEmployees() {
     }
     var emp = employees[0];
 
-    var str='';
-    
-
     var sortedArray = null;
-    switch (selectedCriteria) {
+    switch (selectedCriteria.text) {
         case "EMPLOYEENAME":
-            sortedArray = employees.sort()
+            //arrow operator (2015 - ES6)
+            sortedArray = employees.sort((e1, e2) => {
+                if (e1.employeeName !== e2.employeeName) {
+                    if (e1.employeeName > e2.employeeName)
+                        return 1;
+                    else
+                        return -1;
+                }
+                else
+                    return 0;
+            })
             break;
 
         case "EMPLOYEEID":
-            sortedArray = employees.sort(e => e.employeeId);
+            sortedArray = employees.sort((e1, e2) => {
+                if (e1.employeeId !== e2.employeeId) {
+                    if (e1.employeeId > e2.employeeId)
+                        return 1;
+                    else
+                        return -1;
+                }
+                else
+                    return 0;
+            });
             break;
 
         case "EMPLOYEEBASICPAY":
@@ -151,7 +192,16 @@ function sortEmployees() {
             break;
 
         case "EMPLOYEESALARY":
-            sortedArray = employees.sort(e => e.employeeSalary);
+            sortedArray = employees.sort((e1, e2) => {
+                if (e1.employeeSalary !== e2.employeeSalary) {
+                    if (e1.employeeSalary > e2.employeeSalary)
+                        return 1;
+                    else
+                        return -1;
+                }
+                else
+                    return 0;
+            });
             break;
 
         default:
