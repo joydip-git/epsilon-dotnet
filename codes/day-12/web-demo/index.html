@@ -10,6 +10,17 @@
 
 <body>
     <!-- 3 &lt; 5 &amp; 5 &gt; 2 -->
+    <div>
+        <input type="radio" value="Add" id="radioAdd" name="calculationRadios" />
+        &nbsp;Add&nbsp;
+        <input type="radio" value="Subtract" id="radioSubtract" name="calculationRadios" />
+        &nbsp;Subtract&nbsp;
+        <input type="radio" value="Multiply" id="radioMultiply" name="calculationRadios" />
+        &nbsp;Multiply&nbsp;
+        <input type="radio" value="Divide" id="radioDivide" name="calculationRadios" />
+        &nbsp;Divide
+    </div>
+    <br /><br />
     <table id="tblCalculation">
         <tr id="trFirstValue">
             <td id='tdFirstValue'>Enter 1st Value: &nbsp;</td>
@@ -24,9 +35,15 @@
             </td>
         </tr>
         <tr id='trButton'>
-            <td colspan="2" id="tdButton">
+            <!-- <td colspan="2" id="tdButton"> -->
+            <td id="tdButton">
                 <center>
-                    <input type="button" id="btnClick" name="btnClick" value="Click" onclick="butonClicked()" />
+                    <input type="button" id="btnClick" name="btnClick" value="Calculate" onclick="butonClicked()" />
+                </center>
+            </td>
+            <td>
+                <center>
+                    <input type="button" id="btnResult" name="btnResult" value="Show All Results" onclick="showAllClicked()" />
                 </center>
             </td>
         </tr>
