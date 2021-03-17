@@ -1,0 +1,7 @@
+E:\epsilon-dotnet\codes\day-13\SampleWeb\SampleWeb\bin\SampleWeb.dll.config
+E:\epsilon-dotnet\codes\day-13\SampleWeb\SampleWeb\bin\SampleWeb.dll
+E:\epsilon-dotnet\codes\day-13\SampleWeb\SampleWeb\bin\SampleWeb.pdb
+E:\epsilon-dotnet\codes\day-13\SampleWeb\SampleWeb\obj\Debug\SampleWeb.csprojAssemblyReference.cache
+E:\epsilon-dotnet\codes\day-13\SampleWeb\SampleWeb\obj\Debug\SampleWeb.csproj.CoreCompileInputs.cache
+E:\epsilon-dotnet\codes\day-13\SampleWeb\SampleWeb\obj\Debug\SampleWeb.dll
+E:\epsilon-dotnet\codes\day-13\SampleWeb\SampleWeb\obj\Debug\SampleWeb.pdb

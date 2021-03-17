@@ -1,0 +1,31 @@
+.NET Framework:
+
+ASP.NET: (system.web)
+	Resource-centric approach (requesting a resource, such as a page, a image, some other file, etc.)
+	Code-behond file is tightly attached with UI, since it is code-behind for UI (yiu are writing code to handle certain server control events)
+	This code is hard to test
+	Does not provide ant separate technique to segregate your data access, business and UI logic. It's you who do the segregation (using layered or tiered architecture)
+       Url: http://localhost:54616/ProductRecords.aspx
+
+ASP.NET MVC: (system.web.mvc)
+	UI code --> View (file)
+	Data --> Model (file/files)
+	bridge between data and UI --> controller (will not involve UI specific coding, very easier to test) (file)
+
+        philosophical difference:
+        data centric NOT resource centric
+
+	No resource -centric approach (we don't request for a FILE, we rather call a method)
+        URL: http://localhost:54616/Proucts/GetProducts (human readable)
+
+	http://amazon.in/products/category/mobiles/all?filterby=oppo
+	http://amazon.in/products/mobiles.aspx?filterby=oppo
+        http://amazon.in/products/oppomobiles.aspx
+
+.Net Core:
+-------------------------
+asp.net core
+asp.net mvc core
+
+
+
