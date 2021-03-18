@@ -1,0 +1,117 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ExtensionMethodUse/1.0.0": {
+        "dependencies": {
+          "CalculationLibrary": "1.0.0",
+          "CalculationLibraryExtended": "1.0.0",
+          "DataAccess.Contracts": "1.0.0",
+          "DataAccess.Contracts.Extension": "1.0.0",
+          "DataAccess.Database": "1.0.0",
+          "DataAccess.File": "1.0.0",
+          "ProductLibrary": "1.0.0"
+        },
+        "runtime": {
+          "ExtensionMethodUse.dll": {}
+        }
+      },
+      "CalculationLibrary/1.0.0": {
+        "runtime": {
+          "CalculationLibrary.dll": {}
+        }
+      },
+      "CalculationLibraryExtended/1.0.0": {
+        "dependencies": {
+          "CalculationLibrary": "1.0.0"
+        },
+        "runtime": {
+          "CalculationLibraryExtended.dll": {}
+        }
+      },
+      "DataAccess.Contracts/1.0.0": {
+        "runtime": {
+          "DataAccess.Contracts.dll": {}
+        }
+      },
+      "DataAccess.Contracts.Extension/1.0.0": {
+        "dependencies": {
+          "DataAccess.Contracts": "1.0.0",
+          "ProductLibrary": "1.0.0"
+        },
+        "runtime": {
+          "DataAccess.Contracts.Extension.dll": {}
+        }
+      },
+      "DataAccess.Database/1.0.0": {
+        "dependencies": {
+          "DataAccess.Contracts": "1.0.0",
+          "ProductLibrary": "1.0.0"
+        },
+        "runtime": {
+          "DataAccess.Database.dll": {}
+        }
+      },
+      "DataAccess.File/1.0.0": {
+        "dependencies": {
+          "DataAccess.Contracts": "1.0.0",
+          "ProductLibrary": "1.0.0"
+        },
+        "runtime": {
+          "DataAccess.File.dll": {}
+        }
+      },
+      "ProductLibrary/1.0.0": {
+        "runtime": {
+          "ProductLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExtensionMethodUse/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CalculationLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CalculationLibraryExtended/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DataAccess.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DataAccess.Contracts.Extension/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DataAccess.Database/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DataAccess.File/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ProductLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,226 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "CalculationLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/CalculationLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CalculationLibrary.dll": {}
+        }
+      },
+      "CalculationLibraryExtended/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "CalculationLibrary": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/CalculationLibraryExtended.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CalculationLibraryExtended.dll": {}
+        }
+      },
+      "DataAccess.Contracts/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/DataAccess.Contracts.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DataAccess.Contracts.dll": {}
+        }
+      },
+      "DataAccess.Contracts.Extension/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "DataAccess.Contracts": "1.0.0",
+          "ProductLibrary": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/DataAccess.Contracts.Extension.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DataAccess.Contracts.Extension.dll": {}
+        }
+      },
+      "DataAccess.Database/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "DataAccess.Contracts": "1.0.0",
+          "ProductLibrary": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/DataAccess.Database.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DataAccess.Database.dll": {}
+        }
+      },
+      "DataAccess.File/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "DataAccess.Contracts": "1.0.0",
+          "ProductLibrary": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/DataAccess.File.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DataAccess.File.dll": {}
+        }
+      },
+      "ProductLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/ProductLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ProductLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CalculationLibrary/1.0.0": {
+      "type": "project",
+      "path": "../CalculationLibrary/CalculationLibrary.csproj",
+      "msbuildProject": "../CalculationLibrary/CalculationLibrary.csproj"
+    },
+    "CalculationLibraryExtended/1.0.0": {
+      "type": "project",
+      "path": "../CalculationLibraryExtended/CalculationLibraryExtended.csproj",
+      "msbuildProject": "../CalculationLibraryExtended/CalculationLibraryExtended.csproj"
+    },
+    "DataAccess.Contracts/1.0.0": {
+      "type": "project",
+      "path": "../DataAccess.Contracts/DataAccess.Contracts.csproj",
+      "msbuildProject": "../DataAccess.Contracts/DataAccess.Contracts.csproj"
+    },
+    "DataAccess.Contracts.Extension/1.0.0": {
+      "type": "project",
+      "path": "../DataAccess.Contracts.Extension/DataAccess.Contracts.Extension.csproj",
+      "msbuildProject": "../DataAccess.Contracts.Extension/DataAccess.Contracts.Extension.csproj"
+    },
+    "DataAccess.Database/1.0.0": {
+      "type": "project",
+      "path": "../DataAccess.Database/DataAccess.Database.csproj",
+      "msbuildProject": "../DataAccess.Database/DataAccess.Database.csproj"
+    },
+    "DataAccess.File/1.0.0": {
+      "type": "project",
+      "path": "../DataAccess.File/DataAccess.File.csproj",
+      "msbuildProject": "../DataAccess.File/DataAccess.File.csproj"
+    },
+    "ProductLibrary/1.0.0": {
+      "type": "project",
+      "path": "../ProductLibrary/ProductLibrary.csproj",
+      "msbuildProject": "../ProductLibrary/ProductLibrary.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "CalculationLibrary >= 1.0.0",
+      "CalculationLibraryExtended >= 1.0.0",
+      "DataAccess.Contracts >= 1.0.0",
+      "DataAccess.Contracts.Extension >= 1.0.0",
+      "DataAccess.Database >= 1.0.0",
+      "DataAccess.File >= 1.0.0",
+      "ProductLibrary >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\joydip\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "E:\\epsilon-dotnet\\codes\\day-14\\CSharpNewFeatures\\ExtensionMethodUse\\ExtensionMethodUse.csproj",
+      "projectName": "ExtensionMethodUse",
+      "projectPath": "E:\\epsilon-dotnet\\codes\\day-14\\CSharpNewFeatures\\ExtensionMethodUse\\ExtensionMethodUse.csproj",
+      "packagesPath": "C:\\Users\\joydip\\.nuget\\packages\\",
+      "outputPath": "E:\\epsilon-dotnet\\codes\\day-14\\CSharpNewFeatures\\ExtensionMethodUse\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\joydip\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "E:\\epsilon-dotnet\\codes\\day-14\\CSharpNewFeatures\\CalculationLibraryExtended\\CalculationLibraryExtended.csproj": {
+              "projectPath": "E:\\epsilon-dotnet\\codes\\day-14\\CSharpNewFeatures\\CalculationLibraryExtended\\CalculationLibraryExtended.csproj"
+            },
+            "E:\\epsilon-dotnet\\codes\\day-14\\CSharpNewFeatures\\CalculationLibrary\\CalculationLibrary.csproj": {
+              "projectPath": "E:\\epsilon-dotnet\\codes\\day-14\\CSharpNewFeatures\\CalculationLibrary\\CalculationLibrary.csproj"
+            },
+            "E:\\epsilon-dotnet\\codes\\day-14\\CSharpNewFeatures\\DataAccess.Contracts.Extension\\DataAccess.Contracts.Extension.csproj": {
+              "projectPath": "E:\\epsilon-dotnet\\codes\\day-14\\CSharpNewFeatures\\DataAccess.Contracts.Extension\\DataAccess.Contracts.Extension.csproj"
+            },
+            "E:\\epsilon-dotnet\\codes\\day-14\\CSharpNewFeatures\\DataAccess.Contracts\\DataAccess.Contracts.csproj": {
+              "projectPath": "E:\\epsilon-dotnet\\codes\\day-14\\CSharpNewFeatures\\DataAccess.Contracts\\DataAccess.Contracts.csproj"
+            },
+            "E:\\epsilon-dotnet\\codes\\day-14\\CSharpNewFeatures\\DataAccess.Database\\DataAccess.Database.csproj": {
+              "projectPath": "E:\\epsilon-dotnet\\codes\\day-14\\CSharpNewFeatures\\DataAccess.Database\\DataAccess.Database.csproj"
+            },
+            "E:\\epsilon-dotnet\\codes\\day-14\\CSharpNewFeatures\\DataAccess.File\\DataAccess.File.csproj": {
+              "projectPath": "E:\\epsilon-dotnet\\codes\\day-14\\CSharpNewFeatures\\DataAccess.File\\DataAccess.File.csproj"
+            },
+            "E:\\epsilon-dotnet\\codes\\day-14\\CSharpNewFeatures\\ProductLibrary\\ProductLibrary.csproj": {
+              "projectPath": "E:\\epsilon-dotnet\\codes\\day-14\\CSharpNewFeatures\\ProductLibrary\\ProductLibrary.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

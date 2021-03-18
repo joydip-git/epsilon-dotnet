@@ -1,0 +1,17 @@
+E:\epsilon-dotnet\codes\day-14\CSharpNewFeatures\DataAccess.Contracts.Extension\bin\Debug\net5.0\DataAccess.Contracts.Extension.deps.json
+E:\epsilon-dotnet\codes\day-14\CSharpNewFeatures\DataAccess.Contracts.Extension\bin\Debug\net5.0\DataAccess.Contracts.Extension.dll
+E:\epsilon-dotnet\codes\day-14\CSharpNewFeatures\DataAccess.Contracts.Extension\bin\Debug\net5.0\ref\DataAccess.Contracts.Extension.dll
+E:\epsilon-dotnet\codes\day-14\CSharpNewFeatures\DataAccess.Contracts.Extension\bin\Debug\net5.0\DataAccess.Contracts.Extension.pdb
+E:\epsilon-dotnet\codes\day-14\CSharpNewFeatures\DataAccess.Contracts.Extension\bin\Debug\net5.0\DataAccess.Contracts.dll
+E:\epsilon-dotnet\codes\day-14\CSharpNewFeatures\DataAccess.Contracts.Extension\bin\Debug\net5.0\ProductLibrary.dll
+E:\epsilon-dotnet\codes\day-14\CSharpNewFeatures\DataAccess.Contracts.Extension\bin\Debug\net5.0\DataAccess.Contracts.pdb
+E:\epsilon-dotnet\codes\day-14\CSharpNewFeatures\DataAccess.Contracts.Extension\bin\Debug\net5.0\ProductLibrary.pdb
+E:\epsilon-dotnet\codes\day-14\CSharpNewFeatures\DataAccess.Contracts.Extension\obj\Debug\net5.0\DataAccess.Contracts.Extension.GeneratedMSBuildEditorConfig.editorconfig
+E:\epsilon-dotnet\codes\day-14\CSharpNewFeatures\DataAccess.Contracts.Extension\obj\Debug\net5.0\DataAccess.Contracts.Extension.AssemblyInfoInputs.cache
+E:\epsilon-dotnet\codes\day-14\CSharpNewFeatures\DataAccess.Contracts.Extension\obj\Debug\net5.0\DataAccess.Contracts.Extension.AssemblyInfo.cs
+E:\epsilon-dotnet\codes\day-14\CSharpNewFeatures\DataAccess.Contracts.Extension\obj\Debug\net5.0\DataAccess.Contracts.Extension.csproj.CoreCompileInputs.cache
+E:\epsilon-dotnet\codes\day-14\CSharpNewFeatures\DataAccess.Contracts.Extension\obj\Debug\net5.0\DataAccess.Contracts.Extension.csproj.CopyComplete
+E:\epsilon-dotnet\codes\day-14\CSharpNewFeatures\DataAccess.Contracts.Extension\obj\Debug\net5.0\DataAccess.Contracts.Extension.dll
+E:\epsilon-dotnet\codes\day-14\CSharpNewFeatures\DataAccess.Contracts.Extension\obj\Debug\net5.0\ref\DataAccess.Contracts.Extension.dll
+E:\epsilon-dotnet\codes\day-14\CSharpNewFeatures\DataAccess.Contracts.Extension\obj\Debug\net5.0\DataAccess.Contracts.Extension.pdb
+E:\epsilon-dotnet\codes\day-14\CSharpNewFeatures\DataAccess.Contracts.Extension\obj\Debug\net5.0\DataAccess.Contracts.Extension.csprojAssemblyReference.cache

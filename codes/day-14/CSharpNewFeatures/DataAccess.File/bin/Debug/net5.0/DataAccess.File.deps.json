@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "DataAccess.File/1.0.0": {
+        "dependencies": {
+          "DataAccess.Contracts": "1.0.0",
+          "ProductLibrary": "1.0.0"
+        },
+        "runtime": {
+          "DataAccess.File.dll": {}
+        }
+      },
+      "DataAccess.Contracts/1.0.0": {
+        "runtime": {
+          "DataAccess.Contracts.dll": {}
+        }
+      },
+      "ProductLibrary/1.0.0": {
+        "runtime": {
+          "ProductLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DataAccess.File/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DataAccess.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ProductLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

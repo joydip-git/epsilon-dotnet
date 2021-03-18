@@ -2,7 +2,7 @@ C# 2.0 (2005 - .net 2.0) CLR 2.0
 -----------------------------------------------
 1. anonymous method
 2. generics
-3. generic collections
+3. generic collections (Count, Sort(),Remove(), Add()....)
 4. partial keyword
 ......
 

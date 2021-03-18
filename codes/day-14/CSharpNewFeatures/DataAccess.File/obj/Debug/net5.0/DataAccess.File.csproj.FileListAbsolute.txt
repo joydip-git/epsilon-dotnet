@@ -1,0 +1,17 @@
+E:\epsilon-dotnet\codes\day-14\CSharpNewFeatures\DataAccess.File\bin\Debug\net5.0\DataAccess.File.deps.json
+E:\epsilon-dotnet\codes\day-14\CSharpNewFeatures\DataAccess.File\bin\Debug\net5.0\DataAccess.File.dll
+E:\epsilon-dotnet\codes\day-14\CSharpNewFeatures\DataAccess.File\bin\Debug\net5.0\ref\DataAccess.File.dll
+E:\epsilon-dotnet\codes\day-14\CSharpNewFeatures\DataAccess.File\bin\Debug\net5.0\DataAccess.File.pdb
+E:\epsilon-dotnet\codes\day-14\CSharpNewFeatures\DataAccess.File\bin\Debug\net5.0\DataAccess.Contracts.dll
+E:\epsilon-dotnet\codes\day-14\CSharpNewFeatures\DataAccess.File\bin\Debug\net5.0\ProductLibrary.dll
+E:\epsilon-dotnet\codes\day-14\CSharpNewFeatures\DataAccess.File\bin\Debug\net5.0\DataAccess.Contracts.pdb
+E:\epsilon-dotnet\codes\day-14\CSharpNewFeatures\DataAccess.File\bin\Debug\net5.0\ProductLibrary.pdb
+E:\epsilon-dotnet\codes\day-14\CSharpNewFeatures\DataAccess.File\obj\Debug\net5.0\DataAccess.File.csprojAssemblyReference.cache
+E:\epsilon-dotnet\codes\day-14\CSharpNewFeatures\DataAccess.File\obj\Debug\net5.0\DataAccess.File.GeneratedMSBuildEditorConfig.editorconfig
+E:\epsilon-dotnet\codes\day-14\CSharpNewFeatures\DataAccess.File\obj\Debug\net5.0\DataAccess.File.AssemblyInfoInputs.cache
+E:\epsilon-dotnet\codes\day-14\CSharpNewFeatures\DataAccess.File\obj\Debug\net5.0\DataAccess.File.AssemblyInfo.cs
+E:\epsilon-dotnet\codes\day-14\CSharpNewFeatures\DataAccess.File\obj\Debug\net5.0\DataAccess.File.csproj.CoreCompileInputs.cache
+E:\epsilon-dotnet\codes\day-14\CSharpNewFeatures\DataAccess.File\obj\Debug\net5.0\DataAccess.File.csproj.CopyComplete
+E:\epsilon-dotnet\codes\day-14\CSharpNewFeatures\DataAccess.File\obj\Debug\net5.0\DataAccess.File.dll
+E:\epsilon-dotnet\codes\day-14\CSharpNewFeatures\DataAccess.File\obj\Debug\net5.0\ref\DataAccess.File.dll
+E:\epsilon-dotnet\codes\day-14\CSharpNewFeatures\DataAccess.File\obj\Debug\net5.0\DataAccess.File.pdb

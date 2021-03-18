@@ -1,0 +1,17 @@
+E:\epsilon-dotnet\codes\day-14\CSharpNewFeatures\DataAccess.Database\bin\Debug\net5.0\DataAccess.Database.deps.json
+E:\epsilon-dotnet\codes\day-14\CSharpNewFeatures\DataAccess.Database\bin\Debug\net5.0\DataAccess.Database.dll
+E:\epsilon-dotnet\codes\day-14\CSharpNewFeatures\DataAccess.Database\bin\Debug\net5.0\ref\DataAccess.Database.dll
+E:\epsilon-dotnet\codes\day-14\CSharpNewFeatures\DataAccess.Database\bin\Debug\net5.0\DataAccess.Database.pdb
+E:\epsilon-dotnet\codes\day-14\CSharpNewFeatures\DataAccess.Database\bin\Debug\net5.0\DataAccess.Contracts.dll
+E:\epsilon-dotnet\codes\day-14\CSharpNewFeatures\DataAccess.Database\bin\Debug\net5.0\ProductLibrary.dll
+E:\epsilon-dotnet\codes\day-14\CSharpNewFeatures\DataAccess.Database\bin\Debug\net5.0\DataAccess.Contracts.pdb
+E:\epsilon-dotnet\codes\day-14\CSharpNewFeatures\DataAccess.Database\bin\Debug\net5.0\ProductLibrary.pdb
+E:\epsilon-dotnet\codes\day-14\CSharpNewFeatures\DataAccess.Database\obj\Debug\net5.0\DataAccess.Database.csprojAssemblyReference.cache
+E:\epsilon-dotnet\codes\day-14\CSharpNewFeatures\DataAccess.Database\obj\Debug\net5.0\DataAccess.Database.GeneratedMSBuildEditorConfig.editorconfig
+E:\epsilon-dotnet\codes\day-14\CSharpNewFeatures\DataAccess.Database\obj\Debug\net5.0\DataAccess.Database.AssemblyInfoInputs.cache
+E:\epsilon-dotnet\codes\day-14\CSharpNewFeatures\DataAccess.Database\obj\Debug\net5.0\DataAccess.Database.AssemblyInfo.cs
+E:\epsilon-dotnet\codes\day-14\CSharpNewFeatures\DataAccess.Database\obj\Debug\net5.0\DataAccess.Database.csproj.CoreCompileInputs.cache
+E:\epsilon-dotnet\codes\day-14\CSharpNewFeatures\DataAccess.Database\obj\Debug\net5.0\DataAccess.Database.csproj.CopyComplete
+E:\epsilon-dotnet\codes\day-14\CSharpNewFeatures\DataAccess.Database\obj\Debug\net5.0\DataAccess.Database.dll
+E:\epsilon-dotnet\codes\day-14\CSharpNewFeatures\DataAccess.Database\obj\Debug\net5.0\ref\DataAccess.Database.dll
+E:\epsilon-dotnet\codes\day-14\CSharpNewFeatures\DataAccess.Database\obj\Debug\net5.0\DataAccess.Database.pdb

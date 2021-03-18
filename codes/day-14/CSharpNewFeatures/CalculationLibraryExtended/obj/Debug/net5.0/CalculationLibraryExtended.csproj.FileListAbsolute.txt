@@ -1,0 +1,15 @@
+E:\epsilon-dotnet\codes\day-14\CSharpNewFeatures\CalculationLibraryExtended\bin\Debug\net5.0\CalculationLibraryExtended.deps.json
+E:\epsilon-dotnet\codes\day-14\CSharpNewFeatures\CalculationLibraryExtended\bin\Debug\net5.0\CalculationLibraryExtended.dll
+E:\epsilon-dotnet\codes\day-14\CSharpNewFeatures\CalculationLibraryExtended\bin\Debug\net5.0\ref\CalculationLibraryExtended.dll
+E:\epsilon-dotnet\codes\day-14\CSharpNewFeatures\CalculationLibraryExtended\bin\Debug\net5.0\CalculationLibraryExtended.pdb
+E:\epsilon-dotnet\codes\day-14\CSharpNewFeatures\CalculationLibraryExtended\obj\Debug\net5.0\CalculationLibraryExtended.csprojAssemblyReference.cache
+E:\epsilon-dotnet\codes\day-14\CSharpNewFeatures\CalculationLibraryExtended\obj\Debug\net5.0\CalculationLibraryExtended.GeneratedMSBuildEditorConfig.editorconfig
+E:\epsilon-dotnet\codes\day-14\CSharpNewFeatures\CalculationLibraryExtended\obj\Debug\net5.0\CalculationLibraryExtended.AssemblyInfoInputs.cache
+E:\epsilon-dotnet\codes\day-14\CSharpNewFeatures\CalculationLibraryExtended\obj\Debug\net5.0\CalculationLibraryExtended.AssemblyInfo.cs
+E:\epsilon-dotnet\codes\day-14\CSharpNewFeatures\CalculationLibraryExtended\obj\Debug\net5.0\CalculationLibraryExtended.csproj.CoreCompileInputs.cache
+E:\epsilon-dotnet\codes\day-14\CSharpNewFeatures\CalculationLibraryExtended\obj\Debug\net5.0\CalculationLibraryExtended.dll
+E:\epsilon-dotnet\codes\day-14\CSharpNewFeatures\CalculationLibraryExtended\obj\Debug\net5.0\ref\CalculationLibraryExtended.dll
+E:\epsilon-dotnet\codes\day-14\CSharpNewFeatures\CalculationLibraryExtended\obj\Debug\net5.0\CalculationLibraryExtended.pdb
+E:\epsilon-dotnet\codes\day-14\CSharpNewFeatures\CalculationLibraryExtended\bin\Debug\net5.0\CalculationLibrary.dll
+E:\epsilon-dotnet\codes\day-14\CSharpNewFeatures\CalculationLibraryExtended\bin\Debug\net5.0\CalculationLibrary.pdb
+E:\epsilon-dotnet\codes\day-14\CSharpNewFeatures\CalculationLibraryExtended\obj\Debug\net5.0\CalculationLibraryExtended.csproj.CopyComplete
