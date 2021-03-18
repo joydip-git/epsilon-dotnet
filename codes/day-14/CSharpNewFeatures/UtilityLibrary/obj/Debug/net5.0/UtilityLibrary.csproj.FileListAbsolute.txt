@@ -1,0 +1,11 @@
+E:\epsilon-dotnet\codes\day-14\CSharpNewFeatures\UtilityLibrary\bin\Debug\net5.0\UtilityLibrary.deps.json
+E:\epsilon-dotnet\codes\day-14\CSharpNewFeatures\UtilityLibrary\bin\Debug\net5.0\UtilityLibrary.dll
+E:\epsilon-dotnet\codes\day-14\CSharpNewFeatures\UtilityLibrary\bin\Debug\net5.0\ref\UtilityLibrary.dll
+E:\epsilon-dotnet\codes\day-14\CSharpNewFeatures\UtilityLibrary\bin\Debug\net5.0\UtilityLibrary.pdb
+E:\epsilon-dotnet\codes\day-14\CSharpNewFeatures\UtilityLibrary\obj\Debug\net5.0\UtilityLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\epsilon-dotnet\codes\day-14\CSharpNewFeatures\UtilityLibrary\obj\Debug\net5.0\UtilityLibrary.AssemblyInfoInputs.cache
+E:\epsilon-dotnet\codes\day-14\CSharpNewFeatures\UtilityLibrary\obj\Debug\net5.0\UtilityLibrary.AssemblyInfo.cs
+E:\epsilon-dotnet\codes\day-14\CSharpNewFeatures\UtilityLibrary\obj\Debug\net5.0\UtilityLibrary.csproj.CoreCompileInputs.cache
+E:\epsilon-dotnet\codes\day-14\CSharpNewFeatures\UtilityLibrary\obj\Debug\net5.0\UtilityLibrary.dll
+E:\epsilon-dotnet\codes\day-14\CSharpNewFeatures\UtilityLibrary\obj\Debug\net5.0\ref\UtilityLibrary.dll
+E:\epsilon-dotnet\codes\day-14\CSharpNewFeatures\UtilityLibrary\obj\Debug\net5.0\UtilityLibrary.pdb

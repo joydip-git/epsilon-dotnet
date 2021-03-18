@@ -9,3 +9,4 @@ E:\epsilon-dotnet\codes\day-14\CSharpNewFeatures\DataAccess.Contracts\obj\Debug\
 E:\epsilon-dotnet\codes\day-14\CSharpNewFeatures\DataAccess.Contracts\obj\Debug\net5.0\DataAccess.Contracts.dll
 E:\epsilon-dotnet\codes\day-14\CSharpNewFeatures\DataAccess.Contracts\obj\Debug\net5.0\ref\DataAccess.Contracts.dll
 E:\epsilon-dotnet\codes\day-14\CSharpNewFeatures\DataAccess.Contracts\obj\Debug\net5.0\DataAccess.Contracts.pdb
+E:\epsilon-dotnet\codes\day-14\CSharpNewFeatures\DataAccess.Contracts\obj\Debug\net5.0\DataAccess.Contracts.csprojAssemblyReference.cache

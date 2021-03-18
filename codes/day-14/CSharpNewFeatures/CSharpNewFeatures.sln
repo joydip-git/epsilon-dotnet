@@ -3,23 +3,25 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31105.61
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpNewFeatures", "CSharpNewFeatures\CSharpNewFeatures.csproj", "{A24EDE87-65FA-4210-AAD3-51FD49DDF749}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSharpNewFeatures", "CSharpNewFeatures\CSharpNewFeatures.csproj", "{A24EDE87-65FA-4210-AAD3-51FD49DDF749}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtensionMethodUse", "ExtensionMethodUse\ExtensionMethodUse.csproj", "{B3654365-AB3D-4F92-A192-CF2BB8DDE454}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExtensionMethodUse", "ExtensionMethodUse\ExtensionMethodUse.csproj", "{B3654365-AB3D-4F92-A192-CF2BB8DDE454}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculationLibrary", "CalculationLibrary\CalculationLibrary.csproj", "{3DB2AE54-F8DC-44A9-B330-08637EF30FAD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CalculationLibrary", "CalculationLibrary\CalculationLibrary.csproj", "{3DB2AE54-F8DC-44A9-B330-08637EF30FAD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculationLibraryExtended", "CalculationLibraryExtended\CalculationLibraryExtended.csproj", "{3B7773B6-1131-4253-A4F3-03A876F03CFA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CalculationLibraryExtended", "CalculationLibraryExtended\CalculationLibraryExtended.csproj", "{3B7773B6-1131-4253-A4F3-03A876F03CFA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess.Contracts", "DataAccess.Contracts\DataAccess.Contracts.csproj", "{E778596D-18A5-4BF4-A92B-170B8BC27D67}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataAccess.Contracts", "DataAccess.Contracts\DataAccess.Contracts.csproj", "{E778596D-18A5-4BF4-A92B-170B8BC27D67}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess.File", "DataAccess.File\DataAccess.File.csproj", "{659A198F-1CB8-4A56-9CE4-A92CA02B5B08}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataAccess.File", "DataAccess.File\DataAccess.File.csproj", "{659A198F-1CB8-4A56-9CE4-A92CA02B5B08}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductLibrary", "ProductLibrary\ProductLibrary.csproj", "{E4F1D5A5-FD84-40C6-A021-D9F6501C5E80}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProductLibrary", "ProductLibrary\ProductLibrary.csproj", "{E4F1D5A5-FD84-40C6-A021-D9F6501C5E80}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess.Database", "DataAccess.Database\DataAccess.Database.csproj", "{4F1BD987-57FB-486E-8D27-CD3F68AF2067}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataAccess.Database", "DataAccess.Database\DataAccess.Database.csproj", "{4F1BD987-57FB-486E-8D27-CD3F68AF2067}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess.Contracts.Extension", "DataAccess.Contracts.Extension\DataAccess.Contracts.Extension.csproj", "{1D661997-1A32-41E4-B564-7BBF20EF9ADC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataAccess.Contracts.Extension", "DataAccess.Contracts.Extension\DataAccess.Contracts.Extension.csproj", "{1D661997-1A32-41E4-B564-7BBF20EF9ADC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UtilityLibrary", "UtilityLibrary\UtilityLibrary.csproj", "{06A20052-91EF-4632-929D-8A7AE7C6D90A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{1D661997-1A32-41E4-B564-7BBF20EF9ADC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1D661997-1A32-41E4-B564-7BBF20EF9ADC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1D661997-1A32-41E4-B564-7BBF20EF9ADC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06A20052-91EF-4632-929D-8A7AE7C6D90A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06A20052-91EF-4632-929D-8A7AE7C6D90A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06A20052-91EF-4632-929D-8A7AE7C6D90A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06A20052-91EF-4632-929D-8A7AE7C6D90A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

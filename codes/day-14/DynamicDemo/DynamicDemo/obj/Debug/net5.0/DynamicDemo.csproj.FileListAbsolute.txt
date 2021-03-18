@@ -1,0 +1,15 @@
+E:\epsilon-dotnet\codes\day-14\DynamicDemo\DynamicDemo\bin\Debug\net5.0\DynamicDemo.exe
+E:\epsilon-dotnet\codes\day-14\DynamicDemo\DynamicDemo\bin\Debug\net5.0\DynamicDemo.deps.json
+E:\epsilon-dotnet\codes\day-14\DynamicDemo\DynamicDemo\bin\Debug\net5.0\DynamicDemo.runtimeconfig.json
+E:\epsilon-dotnet\codes\day-14\DynamicDemo\DynamicDemo\bin\Debug\net5.0\DynamicDemo.runtimeconfig.dev.json
+E:\epsilon-dotnet\codes\day-14\DynamicDemo\DynamicDemo\bin\Debug\net5.0\DynamicDemo.dll
+E:\epsilon-dotnet\codes\day-14\DynamicDemo\DynamicDemo\bin\Debug\net5.0\ref\DynamicDemo.dll
+E:\epsilon-dotnet\codes\day-14\DynamicDemo\DynamicDemo\bin\Debug\net5.0\DynamicDemo.pdb
+E:\epsilon-dotnet\codes\day-14\DynamicDemo\DynamicDemo\obj\Debug\net5.0\DynamicDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\epsilon-dotnet\codes\day-14\DynamicDemo\DynamicDemo\obj\Debug\net5.0\DynamicDemo.AssemblyInfoInputs.cache
+E:\epsilon-dotnet\codes\day-14\DynamicDemo\DynamicDemo\obj\Debug\net5.0\DynamicDemo.AssemblyInfo.cs
+E:\epsilon-dotnet\codes\day-14\DynamicDemo\DynamicDemo\obj\Debug\net5.0\DynamicDemo.csproj.CoreCompileInputs.cache
+E:\epsilon-dotnet\codes\day-14\DynamicDemo\DynamicDemo\obj\Debug\net5.0\DynamicDemo.dll
+E:\epsilon-dotnet\codes\day-14\DynamicDemo\DynamicDemo\obj\Debug\net5.0\ref\DynamicDemo.dll
+E:\epsilon-dotnet\codes\day-14\DynamicDemo\DynamicDemo\obj\Debug\net5.0\DynamicDemo.pdb
+E:\epsilon-dotnet\codes\day-14\DynamicDemo\DynamicDemo\obj\Debug\net5.0\DynamicDemo.genruntimeconfig.cache

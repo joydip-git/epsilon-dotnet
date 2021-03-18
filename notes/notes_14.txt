@@ -27,4 +27,28 @@ C# 5.0 (2012 - .NET 4.5)
 1. dynamic 
 2. async and await
 
+C# 7.0:
+---------------
+static import
+
+C# 8.0:
+------------------------------
+static local function
+
+App_Start:
+	RouteConfig.cs
+	public class RouteConfig
+	{
+		public static RegisterRoutes(RouteCollection routes)
+		{
+			routes.MapRoute(
+				Default:"Default1",
+				url:"{controller}/{action}/{x}",
+				defaults:new {controller="Products", action="Index", x=RouteParameter.Optional}
+			);
+		}
+	}
+
+
+
 

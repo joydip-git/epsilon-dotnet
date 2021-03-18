@@ -9,3 +9,4 @@ E:\epsilon-dotnet\codes\day-14\CSharpNewFeatures\ProductLibrary\obj\Debug\net5.0
 E:\epsilon-dotnet\codes\day-14\CSharpNewFeatures\ProductLibrary\obj\Debug\net5.0\ProductLibrary.dll
 E:\epsilon-dotnet\codes\day-14\CSharpNewFeatures\ProductLibrary\obj\Debug\net5.0\ref\ProductLibrary.dll
 E:\epsilon-dotnet\codes\day-14\CSharpNewFeatures\ProductLibrary\obj\Debug\net5.0\ProductLibrary.pdb
+E:\epsilon-dotnet\codes\day-14\CSharpNewFeatures\ProductLibrary\obj\Debug\net5.0\ProductLibrary.csprojAssemblyReference.cache
