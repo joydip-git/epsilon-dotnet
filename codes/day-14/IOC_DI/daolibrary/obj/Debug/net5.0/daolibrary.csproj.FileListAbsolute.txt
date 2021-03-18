@@ -1,0 +1,12 @@
+e:\epsilon-dotnet\codes\day-14\IOC_DI\daolibrary\bin\Debug\net5.0\daolibrary.deps.json
+E:\epsilon-dotnet\codes\day-14\IOC_DI\daolibrary\bin\Debug\net5.0\daolibrary.dll
+e:\epsilon-dotnet\codes\day-14\IOC_DI\daolibrary\bin\Debug\net5.0\ref\daolibrary.dll
+E:\epsilon-dotnet\codes\day-14\IOC_DI\daolibrary\bin\Debug\net5.0\daolibrary.pdb
+E:\epsilon-dotnet\codes\day-14\IOC_DI\daolibrary\obj\Debug\net5.0\daolibrary.csprojAssemblyReference.cache
+E:\epsilon-dotnet\codes\day-14\IOC_DI\daolibrary\obj\Debug\net5.0\daolibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\epsilon-dotnet\codes\day-14\IOC_DI\daolibrary\obj\Debug\net5.0\daolibrary.AssemblyInfoInputs.cache
+E:\epsilon-dotnet\codes\day-14\IOC_DI\daolibrary\obj\Debug\net5.0\daolibrary.AssemblyInfo.cs
+E:\epsilon-dotnet\codes\day-14\IOC_DI\daolibrary\obj\Debug\net5.0\daolibrary.csproj.CoreCompileInputs.cache
+E:\epsilon-dotnet\codes\day-14\IOC_DI\daolibrary\obj\Debug\net5.0\daolibrary.dll
+E:\epsilon-dotnet\codes\day-14\IOC_DI\daolibrary\obj\Debug\net5.0\ref\daolibrary.dll
+E:\epsilon-dotnet\codes\day-14\IOC_DI\daolibrary\obj\Debug\net5.0\daolibrary.pdb

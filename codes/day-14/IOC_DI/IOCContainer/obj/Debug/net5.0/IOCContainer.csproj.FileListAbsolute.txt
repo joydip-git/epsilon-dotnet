@@ -1,0 +1,15 @@
+e:\epsilon-dotnet\codes\day-14\IOC_DI\IOCContainer\bin\Debug\net5.0\IOCContainer.deps.json
+e:\epsilon-dotnet\codes\day-14\IOC_DI\IOCContainer\bin\Debug\net5.0\IOCContainer.dll
+e:\epsilon-dotnet\codes\day-14\IOC_DI\IOCContainer\bin\Debug\net5.0\ref\IOCContainer.dll
+e:\epsilon-dotnet\codes\day-14\IOC_DI\IOCContainer\bin\Debug\net5.0\IOCContainer.pdb
+e:\epsilon-dotnet\codes\day-14\IOC_DI\IOCContainer\bin\Debug\net5.0\daolibrary.dll
+e:\epsilon-dotnet\codes\day-14\IOC_DI\IOCContainer\bin\Debug\net5.0\daolibrary.pdb
+e:\epsilon-dotnet\codes\day-14\IOC_DI\IOCContainer\obj\Debug\net5.0\IOCContainer.csprojAssemblyReference.cache
+e:\epsilon-dotnet\codes\day-14\IOC_DI\IOCContainer\obj\Debug\net5.0\IOCContainer.GeneratedMSBuildEditorConfig.editorconfig
+e:\epsilon-dotnet\codes\day-14\IOC_DI\IOCContainer\obj\Debug\net5.0\IOCContainer.AssemblyInfoInputs.cache
+e:\epsilon-dotnet\codes\day-14\IOC_DI\IOCContainer\obj\Debug\net5.0\IOCContainer.AssemblyInfo.cs
+e:\epsilon-dotnet\codes\day-14\IOC_DI\IOCContainer\obj\Debug\net5.0\IOCContainer.csproj.CoreCompileInputs.cache
+e:\epsilon-dotnet\codes\day-14\IOC_DI\IOCContainer\obj\Debug\net5.0\IOCContainer.csproj.CopyComplete
+e:\epsilon-dotnet\codes\day-14\IOC_DI\IOCContainer\obj\Debug\net5.0\IOCContainer.dll
+e:\epsilon-dotnet\codes\day-14\IOC_DI\IOCContainer\obj\Debug\net5.0\ref\IOCContainer.dll
+e:\epsilon-dotnet\codes\day-14\IOC_DI\IOCContainer\obj\Debug\net5.0\IOCContainer.pdb

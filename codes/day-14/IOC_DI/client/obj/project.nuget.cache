@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "LAfqw9H2GZVaQgB5V7P9Y+XJqufpeaxkr2rWIAkBvJzfIIa0Dw/hBSs7ZfdHZ55yYV7bjR7pB1sMIdMdvSoejA==",
+  "success": true,
+  "projectFilePath": "E:\\epsilon-dotnet\\codes\\day-14\\IOC_DI\\client\\client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joydip\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
+    "C:\\Users\\joydip\\.nuget\\packages\\unity\\5.11.10\\unity.5.11.10.nupkg.sha512"
+  ],
+  "logs": []
+}
