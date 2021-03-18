@@ -1,0 +1,11 @@
+E:\epsilon-dotnet\codes\day-14\ProductManagementSystem\ProductManagementSystem.Container\bin\Debug\net5.0\ProductManagementSystem.Container.deps.json
+E:\epsilon-dotnet\codes\day-14\ProductManagementSystem\ProductManagementSystem.Container\bin\Debug\net5.0\ProductManagementSystem.Container.dll
+E:\epsilon-dotnet\codes\day-14\ProductManagementSystem\ProductManagementSystem.Container\bin\Debug\net5.0\ref\ProductManagementSystem.Container.dll
+E:\epsilon-dotnet\codes\day-14\ProductManagementSystem\ProductManagementSystem.Container\bin\Debug\net5.0\ProductManagementSystem.Container.pdb
+E:\epsilon-dotnet\codes\day-14\ProductManagementSystem\ProductManagementSystem.Container\obj\Debug\net5.0\ProductManagementSystem.Container.GeneratedMSBuildEditorConfig.editorconfig
+E:\epsilon-dotnet\codes\day-14\ProductManagementSystem\ProductManagementSystem.Container\obj\Debug\net5.0\ProductManagementSystem.Container.AssemblyInfoInputs.cache
+E:\epsilon-dotnet\codes\day-14\ProductManagementSystem\ProductManagementSystem.Container\obj\Debug\net5.0\ProductManagementSystem.Container.AssemblyInfo.cs
+E:\epsilon-dotnet\codes\day-14\ProductManagementSystem\ProductManagementSystem.Container\obj\Debug\net5.0\ProductManagementSystem.Container.csproj.CoreCompileInputs.cache
+E:\epsilon-dotnet\codes\day-14\ProductManagementSystem\ProductManagementSystem.Container\obj\Debug\net5.0\ProductManagementSystem.Container.dll
+E:\epsilon-dotnet\codes\day-14\ProductManagementSystem\ProductManagementSystem.Container\obj\Debug\net5.0\ref\ProductManagementSystem.Container.dll
+E:\epsilon-dotnet\codes\day-14\ProductManagementSystem\ProductManagementSystem.Container\obj\Debug\net5.0\ProductManagementSystem.Container.pdb

@@ -1,0 +1,15 @@
+E:\epsilon-dotnet\codes\day-14\ProductManagementSystem\ProductManagementSystem.DAL\bin\Debug\net5.0\ProductManagementSystem.DAL.deps.json
+E:\epsilon-dotnet\codes\day-14\ProductManagementSystem\ProductManagementSystem.DAL\bin\Debug\net5.0\ProductManagementSystem.DAL.dll
+E:\epsilon-dotnet\codes\day-14\ProductManagementSystem\ProductManagementSystem.DAL\bin\Debug\net5.0\ref\ProductManagementSystem.DAL.dll
+E:\epsilon-dotnet\codes\day-14\ProductManagementSystem\ProductManagementSystem.DAL\bin\Debug\net5.0\ProductManagementSystem.DAL.pdb
+E:\epsilon-dotnet\codes\day-14\ProductManagementSystem\ProductManagementSystem.DAL\obj\Debug\net5.0\ProductManagementSystem.DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\epsilon-dotnet\codes\day-14\ProductManagementSystem\ProductManagementSystem.DAL\obj\Debug\net5.0\ProductManagementSystem.DAL.AssemblyInfoInputs.cache
+E:\epsilon-dotnet\codes\day-14\ProductManagementSystem\ProductManagementSystem.DAL\obj\Debug\net5.0\ProductManagementSystem.DAL.AssemblyInfo.cs
+E:\epsilon-dotnet\codes\day-14\ProductManagementSystem\ProductManagementSystem.DAL\obj\Debug\net5.0\ProductManagementSystem.DAL.csproj.CoreCompileInputs.cache
+E:\epsilon-dotnet\codes\day-14\ProductManagementSystem\ProductManagementSystem.DAL\obj\Debug\net5.0\ProductManagementSystem.DAL.dll
+E:\epsilon-dotnet\codes\day-14\ProductManagementSystem\ProductManagementSystem.DAL\obj\Debug\net5.0\ref\ProductManagementSystem.DAL.dll
+E:\epsilon-dotnet\codes\day-14\ProductManagementSystem\ProductManagementSystem.DAL\obj\Debug\net5.0\ProductManagementSystem.DAL.pdb
+E:\epsilon-dotnet\codes\day-14\ProductManagementSystem\ProductManagementSystem.DAL\bin\Debug\net5.0\ProductManagementSystem.Entities.dll
+E:\epsilon-dotnet\codes\day-14\ProductManagementSystem\ProductManagementSystem.DAL\bin\Debug\net5.0\ProductManagementSystem.Entities.pdb
+E:\epsilon-dotnet\codes\day-14\ProductManagementSystem\ProductManagementSystem.DAL\obj\Debug\net5.0\ProductManagementSystem.DAL.csprojAssemblyReference.cache
+E:\epsilon-dotnet\codes\day-14\ProductManagementSystem\ProductManagementSystem.DAL\obj\Debug\net5.0\ProductManagementSystem.DAL.csproj.CopyComplete

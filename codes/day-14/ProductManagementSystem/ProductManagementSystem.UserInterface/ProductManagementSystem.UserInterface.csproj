@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ProductManagementSystem.BL\ProductManagementSystem.BL.csproj" />
+    <ProjectReference Include="..\ProductManagementSystem.Container\ProductManagementSystem.Container.csproj" />
+    <ProjectReference Include="..\ProductManagementSystem.Entities\ProductManagementSystem.Entities.csproj" />
+  </ItemGroup>
+
+</Project>

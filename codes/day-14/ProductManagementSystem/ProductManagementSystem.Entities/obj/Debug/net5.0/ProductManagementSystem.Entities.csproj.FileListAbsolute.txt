@@ -1,0 +1,11 @@
+E:\epsilon-dotnet\codes\day-14\ProductManagementSystem\ProductManagementSystem.Entities\bin\Debug\net5.0\ProductManagementSystem.Entities.deps.json
+E:\epsilon-dotnet\codes\day-14\ProductManagementSystem\ProductManagementSystem.Entities\bin\Debug\net5.0\ProductManagementSystem.Entities.dll
+E:\epsilon-dotnet\codes\day-14\ProductManagementSystem\ProductManagementSystem.Entities\bin\Debug\net5.0\ref\ProductManagementSystem.Entities.dll
+E:\epsilon-dotnet\codes\day-14\ProductManagementSystem\ProductManagementSystem.Entities\bin\Debug\net5.0\ProductManagementSystem.Entities.pdb
+E:\epsilon-dotnet\codes\day-14\ProductManagementSystem\ProductManagementSystem.Entities\obj\Debug\net5.0\ProductManagementSystem.Entities.GeneratedMSBuildEditorConfig.editorconfig
+E:\epsilon-dotnet\codes\day-14\ProductManagementSystem\ProductManagementSystem.Entities\obj\Debug\net5.0\ProductManagementSystem.Entities.AssemblyInfoInputs.cache
+E:\epsilon-dotnet\codes\day-14\ProductManagementSystem\ProductManagementSystem.Entities\obj\Debug\net5.0\ProductManagementSystem.Entities.AssemblyInfo.cs
+E:\epsilon-dotnet\codes\day-14\ProductManagementSystem\ProductManagementSystem.Entities\obj\Debug\net5.0\ProductManagementSystem.Entities.csproj.CoreCompileInputs.cache
+E:\epsilon-dotnet\codes\day-14\ProductManagementSystem\ProductManagementSystem.Entities\obj\Debug\net5.0\ProductManagementSystem.Entities.dll
+E:\epsilon-dotnet\codes\day-14\ProductManagementSystem\ProductManagementSystem.Entities\obj\Debug\net5.0\ref\ProductManagementSystem.Entities.dll
+E:\epsilon-dotnet\codes\day-14\ProductManagementSystem\ProductManagementSystem.Entities\obj\Debug\net5.0\ProductManagementSystem.Entities.pdb

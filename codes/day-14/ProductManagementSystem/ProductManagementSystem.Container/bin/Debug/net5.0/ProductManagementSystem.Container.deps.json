@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ProductManagementSystem.Container/1.0.0": {
+        "runtime": {
+          "ProductManagementSystem.Container.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ProductManagementSystem.Container/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
