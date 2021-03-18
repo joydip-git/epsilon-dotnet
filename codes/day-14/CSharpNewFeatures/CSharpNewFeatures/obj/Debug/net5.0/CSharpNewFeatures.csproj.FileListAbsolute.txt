@@ -1,0 +1,16 @@
+E:\epsilon-dotnet\codes\day-14\CSharpNewFeatures\CSharpNewFeatures\bin\Debug\net5.0\CSharpNewFeatures.exe
+E:\epsilon-dotnet\codes\day-14\CSharpNewFeatures\CSharpNewFeatures\bin\Debug\net5.0\CSharpNewFeatures.deps.json
+E:\epsilon-dotnet\codes\day-14\CSharpNewFeatures\CSharpNewFeatures\bin\Debug\net5.0\CSharpNewFeatures.runtimeconfig.json
+E:\epsilon-dotnet\codes\day-14\CSharpNewFeatures\CSharpNewFeatures\bin\Debug\net5.0\CSharpNewFeatures.runtimeconfig.dev.json
+E:\epsilon-dotnet\codes\day-14\CSharpNewFeatures\CSharpNewFeatures\bin\Debug\net5.0\CSharpNewFeatures.dll
+E:\epsilon-dotnet\codes\day-14\CSharpNewFeatures\CSharpNewFeatures\bin\Debug\net5.0\ref\CSharpNewFeatures.dll
+E:\epsilon-dotnet\codes\day-14\CSharpNewFeatures\CSharpNewFeatures\bin\Debug\net5.0\CSharpNewFeatures.pdb
+E:\epsilon-dotnet\codes\day-14\CSharpNewFeatures\CSharpNewFeatures\obj\Debug\net5.0\CSharpNewFeatures.GeneratedMSBuildEditorConfig.editorconfig
+E:\epsilon-dotnet\codes\day-14\CSharpNewFeatures\CSharpNewFeatures\obj\Debug\net5.0\CSharpNewFeatures.AssemblyInfoInputs.cache
+E:\epsilon-dotnet\codes\day-14\CSharpNewFeatures\CSharpNewFeatures\obj\Debug\net5.0\CSharpNewFeatures.AssemblyInfo.cs
+E:\epsilon-dotnet\codes\day-14\CSharpNewFeatures\CSharpNewFeatures\obj\Debug\net5.0\CSharpNewFeatures.csproj.CoreCompileInputs.cache
+E:\epsilon-dotnet\codes\day-14\CSharpNewFeatures\CSharpNewFeatures\obj\Debug\net5.0\CSharpNewFeatures.dll
+E:\epsilon-dotnet\codes\day-14\CSharpNewFeatures\CSharpNewFeatures\obj\Debug\net5.0\ref\CSharpNewFeatures.dll
+E:\epsilon-dotnet\codes\day-14\CSharpNewFeatures\CSharpNewFeatures\obj\Debug\net5.0\CSharpNewFeatures.pdb
+E:\epsilon-dotnet\codes\day-14\CSharpNewFeatures\CSharpNewFeatures\obj\Debug\net5.0\CSharpNewFeatures.genruntimeconfig.cache
+E:\epsilon-dotnet\codes\day-14\CSharpNewFeatures\CSharpNewFeatures\obj\Debug\net5.0\CSharpNewFeatures.csprojAssemblyReference.cache

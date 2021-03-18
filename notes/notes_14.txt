@@ -1,0 +1,30 @@
+C# 2.0 (2005 - .net 2.0) CLR 2.0
+-----------------------------------------------
+1. anonymous method
+2. generics
+3. generic collections
+4. partial keyword
+......
+
+C# 3.0 (2007/2008 - .NET 3.0/.NET 3.5) CLR 2.0 [AJAX etc.]
+----------------------------------------------------------------
+1. var keyword (implicit type and tpe inference)
+2. automatic properties
+3. object and collection initializer
+4. anonymous type
+5. lambda
+6. expression tree
+7. extension method
+8. LINQ (3.5)
+
+C# 4.0 (2010 - .NET 4.0)
+---------------------------------------------------
+1. named arguments
+2. optional arument with default value
+
+C# 5.0 (2012 - .NET 4.5)
+-----------------------------------------------------
+1. dynamic 
+2. async and await
+
+
