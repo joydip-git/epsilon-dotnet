@@ -9,3 +9,4 @@ E:\epsilon-dotnet\codes\day-14\ProductManagementSystem\ProductManagementSystem.C
 E:\epsilon-dotnet\codes\day-14\ProductManagementSystem\ProductManagementSystem.Container\obj\Debug\net5.0\ProductManagementSystem.Container.dll
 E:\epsilon-dotnet\codes\day-14\ProductManagementSystem\ProductManagementSystem.Container\obj\Debug\net5.0\ref\ProductManagementSystem.Container.dll
 E:\epsilon-dotnet\codes\day-14\ProductManagementSystem\ProductManagementSystem.Container\obj\Debug\net5.0\ProductManagementSystem.Container.pdb
+E:\epsilon-dotnet\codes\day-14\ProductManagementSystem\ProductManagementSystem.Container\obj\Debug\net5.0\ProductManagementSystem.Container.csprojAssemblyReference.cache

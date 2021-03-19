@@ -1,0 +1,80 @@
+C#
+	OOP in C#
+	Generics, Collections and Generic Collections
+	delegates and events
+	Reflection, Serialization (idea)
+	Lambda and other new features (implcitly typed variable, object initializer, auto-implemented property, dynamic, anonymous type, extension method, async/await, ..)
+
+web development
+
+https://www.codeproject.com/Articles/73728/ASP-NET-Application-and-Page-Life-Cycle-2
+https://www.codeproject.com/Articles/741228/MVC-Application-Lifecycle
+
+
+.NET Framework:
+FCL/BCL
+CLR
+Language specific compilers (csc, vbc,..)
+	asp.net framework
+		web page/form based app
+		web service application
+		
+	+ mvc 
+		web form app (Razor syntax)
+		web api application
+
+resuest processing and request pipeline
+
+.net core (2017)
+	CoreFx (library)
+	CoreClr (runtime)
+	Roslyn (C# & VB)
+
+asp.net core framework:
+	architecture and request processing different from asp.net framework
+
+	basically Console applictaion:
+	web app hosted here in the process of console application
+	after the CA starts and a process is allocated, inside there will be separate host for web application (with the help of host builder)
+	now we can host asp.net core web application
+
+	IHostBuilder --> IWebHostBuilder-->WebHost (IHost)
+	internal web server (Kestrel)
+	
+.exe
+.dll
+
+.dll
+
+	Hosted by web server (an executable)
+	there will be a process for web server
+	in that process the DLL of web app will be loaded
+	and web pages out of that will be processed
+
+class MyModule:IHttpModule
+{
+	public void Dispose(){}
+	public void Init (System.Web.HttpApplication context)
+	{
+		context.BeginRequest +=new EventHandler(this.Application_BeginRequest);
+		context.AuthenticateRequest +=new EventHandler(this.Application_AuthenticateRequest);
+	}
+        public void Application_BeginRequest(object sender, EventArges e)
+	{
+		
+	}
+	public void Application_AuthenticateRequest(object sender, EventArges e)
+	{
+		context.Request
+	}
+}
+
+module class must be registered in web.config
+<httpModules>
+	<add module="" />
+</httpModules>
+
+
+
+
+

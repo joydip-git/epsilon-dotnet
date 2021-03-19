@@ -21,7 +21,7 @@ namespace ProductManagementSystem.BL.Implementation
         }
         public Product Fetch(int id)
         {
-            throw new NotImplementedException();
+            return dao.Get(id);
         }
 
         public List<Product> FetchAll()
@@ -31,17 +31,17 @@ namespace ProductManagementSystem.BL.Implementation
 
         public bool Insert(Product obj)
         {
-            throw new NotImplementedException();
+            return dao.Add(obj);
         }
 
         public bool Modify(Product obj)
         {
-            throw new NotImplementedException();
+            return dao.Update(obj);
         }
 
         public bool Remove(int id)
         {
-            throw new NotImplementedException();
+            return dao.Delete(id);
         }
     }
 }

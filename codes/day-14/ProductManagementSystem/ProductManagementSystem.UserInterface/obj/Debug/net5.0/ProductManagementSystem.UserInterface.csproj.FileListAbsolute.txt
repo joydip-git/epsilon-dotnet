@@ -30,3 +30,12 @@ E:\epsilon-dotnet\codes\day-14\ProductManagementSystem\ProductManagementSystem.U
 E:\epsilon-dotnet\codes\day-14\ProductManagementSystem\ProductManagementSystem.UserInterface\bin\Debug\net5.0\ProductManagementSystem.Entities.pdb
 E:\epsilon-dotnet\codes\day-14\ProductManagementSystem\ProductManagementSystem.UserInterface\bin\Debug\net5.0\ProductManagementSystem.DAL.pdb
 E:\epsilon-dotnet\codes\day-14\ProductManagementSystem\ProductManagementSystem.UserInterface\obj\Debug\net5.0\ProductManagementSystem.UserInterface.csproj.CopyComplete
+E:\epsilon-dotnet\codes\day-14\ProductManagementSystem\ProductManagementSystem.UserInterface\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\epsilon-dotnet\codes\day-14\ProductManagementSystem\ProductManagementSystem.UserInterface\bin\Debug\net5.0\System.Data.SqlClient.dll
+E:\epsilon-dotnet\codes\day-14\ProductManagementSystem\ProductManagementSystem.UserInterface\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\epsilon-dotnet\codes\day-14\ProductManagementSystem\ProductManagementSystem.UserInterface\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+E:\epsilon-dotnet\codes\day-14\ProductManagementSystem\ProductManagementSystem.UserInterface\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+E:\epsilon-dotnet\codes\day-14\ProductManagementSystem\ProductManagementSystem.UserInterface\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+E:\epsilon-dotnet\codes\day-14\ProductManagementSystem\ProductManagementSystem.UserInterface\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\epsilon-dotnet\codes\day-14\ProductManagementSystem\ProductManagementSystem.UserInterface\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\epsilon-dotnet\codes\day-14\ProductManagementSystem\ProductManagementSystem.UserInterface\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
