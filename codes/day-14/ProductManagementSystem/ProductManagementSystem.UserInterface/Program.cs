@@ -14,16 +14,23 @@ namespace ProductManagementSystem.UserInterface
     {
         public static void Main(string[] args)
         {
-            //IBusinessManager<Product> businessManager = new IOCContainer().Create<IBusinessManager<Product>, ProductBusinessManager>();
-            //var result = businessManager.FetchAll().First();
-            CreateHostBuilder(args).Build().Run();            
+            //CreateHostBuilder(args).Build().Run();
+            IHostBuilder builder = CreateHostBuilder(args);
+            IHost webHost = builder.Build();
+            webHost.Run();
         }
 
-        public static IHostBuilder CreateHostBuilder(string[] args) =>
-            Host.CreateDefaultBuilder(args)
-                .ConfigureWebHostDefaults(webBuilder =>
-                {
-                    webBuilder.UseStartup<Startup>();
-                });
+        public static IHostBuilder CreateHostBuilder(string[] args)
+        {
+            IHostBuilder builder = Host.CreateDefaultBuilder(args);
+            Action<IWebHostBuilder> config = (hb) => hb.UseStartup<Startup>();
+            builder = builder.ConfigureWebHostDefaults(config);
+            return builder;
+            //Host.CreateDefaultBuilder(args)
+            //    .ConfigureWebHostDefaults(webBuilder =>
+            //    {
+            //        webBuilder.UseStartup<Startup>();
+            //    });
+        }
     }
 }

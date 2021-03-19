@@ -7,7 +7,7 @@ namespace ProductManagementSystem.DAL.Utility
 {
     public static class DaoUtility
     {
-        public static string CreateConnectionString()
+        public static string GetConnectionString()
         {            
             try
             {
@@ -16,9 +16,9 @@ namespace ProductManagementSystem.DAL.Utility
 
                 return epsilonDbSetting.ConnectionString;
             }
-            catch (Exception ex)
+            catch (Exception)
             { 
-                throw ex;
+                throw;
             }
         }
 
@@ -46,9 +46,9 @@ namespace ProductManagementSystem.DAL.Utility
                 sqlCommand.CommandType = commandType;
                 return sqlCommand;
             }
-            catch (Exception ex)
+            catch (Exception)
             {
-                throw ex;
+                throw;
             }
         }
 
@@ -74,9 +74,9 @@ namespace ProductManagementSystem.DAL.Utility
             {
                 return ConfigurationManager.AppSettings[keyProcedure];
             }
-            catch (Exception ex)
+            catch (Exception)
             {
-                throw ex;
+                throw;
             }
         }
 
@@ -93,9 +93,9 @@ namespace ProductManagementSystem.DAL.Utility
 
                 return parameter;
             }
-            catch (Exception ex)
+            catch (Exception)
             {
-                throw ex;
+                throw;
             }
         }
     }

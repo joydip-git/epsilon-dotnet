@@ -20,7 +20,12 @@ namespace ProductManagementSystem.UserInterface
         // For more information on how to configure your application, visit https://go.microsoft.com/fwlink/?LinkID=398940
         public void ConfigureServices(IServiceCollection services)
         {
-            
+            //you are asking to create a service (container) whose job is to create instance of Mvc middleware
+            services.AddMvc(options =>
+            {
+                options.EnableEndpointRouting = false;                
+            });
+            services.AddSession();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -32,15 +37,42 @@ namespace ProductManagementSystem.UserInterface
             }
 
             app.UseRouting();
-
+            app.UseSession();
+            //app.UseEndpoints(endpoints =>
+            //{
+            //    endpoints.MapGet("/",)
+            //});
+            //app.UseAuthentication();
+            //app.UseAuthorization();
+            /*
             app.UseEndpoints(endpoints =>
             {
-                endpoints.MapGet("/", async context =>
-                {
-                    IBusinessManager<Product> businessManager = new IOCContainer().Create<IBusinessManager<Product>, ProductBusinessManager>();
-                    var result = businessManager.FetchAll().First();
-                    await context.Response.WriteAsync(result.ToString());
-                });
+                // {controller}/{action}/{id}
+                // http://localhost:12345/Products/GetProduct/1
+                endpoints.MapDefaultControllerRoute();
+                //RequestDelegate del = async (context) =>
+                // {
+                //     Task t = context.Response.WriteAsync("Welcome to MVC");
+                //     await t;
+                // };
+                //endpoints.MapGet("/getresult", del);
+                //endpoints.MapGet("/", async context =>
+                //{
+                //    await context.Response.WriteAsync("Welcome to MVC");
+                //});                
+            });
+            */
+            app.UseMvc(configure =>
+            {
+                //configure.MapRoute(
+                //    name: "HomeRoute",
+                //    template: "{controller=Products}/{action=Index}/{data?}"
+                //    );
+                configure.MapRoute(
+                   name: "HomeRoute",
+                   template: "{controller}/{action}/{data?}",
+                   defaults: new { controller = "Products", action = "Index" }
+                   );
             });
         }
     }

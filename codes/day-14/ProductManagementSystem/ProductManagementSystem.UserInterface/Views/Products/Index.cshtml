@@ -1,0 +1,39 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Index</title>
+</head>
+<body>
+    <h2>Menu</h2>
+    <!--
+        Get All
+        Get a Product
+        Add Product
+        Delete Product
+        Update Product
+      -->
+    <ol style="font-family:'Segoe UI'; font-size:medium;">
+        @*<li>
+            <a href="~/Products/GetAllProducts">Get All Records</a>
+        </li>*@
+        <li>
+            @this.Html.ActionLink("Get All Records", "GetAllProducts")
+        </li>
+        <li>
+            @this.Html.ActionLink("Get a Record", "GetProduct")
+        </li>
+        <li>
+            @this.Html.ActionLink("Add a Record", "AddProductRecord")
+        </li>
+        <li>
+            @this.Html.ActionLink("Delete a Record", "DeleteProductRecord")
+        </li>
+        <li>
+            @this.Html.ActionLink("Update a Record", "UpdateProductRecord")
+        </li>
+    </ol>
+
+</body>
+</html>
+
+

@@ -74,7 +74,46 @@ module class must be registered in web.config
 	<add module="" />
 </httpModules>
 
+Some possible IActionResult-->ActionResult (abstract)
+				ViewResult
+				PartialViewResult
+				ViewComponentResult
+				JsonResult
+				ObjectResult
+				FileResult
+				etc.
+https://www.c-sharpcorner.com/article/action-result-in-asp-net-mvc/
 
+ public JsonResult Index(string data)
+        {
+            JsonResult result = this.Json(new { Name = "Joydip", Subjet = "C#", Data = data });
+            return result;
+            //result.ExecuteResultAsync
+        }
+        public string GetName()
+        {
+            //JsonResult result = this.Json(new { Name = "Joydip", Subjet = "C#" });
+            return "Joydip";
+            //result.ExecuteResultAsync
+        }
+        public int GetValue()
+        {
+            //JsonResult result = this.Json(new { Name = "Joydip", Subjet = "C#" });
+            return 12;
+            //result.ExecuteResultAsync
+        }
+        public ViewResult Show(string data)
+        {
+            this.ViewBag.Id = data;
+            return this.View();
+        }
+
+Technique to pass data from controller to view
+	- ViewBag
+	- ViewData
+	- model binding
+	- Session state
+	- application state
 
 
 

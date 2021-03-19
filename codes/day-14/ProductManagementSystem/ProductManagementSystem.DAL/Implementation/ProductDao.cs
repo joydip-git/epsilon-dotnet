@@ -20,7 +20,7 @@ namespace ProductManagementSystem.DAL.Implementation
             int result = 0;
             try
             {
-                connectionString = CreateConnectionString();
+                connectionString = GetConnectionString();
                 if (connectionString != null && connectionString != string.Empty)
                 {
                     connection = (SqlConnection)CreateConnection(connectionString);
@@ -69,7 +69,7 @@ namespace ProductManagementSystem.DAL.Implementation
             int result = 0;
             try
             {
-                connectionString = CreateConnectionString();
+                connectionString = GetConnectionString();
                 if (connectionString != null && connectionString != string.Empty)
                 {
                     connection = (SqlConnection)CreateConnection(connectionString);
@@ -116,7 +116,7 @@ namespace ProductManagementSystem.DAL.Implementation
 
             try
             {
-                connectionString = CreateConnectionString();
+                connectionString = GetConnectionString();
                 if (connectionString != null && connectionString != string.Empty)
                 {
                     connection = (SqlConnection)CreateConnection(connectionString);
@@ -177,7 +177,7 @@ namespace ProductManagementSystem.DAL.Implementation
 
             try
             {
-                connectionString = CreateConnectionString();
+                connectionString = GetConnectionString();
                 if (connectionString != null && connectionString != string.Empty)
                 {
                     connection = (SqlConnection)CreateConnection(connectionString);
@@ -230,7 +230,7 @@ namespace ProductManagementSystem.DAL.Implementation
             int result = 0;
             try
             {
-                connectionString = CreateConnectionString();
+                connectionString = GetConnectionString();
                 if (connectionString != null && connectionString != string.Empty)
                 {
                     connection = (SqlConnection)CreateConnection(connectionString);
