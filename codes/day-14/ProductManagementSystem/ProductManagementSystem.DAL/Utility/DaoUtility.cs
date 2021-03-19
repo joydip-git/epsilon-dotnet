@@ -11,10 +11,11 @@ namespace ProductManagementSystem.DAL.Utility
         {            
             try
             {
-                var allSettings = ConfigurationManager.ConnectionStrings;
-                var epsilonDbSetting = allSettings["epsilonDbConStr"];
+                //var allSettings = ConfigurationManager.ConnectionStrings;
+                //var epsilonDbSetting = allSettings["epsilonDbConStr"];
 
-                return epsilonDbSetting.ConnectionString;
+                //return epsilonDbSetting.ConnectionString;
+                return "server=joydip-pc;database=epsilondb;integrated security=sspi";
             }
             catch (Exception)
             { 

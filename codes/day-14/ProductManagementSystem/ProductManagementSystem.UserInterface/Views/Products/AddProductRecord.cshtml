@@ -1,11 +1,61 @@
-﻿<!DOCTYPE html>
+﻿@using ProductManagementSystem.UserInterface.Models;
+@model ProductAddViewModel
+<!DOCTYPE html>
 <html>
 <head>
     <title>Add Product</title>
 </head>
 <body>
     <h2>Add a Record</h2>
-   
+
+    @*@using (this.Html.BeginForm(FormMethod.Post,new { controller = "Products", action = "SubmitData" }))*@
+    @using (this.Html.BeginForm())
+    {
+        <table>
+            <tr>
+                <td>
+                    @this.Html.LabelFor(pv => pv.Name)
+                </td>
+                <td>
+                    @this.Html.TextBoxFor(pv => pv.Name)
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    @this.Html.LabelFor(pv => pv.Price)
+                </td>
+                <td>
+                    @this.Html.TextBoxFor(pv => pv.Price)
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    @this.Html.LabelFor(pv => pv.Description)
+                </td>
+                <td>
+                    @this.Html.TextBoxFor(pv => pv.Description)
+                </td>
+            </tr>
+        </table>
+        <input type="submit" value="Add Record" />
+    }
+
+    @*@{
+            if (this.Model != null)
+            {
+                var message = this.Model.Status ? "Added" : "Failed";
+                <span>@message</span>
+            }
+        }*@
+
+    @{ if (this.ViewBag.Status != null)
+        {
+            var message = this.ViewBag.Status ? "Added" : "Failed";
+            <span>@message</span>
+        }
+    }
+
+
 </body>
 </html>
 

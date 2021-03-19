@@ -1,11 +1,42 @@
-﻿<!DOCTYPE html>
+﻿@using System.Collections.Generic
+@using ProductManagementSystem.UserInterface.Models
+
+@*this view is bound to List<ProductModel> type of data*@
+@model List<ProductViewModel>
+
+<!DOCTYPE html>
 <html>
 <head>
     <title>Products</title>
 </head>
 <body>
-    <h2>Records</h2> 
-   
+    <h2>Records</h2>
+    @{
+        var records = this.Model;
+        <table>
+            <thead>
+                <tr>
+                    <td>Name</td>
+                    <td>Id</td>
+                    <td>Price</td>
+                    <td>Description</td>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in records)
+                {
+                    var color = item.PriceColor;
+                    var style = $"background-color:{color}";
+                    <tr style=@style>
+                        <td>@item.Name</td>
+                        <td>@item.Id</td>
+                        <td>@item.Price &nbsp;<span>@item.Caption</span></td>
+                        <td>@item.Description</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    }
 
 </body>
 </html>

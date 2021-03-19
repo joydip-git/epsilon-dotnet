@@ -115,5 +115,14 @@ Technique to pass data from controller to view
 	- Session state
 	- application state
 
+Different types of web applications:
+	Web App with MVC  //services.AddControllersWithViews();
+	Web App with Page Model (Web Form kind of app)   	//services.AddRazorPages();
+	Web API //services.AddControllers();
+
+	any type of the above three:
+	services.AddMvc() //Razor (web page application with MVC)
+
+
 
 

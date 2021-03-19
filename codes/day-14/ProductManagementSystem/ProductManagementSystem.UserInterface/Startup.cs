@@ -21,11 +21,17 @@ namespace ProductManagementSystem.UserInterface
         public void ConfigureServices(IServiceCollection services)
         {
             //you are asking to create a service (container) whose job is to create instance of Mvc middleware
-            services.AddMvc(options =>
-            {
-                options.EnableEndpointRouting = false;                
-            });
-            services.AddSession();
+            //services.AddMvc(options =>
+            //{
+            //    options.EnableEndpointRouting = false;                
+            //});
+            services.AddControllersWithViews();
+            //services.AddControllers();
+            //services.AddRazorPages();
+            
+            
+            //services.AddSession();
+
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -37,7 +43,7 @@ namespace ProductManagementSystem.UserInterface
             }
 
             app.UseRouting();
-            app.UseSession();
+            //app.UseSession();
             //app.UseEndpoints(endpoints =>
             //{
             //    endpoints.MapGet("/",)
@@ -62,6 +68,7 @@ namespace ProductManagementSystem.UserInterface
                 //});                
             });
             */
+            /*
             app.UseMvc(configure =>
             {
                 //configure.MapRoute(
@@ -73,6 +80,17 @@ namespace ProductManagementSystem.UserInterface
                    template: "{controller}/{action}/{data?}",
                    defaults: new { controller = "Products", action = "Index" }
                    );
+            });
+            */
+
+            app.UseEndpoints(endpoints =>
+            {
+                //endpoints.MapRazorPages();
+                // endpoints.MapDefaultControllerRoute();
+                endpoints.MapControllerRoute(
+                    name: "ProductsDefault",
+                    pattern: "{controller}/{action}/{data?}",
+                    defaults: new { controller = "Products", action = "Index" });
             });
         }
     }
